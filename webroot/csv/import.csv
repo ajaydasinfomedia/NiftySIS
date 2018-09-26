@@ -1,0 +1,15 @@
+Username,Email,Password,roll_no,first_name,middle_name,last_name,gender,birth_date,address,city_name,state_name,zip_code,mobile_number,alternet_mobile_number,phone
+john,john@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,9898989898
+elissa,eliss@mymail.com,123,102,Elissa,L,Peter,female,07/02/15,Verona,Ferrara,Ferrara,89891,9999999999,9999999999,9999999999
+john1,john1@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,9898989898
+john2,john2@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,1309055307
+john3,john3@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,1309055308
+john4,john4@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,1309055309
+john5,john5@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,1309055310
+john6,john6@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,1309055311
+john7,john7@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,1309055312
+john8,john8@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,1309055313
+john9,john9@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,1309055314
+john10,john10@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,1309055315
+john11,john11@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,1309055316
+john12,john12@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,1309055317

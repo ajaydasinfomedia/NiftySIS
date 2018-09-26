@@ -1,0 +1,3 @@
+add js file in child theme
+
+http://wordpress.stackexchange.com/questions/177157/i-want-to-enqueue-a-js-file-to-my-child-theme

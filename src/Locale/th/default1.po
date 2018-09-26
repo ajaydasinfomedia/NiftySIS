@@ -1,0 +1,5088 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-12-09 18:56+0530\n"
+"PO-Revision-Date: 2017-12-09 18:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;__(\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controller/AdmissionController.php:50 Controller/CommanController.php:86
+#: Controller/ParentController.php:50 Controller/StaffController.php:42
+#: Controller/StudentController.php:50 Controller/StudentController.php:192
+#: Controller/TeacherController.php:45
+msgid "Duplicate Email id"
+msgstr "รหัสอีเมลที่ซ้ำกัน"
+
+#: Controller/AdmissionController.php:205 Controller/StudentController.php:245
+msgid "Registration Successfully"
+msgstr "ลงทะเบียนเรียบร้อยแล้ว"
+
+#: Controller/AdmissionController.php:273
+msgid "Admission Approved"
+msgstr "เข้ารับการรักษาได้รับการอนุมัติ"
+
+#: Controller/AdmissionController.php:276
+msgid "Forgot Password"
+msgstr "ลืมรหัสผ่าน"
+
+#: Controller/AdmissionController.php:322
+msgid "Admission Approved Successfully"
+msgstr "ประสบความสำเร็จได้รับการอนุมัติการรับสมัคร"
+
+#: Controller/AdmissionController.php:350
+msgid "Username :"
+msgstr "ชื่อผู้ใช้:"
+
+#: Controller/AdmissionController.php:356
+msgid "Password :"
+msgstr "รหัสผ่าน:"
+
+#: Controller/AdmissionController.php:365
+msgid "Send"
+msgstr "ส่ง"
+
+#: Controller/AttendanceController.php:124
+#: Controller/Component/SettingComponent.php:1215
+msgid "Attendance Reminder Alert!"
+msgstr "ผู้เข้าร่วมการแจ้งเตือนการแจ้งเตือน!"
+
+#: Controller/AttendanceController.php:217
+#: Controller/AttendanceController.php:437
+#: Controller/AttendanceController.php:547
+msgid "Attendance Successfully Saved"
+msgstr "ผู้เข้าร่วมการบันทึกเรียบร้อยแล้ว"
+
+#: Controller/AttendanceController.php:223
+#: Controller/AttendanceController.php:443
+#: Controller/AttendanceController.php:553
+msgid "Update Attendance Successfully"
+msgstr "ผู้เข้าร่วมการปรับปรุงเรียบร้อยแล้ว"
+
+#: Controller/ChangepasswordController.php:54
+msgid "Password Successfully Changed"
+msgstr "เปลี่ยนรหัสผ่านเรียบร้อยแล้ว"
+
+#: Controller/ChangepasswordController.php:61
+msgid "Old Password Is Wrong"
+msgstr "รหัสผ่านเก่าเป็นความผิด"
+
+#: Controller/ClassmgtController.php:39
+msgid "Add New Class Successfully"
+msgstr "เพิ่มระดับชั้นใหม่เรียบร้อยแล้ว"
+
+#: Controller/ClassmgtController.php:46
+msgid "Duplicate Class Name"
+msgstr "ชชื่อชั้นซ้ำ"
+
+#: Controller/ClassmgtController.php:88 Controller/CommanController.php:1449
+#: Controller/CommanController.php:1671 Controller/CommanController.php:2080
+#: Controller/CommanController.php:2999 Controller/CommanController.php:3314
+#: Controller/CommanController.php:3925 Controller/CommanController.php:4072
+#: Controller/CommanController.php:4086 Controller/CommanController.php:4114
+#: Controller/CommanController.php:4251 Controller/CommanController.php:4279
+#: Controller/CommanController.php:4403 Controller/CommanController.php:4624
+#: Controller/EventController.php:232 Controller/EventController.php:254
+#: Controller/ExamController.php:60 Controller/ExportController.php:467
+#: Controller/ExportController.php:823 Controller/ExportController.php:837
+#: Controller/FeepaymentController.php:209
+#: Controller/FeepaymentController.php:362
+#: Controller/FeepaymentController.php:398 Controller/GradeController.php:63
+#: Controller/HallController.php:96 Controller/HolidayController.php:69
+#: Controller/HostelController.php:114 Controller/HostelController.php:136
+#: Controller/HostelController.php:272 Controller/HostelController.php:285
+#: Controller/HostelController.php:312 Controller/HostelController.php:447
+#: Controller/HostelController.php:474 Controller/HostelController.php:599
+#: Controller/LibraryController.php:109 Controller/LibraryController.php:293
+#: Controller/MessageController.php:795 Controller/NewsController.php:199
+#: Controller/NoticeController.php:439 Controller/ParentController.php:199
+#: Controller/PaymentController.php:18 Controller/PaymentController.php:295
+#: Controller/StaffController.php:139 Controller/StudentController.php:282
+#: Controller/SubjectController.php:153 Controller/TeacherController.php:177
+#: Controller/TransportController.php:86
+msgid "Record Delete Successfully"
+msgstr "ประสบความสำเร็จในการลบบันทึก"
+
+#: Controller/ClassmgtController.php:111
+msgid "Class Update Successfully"
+msgstr "ระดับการปรับปรุงเรียบร้อยแล้ว"
+
+#: Controller/ClassmgtController.php:125
+msgid "Class Section"
+msgstr "มาตราชั้น"
+
+#: Controller/ClassmgtController.php:141
+msgid "Edit Section"
+msgstr "แก้ไขมาตรา"
+
+#: Controller/ClassmgtController.php:169
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: Controller/ClassmgtController.php:170 Template/Comman/account.ctp:239
+#: Template/Comman/account.ctp:318 Template/Setting/generalsetting.ctp:309
+#: Template/Smssetting/smssetting.ctp:130
+msgid "Save"
+msgstr "บันทึก"
+
+#: Controller/ClassrouteController.php:70
+msgid "Duplicate Record"
+msgstr "บันทึกที่ซ้ำกัน"
+
+#: Controller/ClassrouteController.php:79
+msgid "Add Classroute Successfully Done."
+msgstr "เพิ่ม Classroute เสร็จสิ้นเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:92 Controller/ParentController.php:56
+#: Controller/StaffController.php:48 Controller/StudentController.php:56
+#: Controller/StudentController.php:198 Controller/TeacherController.php:51
+msgid "Duplicate Username"
+msgstr "สำเนาชื่อผู้ใช้"
+
+#: Controller/CommanController.php:140 Controller/StudentController.php:108
+msgid "Student Register Successfully"
+msgstr "นักศึกษาลงทะเบียนเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:185 Controller/StudentController.php:353
+msgid "Student Record Update Successfully"
+msgstr "นักศึกษาบันทึกการปรับปรุงเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:477 Controller/CommanController.php:589
+#: Controller/MarksController.php:110 Controller/MarksController.php:222
+msgid "Add Mark Successfully"
+msgstr "เพิ่มมาร์คเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:508 Controller/CommanController.php:595
+#: Controller/MarksController.php:141 Controller/MarksController.php:228
+msgid "Update Mark Successfully"
+msgstr "มาร์คปรับปรุงเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:628 Controller/MarksController.php:518
+#: Controller/StudentController.php:1097
+#: Template/Attendance/subjectattendance.ctp:160
+#: Template/Attendance/subjectattendance.ctp:168
+#: Template/Classroute/addclassroute.ctp:89
+#: Template/Classroute/updateclassroute.ctp:85
+#: Template/Classroute/updateteacherroute.ctp:90
+#: Template/Comman/addmarks.ctp:154 Template/Comman/addmarks.ctp:162
+#: Template/Comman/studentsubjectattendance.ctp:98
+#: Template/Marks/addmarks.ctp:154 Template/Marks/addmarks.ctp:162
+#: Template/Student/studentsubjectattendance.ctp:89
+#: Template/Student/studentsubjectattendance.ctp:98
+msgid "Select Subject"
+msgstr "เลือกเรื่อง"
+
+#: Controller/CommanController.php:869 Controller/MarksController.php:651
+msgid "Add Subject Mark Successfully"
+msgstr "เพิ่มเรื่องมาร์คเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:875 Controller/MarksController.php:657
+msgid "Update Subject Mark Successfully"
+msgstr "ปรับปรุงเรื่องมาร์คเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:951 Controller/MarksController.php:733
+msgid "Add All Subject Mark Successfully"
+msgstr "เพิ่มทุกเรื่องมาร์คเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:957 Controller/MarksController.php:739
+msgid "Update All Subject Marks Successfully"
+msgstr "อัพเดท Marks เรื่องทั้งหมดเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:1224 Controller/StudentController.php:877
+msgid "SurName"
+msgstr "นามสกุล"
+
+#: Controller/CommanController.php:1229 Controller/StudentController.php:882
+msgid "First Name"
+msgstr "ชื่อจริง"
+
+#: Controller/CommanController.php:1232 Controller/ParentController.php:346
+#: Controller/StudentController.php:885 Template/Attendance/attendance.ctp:138
+#: Template/Attendance/attendance1.ctp:60
+#: Template/Attendance/subjectattendance.ctp:194
+#: Template/Comman/childlist.ctp:96 Template/Comman/feelist.ctp:197
+#: Template/Comman/feelist.ctp:211 Template/Comman/memberlist.ctp:149
+#: Template/Comman/memberlist.ctp:160 Template/Comman/paymentlist.ctp:137
+#: Template/Comman/paymentlist.ctp:153 Template/Comman/studentlist.ctp:142
+#: Template/Comman/studentlist.ctp:163 Template/Feepayment/feelist.ctp:294
+#: Template/Feepayment/feelist.ctp:309 Template/Feepayment/feetypelist.ctp:138
+#: Template/Feepayment/feetypelist.ctp:148 Template/Layout/default.ctp:635
+#: Template/Library/memberlist.ctp:180 Template/Library/memberlist.ctp:191
+#: Template/Notice/noticelist.ctp:182 Template/Notice/noticelist.ctp:194
+#: Template/Payment/paymentlist.ctp:210 Template/Payment/paymentlist.ctp:222
+#: Template/Report/attendance.ctp:117 Template/Report/attendance.ctp:140
+#: Template/Report/failed.ctp:149 Template/Report/feepayment.ctp:216
+#: Template/Report/feepayment.ctp:230
+msgid "Class"
+msgstr "ชั้น"
+
+#: Controller/CommanController.php:1239 Controller/StudentController.php:892
+msgid "Exam Name"
+msgstr "ชื่อสอบ"
+
+#: Controller/CommanController.php:1253 Controller/StudentController.php:906
+msgid "S/NO"
+msgstr "S / NO"
+
+#: Controller/CommanController.php:1254 Controller/StudentController.php:662
+#: Controller/StudentController.php:907
+#: Template/Attendance/subjectattendance.ctp:196
+#: Template/Layout/default.ctp:594 Template/Message/compose.ctp:187
+#: Template/Message/inbox.ctp:58 Template/Message/sentbox.ctp:60
+#: Template/Message/view_inbox_message.ctp:68
+#: Template/Message/view_message.ctp:69 Template/Report/failed.ctp:173
+msgid "Subject"
+msgstr "เรื่อง"
+
+#: Controller/CommanController.php:1255 Controller/StudentController.php:663
+#: Controller/StudentController.php:908
+msgid "Obtain Mark"
+msgstr "ขอรับมาร์ค"
+
+#: Controller/CommanController.php:1256 Controller/StudentController.php:664
+#: Controller/StudentController.php:909 Template/Layout/default.ctp:671
+msgid "Grade"
+msgstr "เกรด"
+
+#: Controller/CommanController.php:1293 Controller/StudentController.php:946
+msgid "<B>Total Marks</B>"
+msgstr "<b> Marks รวม </ b>"
+
+#: Controller/CommanController.php:1297 Controller/StudentController.php:950
+msgid "<B>GPA ( Grade Point Average )</B>"
+msgstr "<b> เกรดเฉลี่ย (เกรดเฉลี่ย) </ b>"
+
+#: Controller/CommanController.php:1351 Controller/SubjectController.php:62
+msgid "Add New Subject Successfully"
+msgstr "เพิ่มเรื่องใหม่เรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:1807 Controller/CommanController.php:1900
+#: Controller/CommanController.php:1985 Controller/CommanController.php:3832
+#: Controller/ExportController.php:1351
+msgid "Record Update Successfully"
+msgstr "บันทึกการปรับปรุงเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:1852 Controller/CommanController.php:1928
+#: Controller/CommanController.php:2028
+msgid "Record Add Successfully"
+msgstr "เพิ่มบันทึกเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:2107 Controller/LibraryController.php:319
+#: Template/Library/issuebook.ctp:357
+msgid "---Select Student---"
+msgstr "--- --- เลือกนักศึกษา"
+
+#: Controller/CommanController.php:2524 Controller/NewsController.php:85
+msgid "News Update Successfully"
+msgstr "ข่าวการปรับปรุงเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:2569 Controller/NewsController.php:130
+msgid "Add News Successfully"
+msgstr "เพิ่มข่าวเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:3759 Controller/ExportController.php:1279
+msgid "Duplicate Student Record So Not Import"
+msgstr "บันทึกข้อมูลนักเรียนซ้ำดังนั้นไม่นำเข้า"
+
+#: Controller/CommanController.php:3767 Controller/ExportController.php:1287
+msgid "Duplicate Teacher Record So Not Import"
+msgstr "ทำซ้ำบันทึกของครูดังนั้นไม่ต้องนำเข้า"
+
+#: Controller/CommanController.php:3775 Controller/ExportController.php:1295
+msgid "Duplicate Parent Record So Not Import"
+msgstr "ทำสำเนาระเบียนหลักดังนั้นไม่นำเข้า"
+
+#: Controller/CommanController.php:3783 Controller/ExportController.php:1303
+msgid "Duplicate SupportStaff Record So Not Import"
+msgstr "พนักงานทำซ้ำบันทึกดังนั้นไม่นำเข้า"
+
+#: Controller/CommanController.php:3792 Controller/ExportController.php:1312
+msgid "Import Data Successfully"
+msgstr "ประสบความสำเร็จในการนำเข้าข้อมูล"
+
+#: Controller/CommanController.php:3873 Controller/HostelController.php:62
+msgid "Edit Hostel Data Successfully"
+msgstr "Hostel แก้ไขข้อมูลเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:3896 Controller/HostelController.php:85
+msgid "Add Hostel Data Successfully"
+msgstr "เพิ่ม Hostel ข้อมูลเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:3989 Controller/HostelController.php:192
+msgid "Edit Hostel Room Data Successfully"
+msgstr "โฮสเทลห้องพักแก้ไขข้อมูลเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:4014 Controller/HostelController.php:217
+msgid "Add Hostel Room Data Successfully"
+msgstr "เพิ่ม Hostel ข้อมูลห้องพักเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:4162 Controller/CommanController.php:4204
+#: Controller/HostelController.php:360 Controller/HostelController.php:402
+msgid "Unsuccessful! Hostel Room Bed No Capacity."
+msgstr "ไม่ประสบความสำเร็จ! โฮสเทลไม่มีห้องนอนความจุ"
+
+#: Controller/CommanController.php:4183 Controller/HostelController.php:381
+msgid "Edit Hostel Room Bed Data Successfully"
+msgstr "แก้ไข Bed Hostel ข้อมูลห้องพักเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:4225 Controller/HostelController.php:423
+msgid "Add Hostel Room Bed Data Successfully"
+msgstr "เพิ่ม Hostel ห้องข้อมูลที่พักเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:4357 Controller/HostelController.php:553
+msgid "Assign Hostel Room Successfully"
+msgstr "กำหนด Hostel ห้องพักเรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:4463 Controller/CommanController.php:4549
+#: Controller/EventController.php:71 Controller/EventController.php:157
+msgid "Event Reminder Alert!"
+msgstr "การแจ้งเตือนเหตุการณ์การแจ้งเตือน!"
+
+#: Controller/CommanController.php:4511 Controller/EventController.php:119
+msgid "Event Update Successfully"
+msgstr "ปรับปรุงเหตุการณ์เรียบร้อยแล้ว"
+
+#: Controller/CommanController.php:4597 Controller/EventController.php:205
+msgid "Add Event Successfully"
+msgstr "เพิ่มเหตุการณ์ที่ประสบความสำเร็จ"
+
+#: Controller/Component/SettingComponent.php:419
+#: Template/Classroute/addclassroute.ctp:98
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Monday"
+msgstr "วันจันทร์"
+
+#: Controller/Component/SettingComponent.php:420
+#: Template/Classroute/addclassroute.ctp:98
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Tuesday"
+msgstr "วันอังคาร"
+
+#: Controller/Component/SettingComponent.php:421
+#: Template/Classroute/addclassroute.ctp:98
+msgid "Wednesday"
+msgstr "วันพุธ"
+
+#: Controller/Component/SettingComponent.php:422
+#: Template/Classroute/addclassroute.ctp:98
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Thursday"
+msgstr "วันพฤหัสบดี"
+
+#: Controller/Component/SettingComponent.php:423
+#: Template/Classroute/addclassroute.ctp:98
+msgid "Friday"
+msgstr "วันศุกร์"
+
+#: Controller/Component/SettingComponent.php:424
+#: Template/Classroute/addclassroute.ctp:98
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Saturday"
+msgstr "วันเสาร์"
+
+#: Controller/Component/SettingComponent.php:425
+#: Template/Classroute/addclassroute.ctp:98
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Sunday"
+msgstr "วันอาทิตย์"
+
+#: Controller/ExamController.php:25
+msgid " Exam Inserted Successfully"
+msgstr " สอบแทรกประสบความสำเร็จ"
+
+#: Controller/ExamController.php:78 Controller/FeepaymentController.php:284
+#: Controller/FeepaymentController.php:519 Controller/GradeController.php:90
+#: Controller/HallController.php:53 Controller/HolidayController.php:94
+#: Controller/LibraryController.php:35 Controller/LibraryController.php:185
+#: Controller/NoticeController.php:599 Controller/PaymentController.php:425
+#: Controller/PaymentController.php:518 Controller/TransportController.php:119
+msgid "Update Successfully"
+msgstr "อัปเดตเรียบร้อยแล้ว"
+
+#: Controller/FeepaymentController.php:29 Controller/PaymentController.php:713
+#: Template/Comman/assignroom.ctp:123 Template/Feepayment/invoice.ctp:257
+#: Template/Hostel/assignroom.ctp:137 Template/Payment/addincome.ctp:192
+#: Template/Payment/addpayment.ctp:206
+msgid "Select Student"
+msgstr "เลือกนักศึกษา"
+
+#: Controller/FeepaymentController.php:173
+msgid " History Inserted Successfully"
+msgstr " แทรกประสบความสำเร็จในประวัติศาสตร์"
+
+#: Controller/FeepaymentController.php:313
+#: Controller/FeepaymentController.php:567 Controller/PaymentController.php:478
+#: Controller/PaymentController.php:547 Controller/PaymentController.php:640
+#: Controller/TransportController.php:42
+msgid " Record Inserted Successfully"
+msgstr " แทรกประสบความสำเร็จในการบันทึก"
+
+#: Controller/FeepaymentController.php:608
+msgid "Fees Payment Alert!"
+msgstr "ค่าธรรมเนียมการชำระเงินการแจ้งเตือน!"
+
+#: Controller/FeepaymentController.php:612
+msgid "Alert mail send successfully"
+msgstr "อีเมลแจ้งเตือนส่งประสบความสำเร็จ"
+
+#: Controller/GradeController.php:24
+msgid " Grade Inserted Successfully"
+msgstr " ชั้นประถมศึกษาปีที่แทรกประสบความสำเร็จ"
+
+#: Controller/HallController.php:27
+msgid " Hall Inserted Successfully"
+msgstr " แทรกประสบความสำเร็จในฮอลล์"
+
+#: Controller/HolidayController.php:24
+msgid " Holiday Inserted Successfully"
+msgstr " ฮอลิเดย์แทรกประสบความสำเร็จ"
+
+#: Controller/LibraryController.php:62
+msgid " Add Book Record Inserted Successfully "
+msgstr " เพิ่มหนังสือแทรกประสบความสำเร็จในการบันทึก "
+
+#: Controller/LibraryController.php:227
+msgid " Issue Book Record Inserted Successfully"
+msgstr " ฉบับที่ประสบความสำเร็จแทรกสมุดบันทึก"
+
+#: Controller/MarksController.php:304
+msgid "Add Mark"
+msgstr "เพิ่มมาร์ค"
+
+#: Controller/MarksController.php:329 Template/Marks/addmarks.ctp:242
+#: Template/Marks/addmarks.ctp:309 Template/Marks/addmarks.ctp:344
+#: Template/Marks/addmarks.ctp:380
+msgid "Update"
+msgstr "ปรับปรุง"
+
+#: Controller/MessageController.php:391
+msgid "Message Send Successfully"
+msgstr "ส่งข้อความเรียบร้อยแล้ว"
+
+#: Controller/NoticeController.php:35
+msgid "Notice Details"
+msgstr "รายละเอียดหนังสือเชิญ"
+
+#: Controller/NoticeController.php:40
+msgid "Notice Title:"
+msgstr "หัวข้อประกาศ:"
+
+#: Controller/NoticeController.php:46
+msgid "Notice Comment:"
+msgstr "คำแนะนำวิธีการ:"
+
+#: Controller/NoticeController.php:52
+msgid "Notice For:"
+msgstr "สำหรับคำแนะนำ:"
+
+#: Controller/NoticeController.php:57 Controller/NoticeController.php:64
+msgid "Notice Start Date:"
+msgstr "คำแนะนำในการเริ่มต้นวันที่:"
+
+#: Controller/NoticeController.php:146
+msgid "Notice Reminder Alert!"
+msgstr "แจ้งให้ทราบการแจ้งเตือนการแจ้งเตือน!"
+
+#: Controller/NoticeController.php:404
+msgid " Notice Inserted Successfully"
+msgstr " คำแนะนำในการแทรกประสบความสำเร็จ"
+
+#: Controller/ParentController.php:101
+msgid "Parent Register Successfully"
+msgstr "ผู้ปกครองประสบความสำเร็จในการลงทะเบียน"
+
+#: Controller/ParentController.php:143
+msgid "Child Register Successfully"
+msgstr "เด็กประสบความสำเร็จในการลงทะเบียน"
+
+#: Controller/ParentController.php:302
+msgid "Parent Record Update Successfully"
+msgstr "ผู้ปกครองบันทึกการปรับปรุงเรียบร้อยแล้ว"
+
+#: Controller/ParentController.php:344 Controller/StudentController.php:989
+#: Template/Comman/childlist.ctp:94 Template/Comman/childlist.ctp:104
+#: Template/Comman/memberlist.ctp:147 Template/Comman/memberlist.ctp:158
+#: Template/Comman/studentlist.ctp:140 Template/Comman/studentlist.ctp:149
+#: Template/Comman/studentlist.ctp:161 Template/Comman/studentlist.ctp:171
+#: Template/Comman/teacherlist.ctp:21 Template/Comman/teacherlist.ctp:28
+#: Template/Comman/teacherlist.ctp:36 Template/Comman/teacherlist.ctp:44
+#: Template/Comman/transportlist.ctp:26 Template/Comman/transportlist.ctp:39
+#: Template/Library/memberlist.ctp:178 Template/Library/memberlist.ctp:189
+#: Template/Parent/parentlist.ctp:142 Template/Parent/parentlist.ctp:150
+#: Template/Staff/stafflist.ctp:107 Template/Staff/stafflist.ctp:115
+#: Template/Student/studentlist.ctp:197 Template/Student/studentlist.ctp:210
+#: Template/Teacher/teacherlist.ctp:105 Template/Teacher/teacherlist.ctp:115
+#: Template/Transport/transportlist.ctp:117
+#: Template/Transport/transportlist.ctp:129
+msgid "Photo"
+msgstr "ภาพถ่าย"
+
+#: Controller/ParentController.php:345 Controller/StudentController.php:990
+#: Template/Comman/account.ctp:180 Template/Comman/addmarks.ctp:202
+#: Template/Comman/addmultiplemark.ctp:128 Template/Marks/addmarks.ctp:207
+#: Template/Marks/addmarks.ctp:282 Template/Marks/addmultiplemark.ctp:129
+#: Template/Parent/parentlist.ctp:143 Template/Parent/parentlist.ctp:151
+#: Template/Report/result.ctp:147 Template/Staff/stafflist.ctp:108
+#: Template/Staff/stafflist.ctp:116
+msgid "Name"
+msgstr "ชื่อ"
+
+#: Controller/PaymentController.php:597
+msgid " Record Update Successfully"
+msgstr " บันทึกการปรับปรุงเรียบร้อยแล้ว"
+
+#: Controller/PaymentController.php:689
+msgid " Record Delete Successfully"
+msgstr " ประสบความสำเร็จในการลบบันทึก"
+
+#: Controller/StaffController.php:92
+msgid "Staff Register Successfully"
+msgstr "ประสบความสำเร็จในการลงทะเบียนพนักงาน"
+
+#: Controller/StaffController.php:177
+msgid "Staff Record Update Successfully"
+msgstr "พนักงานบันทึกการปรับปรุงเรียบร้อยแล้ว"
+
+#: Controller/StudentController.php:149 Template/Attendance/attendance.ctp:116
+#: Template/Attendance/subjectattendance.ctp:152
+#: Template/Classroute/addclassroute.ctp:79
+#: Template/Classroute/updateclassroute.ctp:75
+#: Template/Classroute/updateteacherroute.ctp:76
+#: Template/Comman/addincome.ctp:176 Template/Comman/addmarks.ctp:147
+#: Template/Comman/addmultiplemark.ctp:97 Template/Comman/addpayment.ctp:193
+#: Template/Comman/addstudent.ctp:66 Template/Comman/addsubject.ctp:72
+#: Template/Comman/exploremark.ctp:93 Template/Feepayment/addfeetype.ctp:298
+#: Template/Feepayment/invoice.ctp:233 Template/Marks/addmarks.ctp:141
+#: Template/Marks/addmarks.ctp:147 Template/Marks/addmultiplemark.ctp:92
+#: Template/Marks/addmultiplemark.ctp:98 Template/Marks/exploremark.ctp:102
+#: Template/Marks/exploremark.ctp:104 Template/Message/compose.ctp:181
+#: Template/Notice/addnotice.ctp:161 Template/Payment/addincome.ctp:163
+#: Template/Payment/addpayment.ctp:176 Template/Report/failed.ctp:129
+#: Template/Report/result.ctp:123 Template/Student/addstudent.ctp:84
+#: Template/Student/registration.ctp:112 Template/Student/updatestudent.ctp:80
+#: Template/Subject/addsubject.ctp:73 Template/Subject/updatesubject.ctp:71
+msgid "Select Section"
+msgstr "เลือกมาตรา"
+
+#: Controller/StudentController.php:298
+msgid "Student Approve Successfully"
+msgstr "อนุมัตินักศึกษาประสบความสำเร็จ"
+
+#: Controller/StudentController.php:562
+msgid "Add CSV Record Successfully"
+msgstr "เพิ่ม CSV บันทึกเรียบร้อยแล้ว"
+
+#: Controller/StudentController.php:568
+msgid "update Record Successfully"
+msgstr "การปรับปรุงการบันทึกเรียบร้อยแล้ว"
+
+#: Controller/StudentController.php:633
+msgid "Exam Result"
+msgstr "ผลการสอบ"
+
+#: Controller/StudentController.php:643 Controller/StudentController.php:651
+#: Template/Payment/viewdataexpense.ctp:130
+#: Template/Payment/viewdataincome.ctp:130
+#: Template/Payment/viewdatapayment.ctp:106
+msgid "PDF"
+msgstr "รูปแบบไฟล์ PDF"
+
+#: Controller/StudentController.php:644 Controller/StudentController.php:651
+#: Template/Comman/viewdataexpense.ctp:124
+#: Template/Comman/viewdataincome.ctp:125
+#: Template/Comman/viewdatapayment.ctp:103
+#: Template/Payment/viewdataexpense.ctp:129
+#: Template/Payment/viewdataincome.ctp:129
+#: Template/Payment/viewdatapayment.ctp:105
+msgid "Print"
+msgstr "พิมพ์"
+
+#: Controller/StudentController.php:665
+msgid "Grade Comment"
+msgstr "เกรดวิธี"
+
+#: Controller/StudentController.php:698
+msgid "Total Marks "
+msgstr "Marks ทั้งหมด "
+
+#: Controller/StudentController.php:703
+msgid "GPA( Grade Point Average )"
+msgstr "เกรดเฉลี่ย (เกรดเฉลี่ย)"
+
+#: Controller/StudentController.php:728
+msgid "No Result Fount"
+msgstr "ไม่มี Fount ผล"
+
+#: Controller/StudentController.php:991
+msgid "Relation"
+msgstr "ความสัมพันธ์"
+
+#: Controller/SubjectController.php:209
+msgid "Subject Update Successfully"
+msgstr "เรื่องการปรับปรุงเรียบร้อยแล้ว"
+
+#: Controller/TeacherController.php:111
+msgid "Teacher Register Successfully"
+msgstr "ครูลงทะเบียนเรียบร้อยแล้ว"
+
+#: Controller/TeacherController.php:230
+msgid "Teacher Record Update Successfully"
+msgstr "ครูบันทึกการปรับปรุงเรียบร้อยแล้ว"
+
+#: Controller/TeacherrightsController.php:95
+msgid "Update Teacher Access Successfully"
+msgstr "ครูเพื่อการเข้าปรับปรุงเรียบร้อยแล้ว"
+
+#: Controller/TeacherrightsController.php:101
+msgid "Add Teacher Access Successfully"
+msgstr "เพิ่มครูเพื่อการเข้าเรียบร้อยแล้ว"
+
+#: Controller/UserController.php:45
+msgid "Invalid Username And Password"
+msgstr "ชื่อผู้ใช้และรหัสผ่านไม่ถูกต้อง"
+
+#: Controller/UserController.php:107
+msgid "New Password Set Successfully."
+msgstr "รหัสผ่านชุดใหม่เรียบร้อยแล้ว"
+
+#: Controller/UserController.php:114
+msgid "Unsuccessful ! Wrong Email and Phone Number."
+msgstr "ไม่ประสบความสำเร็จ! อีเมล์ผิดและหมายเลขโทรศัพท์"
+
+#: Template/Admission/admissionlist.ctp:129
+msgid "Admission List"
+msgstr "รายการการรับเข้าเรียน"
+
+#: Template/Admission/admissionlist.ctp:147
+#: Template/Admission/admissionlist.ctp:159
+#: Template/Attendance/attendance.ctp:147
+#: Template/Attendance/attendance1.ctp:69
+#: Template/Attendance/subjectattendance.ctp:204
+#: Template/Comman/feelist.ctp:195 Template/Comman/feelist.ctp:209
+#: Template/Comman/incomelist.ctp:103 Template/Comman/incomelist.ctp:112
+#: Template/Comman/memberlist.ctp:148 Template/Comman/memberlist.ctp:159
+#: Template/Comman/paymentlist.ctp:135 Template/Comman/paymentlist.ctp:151
+#: Template/Comman/studentlist.ctp:141 Template/Comman/studentlist.ctp:150
+#: Template/Comman/studentlist.ctp:162 Template/Comman/studentlist.ctp:172
+#: Template/Feepayment/feelist.ctp:292 Template/Feepayment/feelist.ctp:307
+#: Template/Library/issuelist.ctp:145 Template/Library/issuelist.ctp:156
+#: Template/Library/memberlist.ctp:179 Template/Library/memberlist.ctp:190
+#: Template/Payment/incomelist.ctp:182 Template/Payment/incomelist.ctp:192
+#: Template/Payment/paymentlist.ctp:208 Template/Payment/paymentlist.ctp:220
+#: Template/Report/feepayment.ctp:214 Template/Report/feepayment.ctp:228
+#: Template/Student/studentlist.ctp:198 Template/Student/studentlist.ctp:211
+msgid "Student Name"
+msgstr "ชื่อนักเรียน"
+
+#: Template/Admission/admissionlist.ctp:148
+#: Template/Admission/admissionlist.ctp:160
+msgid "Gender"
+msgstr "เพศ"
+
+#: Template/Admission/admissionlist.ctp:149
+#: Template/Admission/admissionlist.ctp:161 Template/Comman/account.ctp:262
+#: Template/Parent/addparent.ctp:97 Template/Parent/updateparent.ctp:113
+#: Template/Staff/addstaff.ctp:66 Template/Staff/updatestaff.ctp:66
+#: Template/Student/addstudent.ctp:133 Template/Student/registration.ctp:160
+#: Template/Student/updatestudent.ctp:132 Template/Teacher/addteacher.ctp:75
+#: Template/Teacher/updateteacher.ctp:84
+msgid "Address"
+msgstr "ที่อยู่"
+
+#: Template/Admission/admissionlist.ctp:150
+#: Template/Admission/admissionlist.ctp:162 Template/Comman/account.ctp:294
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+#: Template/Admission/admissionlist.ctp:151
+#: Template/Admission/admissionlist.ctp:163 Template/Comman/memberlist.ctp:151
+#: Template/Comman/memberlist.ctp:162 Template/Comman/studentlist.ctp:144
+#: Template/Comman/studentlist.ctp:153 Template/Comman/studentlist.ctp:165
+#: Template/Comman/studentlist.ctp:175 Template/Library/memberlist.ctp:182
+#: Template/Library/memberlist.ctp:193 Template/Student/studentlist.ctp:202
+#: Template/Student/studentlist.ctp:215
+msgid "Student Email"
+msgstr "นักศึกษาอีเมล์"
+
+#: Template/Admission/admissionlist.ctp:152
+#: Template/Admission/admissionlist.ctp:164
+msgid "Previous School"
+msgstr "โรงเรียนก่อนหน้านี้"
+
+#: Template/Admission/admissionlist.ctp:153
+#: Template/Admission/admissionlist.ctp:165 Template/Classmgt/classlist.ctp:108
+#: Template/Classmgt/classlist.ctp:116 Template/Classmgt/viewsectionlist.ctp:13
+#: Template/Comman/addmarks.ctp:205 Template/Comman/addroom.ctp:102
+#: Template/Comman/childlist.ctp:99 Template/Comman/childlist.ctp:109
+#: Template/Comman/expenselist.ctp:113 Template/Comman/expenselist.ctp:121
+#: Template/Comman/exportlist.ctp:116 Template/Comman/exportlist.ctp:125
+#: Template/Comman/feelist.ctp:203 Template/Comman/feelist.ctp:217
+#: Template/Comman/importlist.ctp:116 Template/Comman/importlist.ctp:125
+#: Template/Comman/incomelist.ctp:106 Template/Comman/incomelist.ctp:115
+#: Template/Comman/memberlist.ctp:152 Template/Comman/memberlist.ctp:163
+#: Template/Comman/noticelist.ctp:85 Template/Comman/noticelist.ctp:96
+#: Template/Comman/paymentlist.ctp:145 Template/Comman/paymentlist.ctp:161
+#: Template/Comman/roomlist.ctp:117 Template/Comman/roomlist.ctp:129
+#: Template/Comman/studentlist.ctp:166 Template/Comman/studentlist.ctp:176
+#: Template/Comman/teacherlist.ctp:39 Template/Comman/teacherlist.ctp:47
+#: Template/Event/eventlist.ctp:114 Template/Event/eventlist.ctp:124
+#: Template/Exam/examlist.ctp:121 Template/Exam/examlist.ctp:129
+#: Template/Export/exportlist.ctp:116 Template/Export/exportlist.ctp:125
+#: Template/Export/importlist.ctp:116 Template/Export/importlist.ctp:125
+#: Template/Feepayment/addfeetype.ctp:165 Template/Feepayment/feelist.ctp:301
+#: Template/Feepayment/feelist.ctp:316 Template/Feepayment/feetypelist.ctp:142
+#: Template/Feepayment/feetypelist.ctp:152 Template/Grade/gradelist.ctp:124
+#: Template/Grade/gradelist.ctp:134 Template/Hall/halllist.ctp:119
+#: Template/Hall/halllist.ctp:128 Template/Holiday/holidaylist.ctp:120
+#: Template/Holiday/holidaylist.ctp:130 Template/Hostel/addroom.ctp:102
+#: Template/Hostel/bedslist.ctp:136 Template/Hostel/bedslist.ctp:146
+#: Template/Hostel/hostellist.ctp:135 Template/Hostel/hostellist.ctp:144
+#: Template/Hostel/roomlist.ctp:138 Template/Hostel/roomlist.ctp:150
+#: Template/Library/addbook.ctp:106 Template/Library/addbook.ctp:174
+#: Template/Library/booklist.ctp:149 Template/Library/booklist.ctp:160
+#: Template/Library/issuebook.ctp:185 Template/Library/issuelist.ctp:150
+#: Template/Library/issuelist.ctp:161 Template/Library/memberlist.ctp:183
+#: Template/Library/memberlist.ctp:194 Template/Marks/addmarks.ctp:210
+#: Template/News/newslist.ctp:112 Template/News/newslist.ctp:123
+#: Template/Notice/noticelist.ctp:183 Template/Notice/noticelist.ctp:195
+#: Template/Parent/parentlist.ctp:145 Template/Parent/parentlist.ctp:153
+#: Template/Payment/expenselist.ctp:182 Template/Payment/expenselist.ctp:190
+#: Template/Payment/incomelist.ctp:185 Template/Payment/incomelist.ctp:195
+#: Template/Payment/paymentlist.ctp:215 Template/Payment/paymentlist.ctp:227
+#: Template/Report/feepayment.ctp:222 Template/Report/feepayment.ctp:236
+#: Template/Staff/stafflist.ctp:110 Template/Staff/stafflist.ctp:118
+#: Template/Student/studentlist.ctp:204 Template/Student/studentlist.ctp:217
+#: Template/Subject/subjectlist.ctp:113 Template/Subject/subjectlist.ctp:124
+#: Template/Teacher/teacherlist.ctp:110 Template/Teacher/teacherlist.ctp:120
+#: Template/Transport/transportlist.ctp:124
+#: Template/Transport/transportlist.ctp:136
+msgid "Action"
+msgstr "การกระทำ"
+
+#: Template/Admission/admissionlist.ctp:193
+#: Template/Student/studentlist.ctp:252
+msgid "Approve"
+msgstr "อนุมัติ"
+
+#: Template/Admission/admissionlist.ctp:208 Template/Classmgt/classlist.ctp:146
+#: Template/Event/eventlist.ctp:152 Template/Exam/examlist.ctp:153
+#: Template/Export/exportlist.ctp:154 Template/Export/importlist.ctp:153
+#: Template/Feepayment/feelist.ctp:400 Template/Feepayment/feetypelist.ctp:196
+#: Template/Grade/gradelist.ctp:159 Template/Hall/halllist.ctp:151
+#: Template/Holiday/holidaylist.ctp:154 Template/Hostel/bedslist.ctp:191
+#: Template/Hostel/hostellist.ctp:171 Template/Hostel/roomlist.ctp:195
+#: Template/Library/booklist.ctp:197 Template/Library/issuelist.ctp:229
+#: Template/News/newslist.ctp:167 Template/Notice/noticelist.ctp:252
+#: Template/Parent/parentlist.ctp:183 Template/Payment/expenselist.ctp:282
+#: Template/Payment/incomelist.ctp:268 Template/Payment/paymentlist.ctp:276
+#: Template/Staff/stafflist.ctp:145 Template/Student/studentlist.ctp:272
+#: Template/Subject/subjectlist.ctp:169 Template/Teacher/teacherlist.ctp:154
+#: Template/Transport/transportlist.ctp:168
+msgid "Delete Selected"
+msgstr "ลบที่เลือก"
+
+#: Template/Admission/admissionlist.ctp:217
+msgid "Not Available Any Admission"
+msgstr "ไม่ได้เข้าชมใด ๆ"
+
+#: Template/Admission/admissionlist.ctp:231 Template/Comman/childlist.ctp:178
+#: Template/Comman/feelist.ctp:89 Template/Comman/feelist.ctp:141
+#: Template/Comman/incomelist.ctp:52 Template/Comman/paymentlist.ctp:79
+#: Template/Comman/studentlist.ctp:372 Template/Comman/viewdataexpense.ctp:49
+#: Template/Comman/viewdataincome.ctp:51 Template/Comman/viewdatapayment.ctp:52
+#: Template/Feepayment/feelist.ctp:168 Template/Feepayment/feelist.ctp:221
+#: Template/Feepayment/paymentview.ctp:28 Template/Payment/incomelist.ctp:127
+#: Template/Payment/paymentlist.ctp:155 Template/Payment/viewdataexpense.ctp:50
+#: Template/Payment/viewdataincome.ctp:55
+#: Template/Payment/viewdatapayment.ctp:54 Template/Report/feepayment.ctp:65
+#: Template/Student/studentlist.ctp:295
+msgid "School Management System"
+msgstr "ระบบการบริหารจัดการของโรงเรียน"
+
+#: Template/Admission/admissionlist.ctp:242
+#: Template/Classmgt/editcriteria.ctp:20
+#: Template/Classmgt/viewsectionlist.ctp:60 Template/Comman/addroom.ctp:136
+#: Template/Comman/childlist.ctp:186 Template/Comman/childlist.ctp:209
+#: Template/Comman/feelist.ctp:126 Template/Comman/feelist.ctp:149
+#: Template/Comman/memberlist.ctp:83 Template/Comman/noticelist.ctp:55
+#: Template/Comman/studentlist.ctp:380 Template/Comman/studentlist.ctp:403
+#: Template/Feepayment/addfeetype.ctp:202 Template/Feepayment/feelist.ctp:205
+#: Template/Feepayment/feelist.ctp:229 Template/Hostel/addroom.ctp:136
+#: Template/Library/memberlist.ctp:83 Template/Notice/noticelist.ctp:129
+#: Template/Parent/parentlist.ctp:213 Template/Report/feepayment.ctp:73
+#: Template/Student/studentlist.ctp:303 Template/Student/studentlist.ctp:326
+msgid "Close"
+msgstr "ใกล้"
+
+#: Template/Admission/registration.ctp:197 Template/Student/registration.ctp:90
+#: Template/Student/registration.ctp:242
+msgid "New Registration"
+msgstr "ลงทะเบียนใหม่"
+
+#: Template/Admission/registration.ctp:205
+msgid "Student Info"
+msgstr "ข้อมูลนักศึกษา"
+
+#: Template/Admission/registration.ctp:217
+#: Template/Admission/registration.ctp:499 Template/Student/addstudent.ctp:94
+#: Template/Student/registration.ctp:125 Template/Student/updatestudent.ctp:93
+#: Template/Teacher/addteacher.ctp:34
+msgid "First Name "
+msgstr "ชื่อจริง "
+
+#: Template/Admission/registration.ctp:222
+#: Template/Admission/registration.ctp:515 Template/Student/addstudent.ctp:102
+#: Template/Student/registration.ctp:130 Template/Student/updatestudent.ctp:101
+#: Template/Teacher/addteacher.ctp:39
+msgid "Middle Name "
+msgstr "ชื่อกลาง "
+
+#: Template/Admission/registration.ctp:228
+#: Template/Admission/registration.ctp:532 Template/Student/addstudent.ctp:107
+#: Template/Student/registration.ctp:136 Template/Student/updatestudent.ctp:106
+#: Template/Teacher/addteacher.ctp:45
+msgid "Last Name "
+msgstr "นามสกุล "
+
+#: Template/Admission/registration.ctp:233 Template/Comman/addstudent.ctp:109
+#: Template/Comman/updatestudent.ctp:74 Template/Parent/addparent.ctp:67
+#: Template/Parent/updateparent.ctp:72 Template/Staff/addstaff.ctp:47
+#: Template/Staff/updatestaff.ctp:46 Template/Student/addstudent.ctp:115
+#: Template/Student/registration.ctp:141 Template/Student/updatestudent.ctp:114
+#: Template/Teacher/addteacher.ctp:63 Template/Teacher/updateteacher.ctp:63
+msgid "Date Of Birth "
+msgstr "วันเกิด "
+
+#: Template/Admission/registration.ctp:239 Template/Comman/addstudent.ctp:96
+#: Template/Comman/updatestudent.ctp:60 Template/Parent/addparent.ctp:54
+#: Template/Parent/updateparent.ctp:58 Template/Staff/addstaff.ctp:53
+#: Template/Staff/updatestaff.ctp:52 Template/Student/addstudent.ctp:120
+#: Template/Student/registration.ctp:147 Template/Student/updatestudent.ctp:118
+#: Template/Teacher/addteacher.ctp:50 Template/Teacher/updateteacher.ctp:51
+msgid "Select Gender "
+msgstr "เลือกเพศ "
+
+#: Template/Admission/registration.ctp:244 Template/Comman/addstudent.ctp:101
+#: Template/Comman/updatestudent.ctp:66 Template/Parent/addparent.ctp:59
+#: Template/Parent/updateparent.ctp:64 Template/Staff/addstaff.ctp:58
+#: Template/Staff/updatestaff.ctp:58 Template/Student/addstudent.ctp:125
+#: Template/Student/registration.ctp:152 Template/Student/updatestudent.ctp:124
+#: Template/Teacher/addteacher.ctp:55 Template/Teacher/updateteacher.ctp:56
+msgid "Male"
+msgstr "ชาย"
+
+#: Template/Admission/registration.ctp:244 Template/Comman/addstudent.ctp:101
+#: Template/Comman/updatestudent.ctp:66 Template/Parent/addparent.ctp:59
+#: Template/Parent/updateparent.ctp:64 Template/Staff/addstaff.ctp:58
+#: Template/Staff/updatestaff.ctp:58 Template/Student/addstudent.ctp:125
+#: Template/Student/registration.ctp:152 Template/Student/updatestudent.ctp:124
+#: Template/Teacher/addteacher.ctp:55 Template/Teacher/updateteacher.ctp:56
+msgid "Female"
+msgstr "เพศหญิง"
+
+#: Template/Admission/registration.ctp:254 Template/Student/addstudent.ctp:135
+#: Template/Student/registration.ctp:162 Template/Student/updatestudent.ctp:134
+#: Template/Teacher/addteacher.ctp:77
+msgid "Address "
+msgstr "ที่อยู่ "
+
+#: Template/Admission/registration.ctp:259 Template/Student/addstudent.ctp:140
+#: Template/Student/registration.ctp:167 Template/Teacher/addteacher.ctp:82
+msgid "State "
+msgstr "รัฐ "
+
+#: Template/Admission/registration.ctp:265 Template/Student/addstudent.ctp:146
+#: Template/Student/registration.ctp:173 Template/Teacher/addteacher.ctp:88
+msgid "City "
+msgstr "เมือง "
+
+#: Template/Admission/registration.ctp:270
+#: Template/Student/registration.ctp:178
+msgid "PinCode "
+msgstr "Pincode "
+
+#: Template/Admission/registration.ctp:277 Template/Comman/addstudent.ctp:139
+#: Template/Comman/updatestudent.ctp:104 Template/Parent/addparent.ctp:122
+#: Template/Parent/updateparent.ctp:138 Template/Staff/addstaff.ctp:91
+#: Template/Staff/updatestaff.ctp:91 Template/Student/addstudent.ctp:158
+#: Template/Student/registration.ctp:185 Template/Student/updatestudent.ctp:157
+#: Template/Teacher/addteacher.ctp:100 Template/Teacher/updateteacher.ctp:109
+msgid "Mobile Number "
+msgstr "หมายเลขโทรศัพท์มือถือ "
+
+#: Template/Admission/registration.ctp:286 Template/Comman/addstudent.ctp:157
+#: Template/Comman/updatestudent.ctp:122 Template/Parent/addparent.ctp:130
+#: Template/Parent/updateparent.ctp:146 Template/Staff/addstaff.ctp:108
+#: Template/Staff/updatestaff.ctp:108 Template/Student/addstudent.ctp:175
+#: Template/Student/registration.ctp:202 Template/Student/updatestudent.ctp:174
+#: Template/Teacher/addteacher.ctp:117 Template/Teacher/updateteacher.ctp:126
+#: Template/User/forgetpassword.ctp:20
+msgid "Phone Number "
+msgstr "หมายเลขโทรศัพท์ "
+
+#: Template/Admission/registration.ctp:293
+#: Template/Admission/registration.ctp:549 Template/Parent/addparent.ctp:137
+#: Template/Parent/updateparent.ctp:153 Template/Staff/addstaff.ctp:115
+#: Template/Staff/updatestaff.ctp:115 Template/Student/addstudent.ctp:182
+#: Template/Student/registration.ctp:209 Template/Student/updatestudent.ctp:181
+#: Template/Teacher/addteacher.ctp:124 Template/Teacher/updateteacher.ctp:133
+msgid "Email "
+msgstr "อีเมล "
+
+#: Template/Admission/registration.ctp:298
+msgid "Name of the Previous School attended "
+msgstr "ชื่อของโรงเรียนก่อนหน้าเข้าร่วม "
+
+#: Template/Admission/registration.ctp:301
+msgid "-- None --"
+msgstr "- ไม่มี -"
+
+#: Template/Admission/registration.ctp:302
+msgid "Old School 1"
+msgstr "โรงเรียนเก่า 1"
+
+#: Template/Admission/registration.ctp:303
+msgid "Old School 2"
+msgstr "โรงเรียนเก่า 2"
+
+#: Template/Admission/registration.ctp:304
+msgid "Old School 3"
+msgstr "โรงเรียนเก่า 3"
+
+#: Template/Admission/registration.ctp:305
+#: Template/Admission/registration.ctp:589
+#: Template/Admission/registration.ctp:603
+#: Template/Admission/registration.ctp:621
+#: Template/Admission/registration.ctp:636
+#: Template/Admission/registration.ctp:700
+#: Template/Admission/registration.ctp:716
+msgid "Other"
+msgstr "อื่น ๆ"
+
+#: Template/Admission/registration.ctp:316
+msgid "Siblings Information"
+msgstr "ข้อมูลพี่น้อง"
+
+#: Template/Admission/registration.ctp:322
+msgid "In case of no sibling click here"
+msgstr "ในกรณีที่ไม่มีพี่น้องคลิกที่นี่"
+
+#: Template/Admission/registration.ctp:328
+msgid "Relation Type "
+msgstr "ประเภทความสัมพันธ์ "
+
+#: Template/Admission/registration.ctp:329
+msgid "Full Name "
+msgstr "ชื่อเต็ม "
+
+#: Template/Admission/registration.ctp:330
+msgid "Age "
+msgstr "อายุ "
+
+#: Template/Admission/registration.ctp:331
+msgid "Standard "
+msgstr "มาตรฐาน "
+
+#: Template/Admission/registration.ctp:332
+msgid "SID "
+msgstr "SID "
+
+#: Template/Admission/registration.ctp:341
+#: Template/Admission/registration.ctp:374
+#: Template/Admission/registration.ctp:407
+msgid "Brother"
+msgstr "พี่ชาย"
+
+#: Template/Admission/registration.ctp:344
+#: Template/Admission/registration.ctp:377
+#: Template/Admission/registration.ctp:410
+msgid "Sister"
+msgstr "น้องสาว"
+
+#: Template/Admission/registration.ctp:349
+#: Template/Admission/registration.ctp:381
+#: Template/Admission/registration.ctp:414
+msgid "Enter Full Name"
+msgstr "ใส่ชื่อเต็ม"
+
+#: Template/Admission/registration.ctp:352
+#: Template/Admission/registration.ctp:384
+#: Template/Admission/registration.ctp:417
+msgid "Enter Age"
+msgstr "ป้อนอายุ"
+
+#: Template/Admission/registration.ctp:356
+#: Template/Admission/registration.ctp:388
+#: Template/Admission/registration.ctp:421
+msgid "-- Select Standard --"
+msgstr "- เลือกมาตรฐาน -"
+
+#: Template/Admission/registration.ctp:357
+#: Template/Admission/registration.ctp:389
+#: Template/Admission/registration.ctp:422
+msgid "std 1"
+msgstr "มาตรฐาน 1"
+
+#: Template/Admission/registration.ctp:358
+#: Template/Admission/registration.ctp:390
+#: Template/Admission/registration.ctp:423
+msgid "std 2"
+msgstr "มาตรฐานที่ 2"
+
+#: Template/Admission/registration.ctp:359
+#: Template/Admission/registration.ctp:391
+#: Template/Admission/registration.ctp:424
+msgid "std 3"
+msgstr "3 มาตรฐาน"
+
+#: Template/Admission/registration.ctp:360
+#: Template/Admission/registration.ctp:392
+#: Template/Admission/registration.ctp:425
+msgid "std 4"
+msgstr "มาตรฐานที่ 4"
+
+#: Template/Admission/registration.ctp:437
+msgid "Family Information"
+msgstr "ข้อมูลครอบครัว"
+
+#: Template/Admission/registration.ctp:440
+msgid "Parental Status "
+msgstr "สถานะผู้ปกครอง "
+
+#: Template/Admission/registration.ctp:444
+msgid "Single Father"
+msgstr "พ่อคนเดียว"
+
+#: Template/Admission/registration.ctp:447
+msgid "Single Mother"
+msgstr "แม่คนเดียว"
+
+#: Template/Admission/registration.ctp:450
+msgid "Both"
+msgstr "ทั้งสอง"
+
+#: Template/Admission/registration.ctp:457
+msgid "Relationship"
+msgstr "ความสัมพันธ์"
+
+#: Template/Admission/registration.ctp:459
+msgid "FATHER"
+msgstr "พ่อ"
+
+#: Template/Admission/registration.ctp:465
+msgid "MOTHER"
+msgstr "แม่"
+
+#: Template/Admission/registration.ctp:472
+msgid "Salutation"
+msgstr "คำอวยพร"
+
+#: Template/Admission/registration.ctp:476
+msgid "Mr"
+msgstr "นาย"
+
+#: Template/Admission/registration.ctp:486
+msgid "Ms"
+msgstr "มิลลิวินาที"
+
+#: Template/Admission/registration.ctp:487
+msgid "Mrs"
+msgstr "นาง"
+
+#: Template/Admission/registration.ctp:488
+msgid "Miss"
+msgstr "น.ส."
+
+#: Template/Admission/registration.ctp:502
+#: Template/Admission/registration.ctp:509 Template/Parent/updateparent.ctp:44
+msgid "Enter First Name"
+msgstr "ใส่ชื่อจริง"
+
+#: Template/Admission/registration.ctp:518
+#: Template/Admission/registration.ctp:525 Template/Parent/updateparent.ctp:49
+msgid "Enter Middle Name"
+msgstr "กรุณาใส่ชื่อกลาง"
+
+#: Template/Admission/registration.ctp:535
+#: Template/Admission/registration.ctp:542 Template/Parent/updateparent.ctp:55
+msgid "Enter Last Name"
+msgstr "ใส่นามสกุล"
+
+#: Template/Admission/registration.ctp:552
+#: Template/Admission/registration.ctp:559
+#: Template/Setting/generalsetting.ctp:125
+msgid "Enter Email"
+msgstr "ป้อนอีเมล์"
+
+#: Template/Admission/registration.ctp:566
+msgid "Mobile No "
+msgstr "หมายเลขโทรศัพท์มือถือ "
+
+#: Template/Admission/registration.ctp:569
+#: Template/Admission/registration.ctp:576
+msgid "Enter Mobile Number"
+msgstr "ใส่หมายเลขโทรศัพท์มือถือ"
+
+#: Template/Admission/registration.ctp:583
+msgid "School Name "
+msgstr "ชื่อโรงเรียน "
+
+#: Template/Admission/registration.ctp:587
+#: Template/Admission/registration.ctp:601
+msgid "-- Select School --"
+msgstr "- เลือกโรงเรียน -"
+
+#: Template/Admission/registration.ctp:588
+msgid "Father School 1"
+msgstr "พระบิดาของโรงเรียน 1"
+
+#: Template/Admission/registration.ctp:592
+#: Template/Admission/registration.ctp:606
+#: Template/Setting/generalsetting.ctp:18
+msgid "Enter School Name"
+msgstr "กรุณาใส่ชื่อของโรงเรียน"
+
+#: Template/Admission/registration.ctp:602
+msgid "Mother School 1"
+msgstr "แม่ของโรงเรียน 1"
+
+#: Template/Admission/registration.ctp:614
+msgid "Medium of Instruction "
+msgstr "สื่อการสอน "
+
+#: Template/Admission/registration.ctp:618
+#: Template/Admission/registration.ctp:633
+msgid "-- Select Medium --"
+msgstr "- เลือกขนาดกลาง -"
+
+#: Template/Admission/registration.ctp:619
+#: Template/Admission/registration.ctp:634
+msgid "English"
+msgstr "อังกฤษ"
+
+#: Template/Admission/registration.ctp:620
+#: Template/Admission/registration.ctp:635
+msgid "Gujrati"
+msgstr "Gujrati"
+
+#: Template/Admission/registration.ctp:624
+#: Template/Admission/registration.ctp:639
+msgid "Enter Medium of School"
+msgstr "ใส่กลางของโรงเรียน"
+
+#: Template/Admission/registration.ctp:647
+msgid "Highest Educational Qualification "
+msgstr "วุฒิการศึกษาสูงสุด "
+
+#: Template/Admission/registration.ctp:651
+#: Template/Admission/registration.ctp:663
+msgid "-- Select Qualification --"
+msgstr "- เลือกเรตติ้ง -"
+
+#: Template/Admission/registration.ctp:652
+#: Template/Admission/registration.ctp:664
+msgid "SSC"
+msgstr "SSC"
+
+#: Template/Admission/registration.ctp:653
+#: Template/Admission/registration.ctp:665
+msgid "HSC"
+msgstr "HSC"
+
+#: Template/Admission/registration.ctp:654
+#: Template/Admission/registration.ctp:666
+msgid "BCA"
+msgstr "เก็บกวาด"
+
+#: Template/Admission/registration.ctp:676
+msgid "Annual Income"
+msgstr "รายได้ต่อปี"
+
+#: Template/Admission/registration.ctp:679
+#: Template/Admission/registration.ctp:686
+msgid "Enter Annual Income"
+msgstr "ใส่รายได้ต่อปี"
+
+#: Template/Admission/registration.ctp:692
+msgid "Occupation "
+msgstr "อาชีพ "
+
+#: Template/Admission/registration.ctp:696
+#: Template/Admission/registration.ctp:712
+msgid "-- Select One --"
+msgstr "- เลือกอย่างใดอย่างหนึ่ง -"
+
+#: Template/Admission/registration.ctp:697
+#: Template/Admission/registration.ctp:713
+msgid "Business"
+msgstr "ธุรกิจ"
+
+#: Template/Admission/registration.ctp:698
+#: Template/Admission/registration.ctp:714
+msgid "Employee"
+msgstr "ลูกจ้าง"
+
+#: Template/Admission/registration.ctp:699
+#: Template/Admission/registration.ctp:715
+msgid "Banker"
+msgstr "นายธนาคาร"
+
+#: Template/Admission/registration.ctp:703
+#: Template/Admission/registration.ctp:719
+msgid "Enter Occupation"
+msgstr "เข้าสู่อาชีพ"
+
+#: Template/Admission/registration.ctp:729
+msgid "Proof of Qualification "
+msgstr "หลักฐานของวุฒิการศึกษา "
+
+#: Template/Admission/registration.ctp:732
+#: Template/Admission/registration.ctp:738 Template/Teacher/addteacher.ctp:161
+msgid "Upload Documenr "
+msgstr "อัปโหลด Documenr "
+
+#: Template/Admission/registration.ctp:749
+msgid "New Admission"
+msgstr "รับสมัครใหม่"
+
+#: Template/Attendance/attendance.ctp:67 Template/Attendance/attendance.ctp:148
+#: Template/Attendance/attendance1.ctp:4 Template/Attendance/attendance1.ctp:70
+#: Template/Attendance/subjectattendance.ctp:106
+#: Template/Attendance/subjectattendance.ctp:205
+#: Template/Attendance/teacherattendance.ctp:20
+#: Template/Attendance/teacherattendance.ctp:69
+#: Template/Comman/studentattendance.ctp:70
+#: Template/Comman/studentsubjectattendance.ctp:120
+#: Template/Layout/default.ctp:653 Template/Student/studentattendance.ctp:79
+#: Template/Student/studentsubjectattendance.ctp:121
+#: Template/Teacher/teacherattendance.ctp:59
+msgid "Attendance"
+msgstr "การดูแลรักษา"
+
+#: Template/Attendance/attendance.ctp:70
+#: Template/Attendance/subjectattendance.ctp:109
+#: Template/Attendance/teacherattendance.ctp:23
+#: Template/Attendance/teacherattendance.ctp:61
+msgid "Teacher Attendance"
+msgstr "การเข้าร่วมประชุมครู"
+
+#: Template/Attendance/attendance.ctp:73
+#: Template/Attendance/subjectattendance.ctp:112
+#: Template/Attendance/teacherattendance.ctp:26
+msgid "Subject Wise Attendance"
+msgstr "เรื่องการเข้าร่วมประชุมปรีชาญาณ"
+
+#: Template/Attendance/attendance.ctp:82
+msgid "Current Date"
+msgstr "วันที่ปัจจุบัน"
+
+#: Template/Attendance/attendance.ctp:89
+#: Template/Attendance/subjectattendance.ctp:128 Template/Report/failed.ctp:112
+#: Template/Report/result.ctp:108
+msgid "Select Class Name"
+msgstr "เลือกชื่อชั้น"
+
+#: Template/Attendance/attendance.ctp:94 Template/Attendance/attendance.ctp:98
+#: Template/Attendance/subjectattendance.ctp:133
+#: Template/Attendance/subjectattendance.ctp:137
+#: Template/Classroute/addclassroute.ctp:70
+#: Template/Classroute/updateclassroute.ctp:66
+#: Template/Classroute/updateteacherroute.ctp:67
+#: Template/Comman/addmarks.ctp:123 Template/Comman/addmarks.ctp:127
+#: Template/Comman/addmultiplemark.ctp:80
+#: Template/Comman/addmultiplemark.ctp:83 Template/Comman/addstudent.ctp:56
+#: Template/Comman/addsubject.ctp:62 Template/Comman/exploremark.ctp:80
+#: Template/Comman/exploremark.ctp:83 Template/Comman/studentlist.ctp:113
+#: Template/Comman/studentlist.ctp:117 Template/Feepayment/addfeetype.ctp:271
+#: Template/Feepayment/invoice.ctp:211 Template/Marks/addmarks.ctp:117
+#: Template/Marks/addmarks.ctp:123 Template/Marks/addmarks.ctp:127
+#: Template/Marks/addmultiplemark.ctp:75 Template/Marks/addmultiplemark.ctp:81
+#: Template/Marks/addmultiplemark.ctp:84 Template/Marks/exploremark.ctp:80
+#: Template/Marks/exploremark.ctp:94 Template/Message/compose.ctp:159
+#: Template/Migration/migration.ctp:29 Template/Migration/migration.ctp:50
+#: Template/Payment/addincome.ctp:141 Template/Payment/addpayment.ctp:153
+#: Template/Report/attendance.ctp:91 Template/Student/addstudent.ctp:76
+#: Template/Student/updatestudent.ctp:73 Template/Student/uploadcsv.ctp:27
+#: Template/Subject/addsubject.ctp:63 Template/Subject/updatesubject.ctp:62
+msgid "Select Class"
+msgstr "เลือกชั้นเรียน"
+
+#: Template/Attendance/attendance.ctp:105
+#: Template/Attendance/subjectattendance.ctp:145 Template/Report/failed.ctp:122
+msgid "Select Section Name"
+msgstr "เลือกชื่อมาตรา"
+
+#: Template/Attendance/attendance.ctp:123
+#: Template/Attendance/subjectattendance.ctp:179
+#: Template/Attendance/teacherattendance.ctp:43
+msgid "Take/View Attendance"
+msgstr "รับ / ดูผู้เข้าร่วม"
+
+#: Template/Attendance/attendance.ctp:139
+#: Template/Attendance/attendance1.ctp:13
+#: Template/Attendance/attendance1.ctp:61
+#: Template/Attendance/subjectattendance.ctp:121
+#: Template/Attendance/subjectattendance.ctp:195
+#: Template/Attendance/teacherattendance.ctp:35
+#: Template/Attendance/teacherattendance.ctp:62
+#: Template/Comman/expenselist.ctp:112 Template/Comman/expenselist.ctp:120
+#: Template/Comman/exportlist.ctp:115 Template/Comman/exportlist.ctp:124
+#: Template/Comman/importlist.ctp:115 Template/Comman/importlist.ctp:124
+#: Template/Comman/incomelist.ctp:105 Template/Comman/incomelist.ctp:114
+#: Template/Comman/paymentlist.ctp:141 Template/Comman/paymentlist.ctp:157
+#: Template/Comman/studentattendance.ctp:68
+#: Template/Comman/studentsubjectattendance.ctp:118
+#: Template/Comman/viewdataexpense.ctp:68 Template/Comman/viewdataincome.ctp:70
+#: Template/Comman/viewdatapayment.ctp:71 Template/Export/exportlist.ctp:115
+#: Template/Export/exportlist.ctp:124 Template/Export/importlist.ctp:115
+#: Template/Export/importlist.ctp:124 Template/Feepayment/paymentview.ctp:90
+#: Template/Message/inbox.ctp:60 Template/Message/sentbox.ctp:65
+#: Template/Payment/expenselist.ctp:181 Template/Payment/expenselist.ctp:189
+#: Template/Payment/incomelist.ctp:184 Template/Payment/incomelist.ctp:194
+#: Template/Payment/paymentlist.ctp:214 Template/Payment/paymentlist.ctp:226
+#: Template/Payment/viewdataexpense.ctp:69
+#: Template/Payment/viewdataincome.ctp:74
+#: Template/Payment/viewdatapayment.ctp:73
+#: Template/Student/studentattendance.ctp:77
+#: Template/Student/studentsubjectattendance.ctp:119
+#: Template/Teacher/teacherattendance.ctp:57
+msgid "Date"
+msgstr "วันที่"
+
+#: Template/Attendance/attendance.ctp:145
+#: Template/Attendance/attendance1.ctp:67
+#: Template/Attendance/subjectattendance.ctp:202
+#: Template/Attendance/teacherattendance.ctp:67
+msgid "Srno"
+msgstr "Srno"
+
+#: Template/Attendance/attendance.ctp:146
+#: Template/Attendance/attendance1.ctp:68
+#: Template/Attendance/subjectattendance.ctp:203
+#: Template/Comman/addmarks.ctp:201 Template/Comman/addmultiplemark.ctp:127
+#: Template/Comman/childlist.ctp:97 Template/Comman/studentlist.ctp:143
+#: Template/Comman/studentlist.ctp:164 Template/Marks/addmarks.ctp:206
+#: Template/Marks/addmarks.ctp:281 Template/Marks/addmultiplemark.ctp:128
+#: Template/Report/result.ctp:146 Template/Student/studentlist.ctp:201
+msgid "Roll No."
+msgstr "ม้วนเลขที่"
+
+#: Template/Attendance/attendance.ctp:149
+#: Template/Attendance/attendance1.ctp:71
+#: Template/Attendance/subjectattendance.ctp:206
+#: Template/Attendance/teacherattendance.ctp:70
+#: Template/Comman/addmarks.ctp:204 Template/Comman/addmultiplemark.ctp:169
+#: Template/Comman/studentattendance.ctp:71
+#: Template/Comman/studentsubjectattendance.ctp:121
+#: Template/Grade/gradelist.ctp:123 Template/Grade/gradelist.ctp:133
+#: Template/Marks/addmarks.ctp:209 Template/Marks/addmarks.ctp:284
+#: Template/Marks/addmultiplemark.ctp:170
+#: Template/Student/studentattendance.ctp:80
+#: Template/Student/studentsubjectattendance.ctp:122
+#: Template/Teacher/teacherattendance.ctp:60
+msgid "Comment"
+msgstr "อย่างไร"
+
+#: Template/Attendance/attendance.ctp:179
+#: Template/Attendance/attendance.ctp:203
+#: Template/Attendance/subjectattendance.ctp:235
+#: Template/Attendance/subjectattendance.ctp:264
+#: Template/Attendance/teacherattendance.ctp:102
+#: Template/Attendance/teacherattendance.ctp:123
+#: Template/Report/attendance.ctp:117
+msgid "Present"
+msgstr "ปัจจุบัน"
+
+#: Template/Attendance/attendance.ctp:182
+#: Template/Attendance/attendance.ctp:206
+#: Template/Attendance/subjectattendance.ctp:238
+#: Template/Attendance/subjectattendance.ctp:267
+#: Template/Attendance/teacherattendance.ctp:105
+#: Template/Attendance/teacherattendance.ctp:126
+#: Template/Comman/studentattendance.ctp:96
+#: Template/Comman/studentsubjectattendance.ctp:146
+#: Template/Report/attendance.ctp:117
+#: Template/Student/studentattendance.ctp:105
+#: Template/Student/studentsubjectattendance.ctp:147
+#: Template/Teacher/teacherattendance.ctp:85
+msgid "Absent"
+msgstr "ไม่อยู่"
+
+#: Template/Attendance/attendance.ctp:185
+#: Template/Attendance/attendance.ctp:209
+#: Template/Attendance/subjectattendance.ctp:241
+#: Template/Attendance/subjectattendance.ctp:270
+#: Template/Attendance/teacherattendance.ctp:108
+#: Template/Attendance/teacherattendance.ctp:129
+msgid "Late"
+msgstr "สาย"
+
+#: Template/Attendance/attendance.ctp:258
+#: Template/Attendance/attendance1.ctp:129
+#: Template/Attendance/subjectattendance.ctp:319
+msgid "If student absent then Send  SMS to his/her parents "
+msgstr "ถ้านักเรียนที่ขาดหายไปแล้วส่ง SMS ไป / พ่อแม่ของเขาและเธอ "
+
+#: Template/Attendance/attendance.ctp:288
+#: Template/Attendance/subjectattendance.ctp:348
+#: Template/Attendance/teacherattendance.ctp:182
+msgid "Save  Attendance"
+msgstr "บันทึกผู้เข้าร่วม"
+
+#: Template/Attendance/teacherattendance.ctp:68 Template/Comman/account.ctp:139
+#: Template/Comman/addevent.ctp:76 Template/Comman/addexport.ctp:53
+#: Template/Dashboard/dashboard.ctp:39 Template/Event/addevent.ctp:76
+#: Template/Export/addexport.ctp:53 Template/Layout/default.ctp:568
+#: Template/Notice/addnotice.ctp:125 Template/Notice/updatenotice.ctp:123
+#: Template/Report/teacher.ctp:45 Template/Teacherrights/accessteacher.ctp:27
+#: Template/Teacherrights/accessteacher.ctp:37
+#: Template/Templet/parentdash.ctp:33 Template/Templet/studentdash.ctp:33
+#: Template/Templet/supportstaffdash.ctp:33 Template/Templet/teacherdash.ctp:33
+#: Template/Templet/templet.ctp:32
+msgid "Teacher"
+msgstr "ครู"
+
+#: Template/Classmgt/addclass.ctp:4 Template/Classmgt/classlist.ctp:85
+#: Template/Classmgt/updateclass.ctp:5
+msgid "Class List"
+msgstr "รายการระดับ"
+
+#: Template/Classmgt/addclass.ctp:7 Template/Classmgt/addclass.ctp:38
+#: Template/Classmgt/classlist.ctp:88
+msgid "Add Class"
+msgstr "เพิ่มระดับชั้น"
+
+#: Template/Classmgt/addclass.ctp:17 Template/Classmgt/addclass.ctp:19
+#: Template/Classmgt/updateclass.ctp:18
+msgid "Enter Class Name "
+msgstr "กรุณาใส่ชื่อคลาส "
+
+#: Template/Classmgt/addclass.ctp:23 Template/Classmgt/updateclass.ctp:24
+msgid "Numeric Class Name "
+msgstr "ตัวเลขชื่อชั้น "
+
+#: Template/Classmgt/addclass.ctp:30
+msgid "Student Capacity in Section "
+msgstr "ความจุนักศึกษาในมาตรา "
+
+#: Template/Classmgt/classlist.ctp:105 Template/Classmgt/classlist.ctp:113
+#: Template/Comman/childlist.ctp:106 Template/Comman/studentlist.ctp:151
+#: Template/Comman/studentlist.ctp:173 Template/Comman/subjectlist.ctp:36
+#: Template/Comman/subjectlist.ctp:46 Template/Report/attendance.ctp:89
+#: Template/Report/failed.ctp:110 Template/Report/feepayment.ctp:121
+#: Template/Report/result.ctp:106 Template/Student/studentlist.ctp:199
+#: Template/Student/studentlist.ctp:212 Template/Subject/subjectlist.ctp:109
+#: Template/Subject/subjectlist.ctp:120 Template/Teacher/teacherlist.ctp:107
+#: Template/Teacher/teacherlist.ctp:117
+msgid "Class Name"
+msgstr "ชื่อชั้น"
+
+#: Template/Classmgt/classlist.ctp:106 Template/Classmgt/classlist.ctp:114
+msgid "Class Numeric Name"
+msgstr "ชื่อคลาสตัวเลข"
+
+#: Template/Classmgt/classlist.ctp:107 Template/Classmgt/classlist.ctp:115
+#: Template/Hall/halllist.ctp:117 Template/Hall/halllist.ctp:126
+msgid "Capacity"
+msgstr "ความจุ"
+
+#: Template/Classmgt/classlist.ctp:131
+#: Template/Classroute/classroutelist.ctp:68
+#: Template/Classroute/teacherroutelist.ctp:63
+#: Template/Comman/expenselist.ctp:163 Template/Comman/exportlist.ctp:142
+#: Template/Comman/importlist.ctp:142 Template/Comman/incomelist.ctp:165
+#: Template/Comman/paymentlist.ctp:205 Template/Comman/studentlist.ctp:229
+#: Template/Comman/studentlist.ctp:255 Template/Event/eventlist.ctp:142
+#: Template/Exam/examlist.ctp:143 Template/Export/exportlist.ctp:142
+#: Template/Export/importlist.ctp:142 Template/Feepayment/feelist.ctp:369
+#: Template/Feepayment/feetypelist.ctp:179 Template/Grade/gradelist.ctp:149
+#: Template/Hall/halllist.ctp:141 Template/Holiday/holidaylist.ctp:144
+#: Template/Hostel/bedslist.ctp:181 Template/Hostel/hostellist.ctp:161
+#: Template/Hostel/roomlist.ctp:183 Template/Library/booklist.ctp:182
+#: Template/Library/issuelist.ctp:210 Template/News/newslist.ctp:157
+#: Template/Notice/noticelist.ctp:240 Template/Parent/parentlist.ctp:170
+#: Template/Payment/expenselist.ctp:234 Template/Payment/incomelist.ctp:247
+#: Template/Payment/paymentlist.ctp:259 Template/Staff/stafflist.ctp:134
+#: Template/Student/studentlist.ctp:248 Template/Subject/subjectlist.ctp:142
+#: Template/Teacher/teacherlist.ctp:140
+#: Template/Transport/transportlist.ctp:155
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: Template/Classmgt/classlist.ctp:133
+#: Template/Classroute/classroutelist.ctp:69
+#: Template/Classroute/teacherroutelist.ctp:64
+#: Template/Comman/addexpense.ctp:125 Template/Comman/addexpense.ctp:149
+#: Template/Comman/addincome.ctp:275 Template/Comman/addincome.ctp:301
+#: Template/Comman/expenselist.ctp:165 Template/Comman/incomelist.ctp:167
+#: Template/Comman/paymentlist.ctp:207 Template/Event/eventlist.ctp:144
+#: Template/Exam/examlist.ctp:145 Template/Export/exportlist.ctp:144
+#: Template/Export/importlist.ctp:144 Template/Feepayment/feelist.ctp:371
+#: Template/Feepayment/feetypelist.ctp:181 Template/Grade/gradelist.ctp:151
+#: Template/Hall/halllist.ctp:143 Template/Holiday/holidaylist.ctp:146
+#: Template/Hostel/assignroom.ctp:174 Template/Hostel/bedslist.ctp:183
+#: Template/Hostel/hostellist.ctp:163 Template/Hostel/roomlist.ctp:185
+#: Template/Library/booklist.ctp:184 Template/Library/issuelist.ctp:212
+#: Template/Message/view_inbox_message.ctp:79
+#: Template/Message/view_inbox_message.ctp:92
+#: Template/Message/view_inbox_message.ctp:93
+#: Template/Message/view_message.ctp:80 Template/News/newslist.ctp:159
+#: Template/Notice/noticelist.ctp:242 Template/Parent/parentlist.ctp:170
+#: Template/Payment/addexpense.ctp:111 Template/Payment/addexpense.ctp:135
+#: Template/Payment/addincome.ctp:262 Template/Payment/addincome.ctp:289
+#: Template/Payment/expenselist.ctp:235 Template/Payment/incomelist.ctp:249
+#: Template/Payment/paymentlist.ctp:261 Template/Staff/stafflist.ctp:134
+#: Template/Student/studentlist.ctp:250 Template/Subject/subjectlist.ctp:142
+#: Template/Teacher/teacherlist.ctp:140
+#: Template/Transport/transportlist.ctp:157
+msgid "Delete"
+msgstr "ลบ"
+
+#: Template/Classmgt/classlist.ctp:135
+msgid "View Or Add Section"
+msgstr "ดูทองเพิ่มมาตรา"
+
+#: Template/Classmgt/classlist.ctp:155
+msgid "Not Available Any Class"
+msgstr "ไม่สามารถใช้งานชั้นใด"
+
+#: Template/Classmgt/editcriteria.ctp:21
+msgid "Submit"
+msgstr "เสนอ"
+
+#: Template/Classmgt/updateclass.ctp:8
+msgid "Edit Class"
+msgstr "แก้ไขชั้น"
+
+#: Template/Classmgt/updateclass.ctp:31
+msgid "Student Capacity in Sction "
+msgstr "ความจุนักศึกษา Sction "
+
+#: Template/Classmgt/updateclass.ctp:40
+msgid "Save Class"
+msgstr "บันทึกชั้น"
+
+#: Template/Classmgt/viewsectionlist.ctp:12
+#: Template/Classmgt/viewsectionlist.ctp:49 Template/Comman/subjectlist.ctp:37
+#: Template/Comman/subjectlist.ctp:47 Template/Comman/subjectlist.ctp:61
+#: Template/Comman/subjectlist.ctp:70 Template/Student/studentlist.ctp:200
+#: Template/Student/studentlist.ctp:213 Template/Subject/subjectlist.ctp:110
+#: Template/Subject/subjectlist.ctp:121
+msgid "Section Name"
+msgstr "ส่วนที่เป็นชื่อ"
+
+#: Template/Classmgt/viewsectionlist.ctp:55
+msgid "Add New Section"
+msgstr "เพิ่มส่วนใหม่"
+
+#: Template/Classroute/addclassroute.ctp:39
+#: Template/Classroute/classroutelist.ctp:10
+#: Template/Classroute/teacherroutelist.ctp:10
+#: Template/Classroute/updateclassroute.ctp:39
+#: Template/Classroute/updateteacherroute.ctp:40
+msgid "Route List"
+msgstr "รายการเส้นทาง"
+
+#: Template/Classroute/addclassroute.ctp:42
+#: Template/Classroute/classroutelist.ctp:13
+#: Template/Classroute/teacherroutelist.ctp:13
+msgid "Add Route"
+msgstr "เพิ่มเส้นทาง"
+
+#: Template/Classroute/addclassroute.ctp:45
+#: Template/Classroute/classroutelist.ctp:16
+#: Template/Classroute/teacherroutelist.ctp:16
+#: Template/Classroute/updateclassroute.ctp:45
+#: Template/Classroute/updateteacherroute.ctp:46
+msgid "Teacher Time Table"
+msgstr "โต๊ะครู"
+
+#: Template/Classroute/addclassroute.ctp:54 Template/Subject/addsubject.ctp:79
+#: Template/Subject/updatesubject.ctp:81
+msgid "Select Teacher "
+msgstr "เลือกครู "
+
+#: Template/Classroute/addclassroute.ctp:67 Template/Comman/addstudent.ctp:53
+#: Template/Comman/updatestudent.ctp:16 Template/Notice/addnotice.ctp:138
+#: Template/Notice/updatenotice.ctp:136 Template/Student/addstudent.ctp:73
+#: Template/Student/registration.ctp:101 Template/Student/updatestudent.ctp:70
+#: Template/Subject/addsubject.ctp:60 Template/Subject/updatesubject.ctp:59
+#: Template/Teacher/addteacher.ctp:68 Template/Teacher/updateteacher.ctp:68
+msgid "Select Class "
+msgstr "เลือกชั้นเรียน "
+
+#: Template/Classroute/addclassroute.ctp:76 Template/Comman/addstudent.ctp:63
+#: Template/Comman/addsubject.ctp:69 Template/Message/compose.ctp:178
+#: Template/Notice/addnotice.ctp:158 Template/Notice/updatenotice.ctp:159
+#: Template/Student/addstudent.ctp:81 Template/Student/registration.ctp:109
+#: Template/Student/updatestudent.ctp:77 Template/Subject/addsubject.ctp:70
+#: Template/Subject/updatesubject.ctp:68
+msgid "Select Section "
+msgstr "เลือกมาตรา "
+
+#: Template/Classroute/addclassroute.ctp:86
+msgid "Select Subject "
+msgstr "เลือกเรื่อง "
+
+#: Template/Classroute/addclassroute.ctp:96
+msgid "Select Day "
+msgstr "เลือกวันที่ "
+
+#: Template/Classroute/addclassroute.ctp:98 Template/Parent/addparent.ctp:87
+#: Template/Parent/updateparent.ctp:103
+msgid "(choose one)"
+msgstr "(เลือกอย่างใดอย่างหนึ่ง)"
+
+#: Template/Classroute/addclassroute.ctp:102
+msgid "Start Time "
+msgstr "เวลาเริ่มต้น "
+
+#: Template/Classroute/addclassroute.ctp:104
+#: Template/Classroute/addclassroute.ctp:117
+msgid "(Select)"
+msgstr "(เลือก)"
+
+#: Template/Classroute/addclassroute.ctp:110
+#: Template/Classroute/addclassroute.ctp:123
+#: Template/Classroute/updateclassroute.ctp:109
+#: Template/Classroute/updateclassroute.ctp:125
+msgid "am"
+msgstr "am"
+
+#: Template/Classroute/addclassroute.ctp:110
+#: Template/Classroute/addclassroute.ctp:123
+#: Template/Classroute/updateclassroute.ctp:109
+#: Template/Classroute/updateclassroute.ctp:125
+msgid "pm"
+msgstr "น"
+
+#: Template/Classroute/addclassroute.ctp:115
+msgid "End Time "
+msgstr "เวลาสิ้นสุด "
+
+#: Template/Classroute/addclassroute.ctp:129
+msgid "Add Class Routine"
+msgstr "เพิ่มระดับชั้นประจำ"
+
+#: Template/Classroute/classroutelist.ctp:38 Template/Comman/account.ctp:400
+#: Template/Comman/addincome.ctp:142 Template/Comman/addpayment.ctp:163
+#: Template/Comman/classroutelist.ctp:52 Template/Comman/classroutelist.ctp:110
+#: Template/Comman/classroutelist.ctp:178
+#: Template/Comman/classroutelist.ctp:248 Template/Feepayment/invoice.ctp:202
+#: Template/Payment/addincome.ctp:129
+msgid "Class : "
+msgstr "ประเภท: "
+
+#: Template/Classroute/teacherroutelist.ctp:33
+msgid "Teacher : "
+msgstr "ครู: "
+
+#: Template/Classroute/updateclassroute.ctp:42
+#: Template/Classroute/updateteacherroute.ctp:43
+msgid "Edit Route"
+msgstr "แก้ไขเส้นทาง"
+
+#: Template/Classroute/updateclassroute.ctp:55
+#: Template/Classroute/updateteacherroute.ctp:56
+msgid "Select Teacher :"
+msgstr "เลือกครู:"
+
+#: Template/Classroute/updateclassroute.ctp:58
+#: Template/Classroute/updateteacherroute.ctp:59
+#: Template/Subject/updatesubject.ctp:84
+msgid "Select Teacher"
+msgstr "เลือกครู"
+
+#: Template/Classroute/updateclassroute.ctp:63
+#: Template/Classroute/updateteacherroute.ctp:64
+msgid "Select Class :"
+msgstr "เลือกประเภท:"
+
+#: Template/Classroute/updateclassroute.ctp:72
+#: Template/Classroute/updateteacherroute.ctp:73
+msgid "Select Section : "
+msgstr "เลือกส่วน: "
+
+#: Template/Classroute/updateclassroute.ctp:82
+#: Template/Classroute/updateteacherroute.ctp:87
+msgid "Select Subject :"
+msgstr "เลือกเรื่อง"
+
+#: Template/Classroute/updateclassroute.ctp:91
+#: Template/Classroute/updateteacherroute.ctp:96
+msgid "Select Day : "
+msgstr "เลือกวัน: "
+
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Wedneshday"
+msgstr "Wedneshday"
+
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Frieday"
+msgstr "Frieday"
+
+#: Template/Classroute/updateclassroute.ctp:98
+#: Template/Classroute/updateteacherroute.ctp:103
+msgid "Start Time : "
+msgstr "เริ่มเวลา: "
+
+#: Template/Classroute/updateclassroute.ctp:114
+#: Template/Classroute/updateteacherroute.ctp:119
+msgid "End Time : "
+msgstr "เวลาสิ้นสุด: "
+
+#: Template/Classroute/updateclassroute.ctp:131
+#: Template/Classroute/updateteacherroute.ctp:136
+msgid "Save Route"
+msgstr "บันทึกเส้นทาง"
+
+#: Template/Comman/account.ctp:136
+msgid "Class :"
+msgstr "ประเภท:"
+
+#: Template/Comman/account.ctp:164 Template/Comman/account.ctp:256
+msgid "Account Settings"
+msgstr "การตั้งค่าบัญชี"
+
+#: Template/Comman/account.ctp:191 Template/Comman/viewdataexpense.ctp:71
+#: Template/Comman/viewdataincome.ctp:73 Template/Comman/viewdatapayment.ctp:74
+#: Template/Installer/index.ctp:340 Template/Payment/viewdataexpense.ctp:72
+#: Template/Payment/viewdataincome.ctp:77
+#: Template/Payment/viewdatapayment.ctp:76
+msgid "Username"
+msgstr "ชื่อผู้ใช้"
+
+#: Template/Comman/account.ctp:203
+msgid "Current Password"
+msgstr "รหัสผ่านปัจจุบัน"
+
+#: Template/Comman/account.ctp:214 Template/User/forgetpassword.ctp:14
+#: Template/User/forgetpassword.ctp:23
+msgid "New Password"
+msgstr "รหัสผ่านใหม่"
+
+#: Template/Comman/account.ctp:224 Template/Installer/index.ctp:357
+msgid "Confirm Password"
+msgstr "ยืนยันรหัสผ่าน"
+
+#: Template/Comman/account.ctp:272
+msgid "City"
+msgstr "เมือง"
+
+#: Template/Comman/account.ctp:283
+msgid "State"
+msgstr "รัฐ"
+
+#: Template/Comman/account.ctp:305 Template/Comman/teacherlist.ctp:23
+#: Template/Comman/teacherlist.ctp:30 Template/Comman/teacherlist.ctp:38
+#: Template/Comman/teacherlist.ctp:46 Template/Installer/index.ctp:289
+#: Template/Parent/parentlist.ctp:144 Template/Parent/parentlist.ctp:152
+#: Template/Setting/generalsetting.ctp:123 Template/Staff/stafflist.ctp:109
+#: Template/Staff/stafflist.ctp:117 Template/Teacher/teacherlist.ctp:109
+#: Template/Teacher/teacherlist.ctp:119 Template/User/forgetpassword.ctp:17
+#: Template/User/user.ctp:17
+msgid "Email"
+msgstr "อีเมล"
+
+#: Template/Comman/account.ctp:338 Template/Comman/addevent.ctp:78
+#: Template/Comman/addexport.ctp:54 Template/Dashboard/dashboard.ctp:49
+#: Template/Event/addevent.ctp:78 Template/Export/addexport.ctp:54
+#: Template/Layout/default.ctp:585 Template/Notice/addnotice.ctp:127
+#: Template/Notice/updatenotice.ctp:125
+#: Template/Teacherrights/accessteacher.ctp:30
+#: Template/Teacherrights/accessteacher.ctp:40
+#: Template/Templet/parentdash.ctp:44 Template/Templet/studentdash.ctp:44
+#: Template/Templet/supportstaffdash.ctp:44 Template/Templet/teacherdash.ctp:44
+#: Template/Templet/templet.ctp:42
+msgid "Parent"
+msgstr "ญาติ"
+
+#: Template/Comman/account.ctp:373
+msgid "Child"
+msgstr "เด็ก"
+
+#: Template/Comman/addbeds.ctp:49 Template/Comman/addhostel.ctp:13
+#: Template/Comman/addroom.ctp:55 Template/Comman/assignroom.ctp:48
+#: Template/Comman/bedslist.ctp:84 Template/Comman/hostellist.ctp:84
+#: Template/Comman/roomlist.ctp:84 Template/Hostel/addbeds.ctp:49
+#: Template/Hostel/addhostel.ctp:13 Template/Hostel/addroom.ctp:55
+#: Template/Hostel/assignroom.ctp:48 Template/Hostel/bedslist.ctp:84
+#: Template/Hostel/hostellist.ctp:84 Template/Hostel/roomlist.ctp:84
+msgid "Hostel List"
+msgstr "รายการโฮสเทล"
+
+#: Template/Comman/addbeds.ctp:54 Template/Comman/addhostel.ctp:18
+#: Template/Comman/addhostel.ctp:78 Template/Comman/addroom.ctp:60
+#: Template/Hostel/addbeds.ctp:54 Template/Hostel/addhostel.ctp:18
+#: Template/Hostel/addhostel.ctp:78 Template/Hostel/addroom.ctp:60
+#: Template/Hostel/assignroom.ctp:53 Template/Hostel/bedslist.ctp:89
+#: Template/Hostel/hostellist.ctp:89 Template/Hostel/roomlist.ctp:89
+msgid "Edit Hostel"
+msgstr "แก้ไขโฮสเทล"
+
+#: Template/Comman/addbeds.ctp:56 Template/Comman/addhostel.ctp:20
+#: Template/Comman/addhostel.ctp:80 Template/Comman/addroom.ctp:62
+#: Template/Hostel/addbeds.ctp:56 Template/Hostel/addhostel.ctp:20
+#: Template/Hostel/addhostel.ctp:80 Template/Hostel/addroom.ctp:62
+#: Template/Hostel/assignroom.ctp:55 Template/Hostel/bedslist.ctp:91
+#: Template/Hostel/hostellist.ctp:91 Template/Hostel/roomlist.ctp:91
+msgid "Add Hostel"
+msgstr "เพิ่มโฮสเทล"
+
+#: Template/Comman/addbeds.ctp:60 Template/Comman/addhostel.ctp:24
+#: Template/Comman/addroom.ctp:66 Template/Comman/assignroom.ctp:52
+#: Template/Comman/bedslist.ctp:88 Template/Comman/hostellist.ctp:87
+#: Template/Comman/roomlist.ctp:88 Template/Hostel/addbeds.ctp:60
+#: Template/Hostel/addhostel.ctp:24 Template/Hostel/addroom.ctp:66
+#: Template/Hostel/assignroom.ctp:59 Template/Hostel/bedslist.ctp:95
+#: Template/Hostel/hostellist.ctp:95 Template/Hostel/roomlist.ctp:95
+msgid "Room List"
+msgstr "รายการห้องพัก"
+
+#: Template/Comman/addbeds.ctp:65 Template/Comman/addhostel.ctp:29
+#: Template/Comman/addroom.ctp:71 Template/Comman/addroom.ctp:206
+#: Template/Comman/assignroom.ctp:57 Template/Hostel/addbeds.ctp:65
+#: Template/Hostel/addhostel.ctp:29 Template/Hostel/addroom.ctp:71
+#: Template/Hostel/addroom.ctp:206 Template/Hostel/assignroom.ctp:64
+#: Template/Hostel/bedslist.ctp:100 Template/Hostel/hostellist.ctp:100
+#: Template/Hostel/roomlist.ctp:100
+msgid "Edit Room"
+msgstr "แก้ไขห้อง"
+
+#: Template/Comman/addbeds.ctp:67 Template/Comman/addhostel.ctp:31
+#: Template/Comman/addroom.ctp:73 Template/Comman/addroom.ctp:208
+#: Template/Hostel/addbeds.ctp:67 Template/Hostel/addhostel.ctp:31
+#: Template/Hostel/addroom.ctp:73 Template/Hostel/addroom.ctp:208
+#: Template/Hostel/bedslist.ctp:102 Template/Hostel/hostellist.ctp:102
+#: Template/Hostel/roomlist.ctp:102
+msgid "Add Room"
+msgstr "เพิ่มห้องพัก"
+
+#: Template/Comman/addbeds.ctp:71 Template/Comman/addhostel.ctp:35
+#: Template/Comman/addroom.ctp:77 Template/Comman/assignroom.ctp:63
+#: Template/Comman/bedslist.ctp:92 Template/Comman/hostellist.ctp:90
+#: Template/Comman/roomlist.ctp:92 Template/Hostel/addbeds.ctp:71
+#: Template/Hostel/addhostel.ctp:35 Template/Hostel/addroom.ctp:77
+#: Template/Hostel/assignroom.ctp:70 Template/Hostel/bedslist.ctp:106
+#: Template/Hostel/hostellist.ctp:106 Template/Hostel/roomlist.ctp:106
+msgid "Beds List"
+msgstr "รายการเตียง"
+
+#: Template/Comman/addbeds.ctp:76 Template/Comman/addhostel.ctp:40
+#: Template/Comman/addroom.ctp:82 Template/Hostel/addbeds.ctp:76
+#: Template/Hostel/addhostel.ctp:40 Template/Hostel/addroom.ctp:82
+#: Template/Hostel/assignroom.ctp:75 Template/Hostel/bedslist.ctp:111
+#: Template/Hostel/hostellist.ctp:111 Template/Hostel/roomlist.ctp:111
+msgid "Edit Beds"
+msgstr "แก้ไขเตียง"
+
+#: Template/Comman/addbeds.ctp:78 Template/Comman/addhostel.ctp:42
+#: Template/Comman/addroom.ctp:84 Template/Hostel/addbeds.ctp:78
+#: Template/Hostel/addhostel.ctp:42 Template/Hostel/addroom.ctp:84
+#: Template/Hostel/assignroom.ctp:77 Template/Hostel/bedslist.ctp:113
+#: Template/Hostel/hostellist.ctp:113 Template/Hostel/roomlist.ctp:113
+msgid "Add Beds"
+msgstr "เพิ่มเตียง"
+
+#: Template/Comman/addbeds.ctp:87 Template/Hostel/addbeds.ctp:87
+msgid "Bed Unique ID "
+msgstr "Bed ID ที่ไม่ซ้ำกัน "
+
+#: Template/Comman/addbeds.ctp:89 Template/Hostel/addbeds.ctp:89
+msgid "Enter Bed Unique ID "
+msgstr "ใส่ Bed ID ที่ไม่ซ้ำกัน "
+
+#: Template/Comman/addbeds.ctp:93 Template/Comman/addroom.ctp:150
+#: Template/Hostel/addbeds.ctp:93 Template/Hostel/addroom.ctp:150
+msgid "Room Unique ID "
+msgstr "ห้องพักหมายเลขที่ไม่ซ้ำกัน "
+
+#: Template/Comman/addbeds.ctp:96 Template/Hostel/addbeds.ctp:96
+msgid "Select Room Unique ID "
+msgstr "เลือกห้องหมายเลขที่ไม่ซ้ำกัน "
+
+#: Template/Comman/addbeds.ctp:103 Template/Comman/addevent.ctp:40
+#: Template/Comman/addhostel.ctp:67 Template/Comman/addroom.ctp:195
+#: Template/Event/addevent.ctp:40 Template/Feepayment/addfeetype.ctp:315
+#: Template/Hall/addhall.ctp:54 Template/Hall/updatehall.ctp:54
+#: Template/Holiday/addholiday.ctp:42 Template/Hostel/addbeds.ctp:103
+#: Template/Hostel/addhostel.ctp:67 Template/Hostel/addroom.ctp:195
+#: Template/News/addnews.ctp:52 Template/Payment/addpayment.ctp:253
+#: Template/Transport/addtransport.ctp:81
+#: Template/Transport/updatetransport.ctp:92
+msgid "Description "
+msgstr "ลักษณะ "
+
+#: Template/Comman/addbeds.ctp:105 Template/Comman/addevent.ctp:42
+#: Template/Comman/addhostel.ctp:69 Template/Event/addevent.ctp:42
+#: Template/Feepayment/addfeetype.ctp:317 Template/Feepayment/invoice.ctp:321
+#: Template/Holiday/addholiday.ctp:44 Template/Holiday/updateholiday.ctp:43
+#: Template/Hostel/addbeds.ctp:105 Template/Hostel/addhostel.ctp:69
+#: Template/Library/addbook.ctp:410 Template/News/addnews.ctp:54
+#: Template/Payment/addpayment.ctp:255 Template/Transport/addtransport.ctp:83
+msgid "Enter Description "
+msgstr "ป้อนคำอธิบาย "
+
+#: Template/Comman/addbeds.ctp:114 Template/Hostel/addbeds.ctp:114
+msgid "Edit Bed"
+msgstr "แก้ไขเตียง"
+
+#: Template/Comman/addbeds.ctp:116 Template/Hostel/addbeds.ctp:116
+msgid "Add Bed"
+msgstr "เพิ่มที่พัก"
+
+#: Template/Comman/addevent.ctp:15 Template/Comman/eventlist.ctp:84
+#: Template/Comman/eventlist.ctp:103 Template/Comman/eventlist.ctp:113
+#: Template/Event/addevent.ctp:15 Template/Event/eventlist.ctp:84
+#: Template/Event/eventlist.ctp:110 Template/Event/eventlist.ctp:120
+#: Template/Templet/parentdash.ctp:137 Template/Templet/studentdash.ctp:137
+#: Template/Templet/supportstaffdash.ctp:137
+#: Template/Templet/teacherdash.ctp:132 Template/Templet/templet.ctp:142
+msgid "Event List"
+msgstr "รายการที่จัดกิจกรรม"
+
+#: Template/Comman/addevent.ctp:20 Template/Comman/addevent.ctp:91
+#: Template/Event/addevent.ctp:20 Template/Event/addevent.ctp:91
+#: Template/Event/eventlist.ctp:89
+msgid "Edit Event"
+msgstr "แก้ไขเหตุการณ์"
+
+#: Template/Comman/addevent.ctp:22 Template/Comman/addevent.ctp:93
+#: Template/Event/addevent.ctp:22 Template/Event/addevent.ctp:93
+#: Template/Event/eventlist.ctp:91
+msgid "Add Event"
+msgstr "เพิ่มเหตุการณ์"
+
+#: Template/Comman/addevent.ctp:31 Template/Event/addevent.ctp:31
+msgid "Event Title "
+msgstr "ชื่อกิจกรรม "
+
+#: Template/Comman/addevent.ctp:33 Template/Event/addevent.ctp:33
+msgid "Enter Event Title "
+msgstr "ใส่ชื่อกิจกรรม "
+
+#: Template/Comman/addevent.ctp:48 Template/Event/addevent.ctp:48
+#: Template/Holiday/addholiday.ctp:50 Template/News/addnews.ctp:60
+msgid "Start Date "
+msgstr "วันที่เริ่มต้น "
+
+#: Template/Comman/addevent.ctp:55 Template/Comman/addevent.ctp:67
+#: Template/Event/addevent.ctp:55 Template/Event/addevent.ctp:67
+#: Template/News/addnews.ctp:67 Template/News/addnews.ctp:79
+msgid "Enter News date "
+msgstr "ใส่ข้อมูลวันข่าว "
+
+#: Template/Comman/addevent.ctp:60 Template/Event/addevent.ctp:60
+#: Template/Holiday/addholiday.ctp:57 Template/News/addnews.ctp:72
+msgid "End Date "
+msgstr "วันที่สิ้นสุด "
+
+#: Template/Comman/addevent.ctp:72 Template/Event/addevent.ctp:72
+msgid "Event For "
+msgstr "สำหรับกิจกรรม "
+
+#: Template/Comman/addevent.ctp:75 Template/Comman/noticelist.ctp:118
+#: Template/Comman/noticelist.ctp:143 Template/Event/addevent.ctp:75
+#: Template/Message/compose.ctp:162 Template/Notice/addnotice.ctp:124
+#: Template/Notice/addnotice.ctp:144 Template/Notice/updatenotice.ctp:122
+#: Template/Notice/updatenotice.ctp:144 Template/Student/exportcsv.ctp:27
+msgid "All"
+msgstr "ทั้งหมด"
+
+#: Template/Comman/addevent.ctp:77 Template/Comman/addexport.ctp:52
+#: Template/Comman/noticelist.ctp:116 Template/Dashboard/dashboard.ctp:29
+#: Template/Event/addevent.ctp:77 Template/Export/addexport.ctp:52
+#: Template/Layout/default.ctp:552 Template/Message/compose.ctp:118
+#: Template/Notice/addnotice.ctp:126 Template/Notice/updatenotice.ctp:124
+#: Template/Teacherrights/accessteacher.ctp:28
+#: Template/Teacherrights/accessteacher.ctp:38
+#: Template/Templet/parentdash.ctp:22 Template/Templet/studentdash.ctp:22
+#: Template/Templet/supportstaffdash.ctp:22 Template/Templet/teacherdash.ctp:22
+#: Template/Templet/templet.ctp:21
+msgid "Student"
+msgstr "นักเรียน"
+
+#: Template/Comman/addevent.ctp:79 Template/Comman/addexport.ctp:55
+#: Template/Comman/noticelist.ctp:141 Template/Event/addevent.ctp:79
+#: Template/Export/addexport.ctp:55 Template/Layout/default.ctp:576
+#: Template/Message/compose.ctp:121 Template/Notice/addnotice.ctp:128
+#: Template/Notice/updatenotice.ctp:126
+#: Template/Teacherrights/accessteacher.ctp:29
+#: Template/Teacherrights/accessteacher.ctp:39
+msgid "Support Staff"
+msgstr "พนักงานให้ความช่วยเหลือ"
+
+#: Template/Comman/addexpense.ctp:36 Template/Comman/addincome.ctp:114
+#: Template/Comman/addpayment.ctp:124 Template/Comman/addpayment.ctp:130
+#: Template/Comman/expenselist.ctp:83 Template/Comman/incomelist.ctp:76
+#: Template/Comman/paymentlist.ctp:103 Template/Comman/paymentlist.ctp:109
+#: Template/Payment/addexpense.ctp:31 Template/Payment/addincome.ctp:109
+#: Template/Payment/addpayment.ctp:121 Template/Payment/expenselist.ctp:153
+#: Template/Payment/incomelist.ctp:154 Template/Payment/paymentlist.ctp:183
+msgid "Payment List"
+msgstr "รายการชำระเงิน"
+
+#: Template/Comman/addexpense.ctp:39 Template/Comman/addincome.ctp:117
+#: Template/Comman/addpayment.ctp:108 Template/Comman/addpayment.ctp:111
+#: Template/Comman/expenselist.ctp:86 Template/Comman/feelist.ctp:125
+#: Template/Comman/incomelist.ctp:79 Template/Comman/paymentlist.ctp:112
+#: Template/Feepayment/feelist.ctp:204 Template/Payment/addexpense.ctp:33
+#: Template/Payment/addincome.ctp:111 Template/Payment/addpayment.ctp:108
+#: Template/Payment/addpayment.ctp:111 Template/Payment/addpayment.ctp:123
+#: Template/Payment/expenselist.ctp:155 Template/Payment/incomelist.ctp:156
+#: Template/Payment/paymentlist.ctp:185
+msgid "Add Payment"
+msgstr "เพิ่มการชำระเงิน"
+
+#: Template/Comman/addexpense.ctp:42 Template/Comman/addincome.ctp:120
+#: Template/Comman/addpayment.ctp:136 Template/Comman/expenselist.ctp:89
+#: Template/Comman/incomelist.ctp:82 Template/Comman/paymentlist.ctp:115
+#: Template/Payment/addexpense.ctp:35 Template/Payment/addincome.ctp:113
+#: Template/Payment/addpayment.ctp:125 Template/Payment/expenselist.ctp:157
+#: Template/Payment/incomelist.ctp:158 Template/Payment/paymentlist.ctp:187
+msgid "Income List"
+msgstr "รายการรายได้"
+
+#: Template/Comman/addexpense.ctp:45 Template/Comman/addincome.ctp:123
+#: Template/Comman/addpayment.ctp:139 Template/Comman/expenselist.ctp:92
+#: Template/Comman/incomelist.ctp:85 Template/Comman/paymentlist.ctp:118
+#: Template/Payment/addexpense.ctp:37 Template/Payment/addincome.ctp:101
+#: Template/Payment/addincome.ctp:115 Template/Payment/addpayment.ctp:127
+#: Template/Payment/expenselist.ctp:159 Template/Payment/incomelist.ctp:160
+#: Template/Payment/paymentlist.ctp:189
+msgid "Add Income"
+msgstr "เพิ่มรายได้"
+
+#: Template/Comman/addexpense.ctp:48 Template/Comman/addincome.ctp:126
+#: Template/Comman/expenselist.ctp:95 Template/Comman/incomelist.ctp:88
+#: Template/Comman/paymentlist.ctp:121 Template/Payment/addexpense.ctp:39
+#: Template/Payment/addincome.ctp:117 Template/Payment/addpayment.ctp:129
+#: Template/Payment/expenselist.ctp:161 Template/Payment/incomelist.ctp:162
+#: Template/Payment/paymentlist.ctp:191
+msgid "Expense List"
+msgstr "รายการค่าใช้จ่าย"
+
+#: Template/Comman/addexpense.ctp:51 Template/Comman/addincome.ctp:129
+#: Template/Comman/expenselist.ctp:98 Template/Comman/incomelist.ctp:91
+#: Template/Comman/paymentlist.ctp:124 Template/Payment/addexpense.ctp:22
+#: Template/Payment/addincome.ctp:119 Template/Payment/addpayment.ctp:131
+#: Template/Payment/expenselist.ctp:163 Template/Payment/incomelist.ctp:164
+#: Template/Payment/paymentlist.ctp:193
+msgid "Add Expense"
+msgstr "เพิ่มค่าใช้จ่าย"
+
+#: Template/Comman/addexpense.ctp:64 Template/Payment/addexpense.ctp:51
+msgid "Supplier : "
+msgstr "ผู้ผลิต: "
+
+#: Template/Comman/addexpense.ctp:72 Template/Comman/addincome.ctp:219
+#: Template/Comman/addpayment.ctp:248 Template/Payment/addexpense.ctp:59
+#: Template/Payment/addincome.ctp:206
+msgid "Status : "
+msgstr "สถานะ: "
+
+#: Template/Comman/addexpense.ctp:78 Template/Comman/addincome.ctp:225
+#: Template/Comman/addpayment.ctp:254 Template/Report/feepayment.ctp:151
+msgid "---Select Status---"
+msgstr "เลือกสถานะ --- ---"
+
+#: Template/Comman/addexpense.ctp:79 Template/Comman/addincome.ctp:226
+#: Template/Comman/addpayment.ctp:255 Template/Payment/addexpense.ctp:66
+#: Template/Payment/addincome.ctp:213 Template/Payment/addpayment.ctp:241
+msgid "Paid"
+msgstr "ต้องจ่าย"
+
+#: Template/Comman/addexpense.ctp:80 Template/Comman/addincome.ctp:227
+#: Template/Comman/addpayment.ctp:256 Template/Payment/addexpense.ctp:67
+#: Template/Payment/addincome.ctp:214 Template/Payment/addpayment.ctp:242
+msgid "Part Paid"
+msgstr "หุ้นที่เรียกชำระแล้ว"
+
+#: Template/Comman/addexpense.ctp:81 Template/Comman/addincome.ctp:228
+#: Template/Comman/addpayment.ctp:257 Template/Payment/addexpense.ctp:68
+#: Template/Payment/addincome.ctp:215 Template/Payment/addpayment.ctp:243
+msgid "Unpaid"
+msgstr "ยังไม่ได้ชำระ"
+
+#: Template/Comman/addexpense.ctp:91 Template/Comman/addincome.ctp:238
+#: Template/Payment/addexpense.ctp:78 Template/Payment/addincome.ctp:225
+msgid "Date : "
+msgstr "วันที่: "
+
+#: Template/Comman/addexpense.ctp:116 Template/Comman/addexpense.ctp:140
+#: Template/Comman/addincome.ctp:266 Template/Comman/addincome.ctp:292
+#: Template/Payment/addexpense.ctp:102 Template/Payment/addexpense.ctp:126
+#: Template/Payment/addincome.ctp:253 Template/Payment/addincome.ctp:280
+msgid "Income Entry"
+msgstr "รายการรายได้"
+
+#: Template/Comman/addexpense.ctp:161 Template/Comman/addincome.ctp:315
+#: Template/Payment/addexpense.ctp:147 Template/Payment/addincome.ctp:303
+msgid "Add More Field"
+msgstr "เพิ่มเขตข้อมูลเพิ่มเติม"
+
+#: Template/Comman/addexpense.ctp:174 Template/Payment/addexpense.ctp:160
+msgid "Create Expense Entry"
+msgstr "สร้างรายการค่าใช้จ่าย"
+
+#: Template/Comman/addexport.ctp:12 Template/Comman/addimport.ctp:11
+#: Template/Comman/exportlist.ctp:84 Template/Comman/importlist.ctp:84
+#: Template/Export/addexport.ctp:12 Template/Export/addimport.ctp:11
+#: Template/Export/exportlist.ctp:84 Template/Export/importlist.ctp:84
+msgid "Import List"
+msgstr "รายการนำเข้า"
+
+#: Template/Comman/addexport.ctp:15 Template/Comman/addimport.ctp:18
+#: Template/Comman/exportlist.ctp:87 Template/Comman/importlist.ctp:87
+#: Template/Export/addexport.ctp:15 Template/Export/addimport.ctp:18
+#: Template/Export/exportlist.ctp:87 Template/Export/importlist.ctp:87
+msgid "New Import"
+msgstr "นำเข้าใหม่"
+
+#: Template/Comman/addexport.ctp:18 Template/Comman/addimport.ctp:22
+#: Template/Comman/exportlist.ctp:90 Template/Comman/importlist.ctp:90
+#: Template/Export/addexport.ctp:18 Template/Export/addimport.ctp:22
+#: Template/Export/exportlist.ctp:90 Template/Export/importlist.ctp:90
+msgid "Export List"
+msgstr "รายการส่งออก"
+
+#: Template/Comman/addexport.ctp:23 Template/Export/addexport.ctp:23
+#: Template/Export/addexport.ctp:67
+msgid "Edit Export"
+msgstr "แก้ไขการส่งออก"
+
+#: Template/Comman/addexport.ctp:25 Template/Comman/addexport.ctp:69
+#: Template/Comman/addimport.ctp:26 Template/Comman/exportlist.ctp:93
+#: Template/Comman/importlist.ctp:93 Template/Export/addexport.ctp:25
+#: Template/Export/addexport.ctp:69 Template/Export/addimport.ctp:26
+#: Template/Export/exportlist.ctp:93 Template/Export/importlist.ctp:93
+msgid "New Export"
+msgstr "การส่งออกใหม่"
+
+#: Template/Comman/addexport.ctp:34 Template/Export/addexport.ctp:34
+msgid "Export Title "
+msgstr "ส่งออกชื่อ "
+
+#: Template/Comman/addexport.ctp:36 Template/Export/addexport.ctp:36
+msgid "Enter Export Title "
+msgstr "ใส่ชื่อเรื่องการส่งออก "
+
+#: Template/Comman/addexport.ctp:41 Template/Export/addexport.ctp:41
+msgid "Export Model "
+msgstr "ส่งออกรุ่น "
+
+#: Template/Comman/addexport.ctp:67
+msgid "Update Export"
+msgstr "ส่งออกการปรับปรุง"
+
+#: Template/Comman/addhostel.ctp:51 Template/Hostel/addhostel.ctp:51
+msgid "Hostel Name "
+msgstr "ชื่อโฮสเทล "
+
+#: Template/Comman/addhostel.ctp:53 Template/Hostel/addhostel.ctp:53
+msgid "Enter Hostel Name "
+msgstr "กรุณาใส่ชื่อโฮสเทล "
+
+#: Template/Comman/addhostel.ctp:58 Template/Hostel/addhostel.ctp:58
+msgid "Hostel Type "
+msgstr "ประเภทโฮสเทล "
+
+#: Template/Comman/addhostel.ctp:61 Template/Hostel/addhostel.ctp:61
+msgid "Enter Hostel Type "
+msgstr "ใส่ Hostel ประเภท "
+
+#: Template/Comman/addimport.ctp:16 Template/Comman/importedit.ctp:4
+#: Template/Comman/importedit.ctp:25 Template/Export/addimport.ctp:16
+#: Template/Export/importedit.ctp:4 Template/Export/importedit.ctp:25
+msgid "Update Import"
+msgstr "นำเข้าปรับปรุง"
+
+#: Template/Comman/addimport.ctp:35 Template/Export/addimport.ctp:35
+msgid "Import Title "
+msgstr "นำเข้าชื่อ "
+
+#: Template/Comman/addimport.ctp:37 Template/Export/addimport.ctp:37
+msgid "Enter Import Title "
+msgstr "ใส่ชื่อนำเข้า "
+
+#: Template/Comman/addimport.ctp:42 Template/Export/addimport.ctp:42
+msgid "Student CSV File :"
+msgstr "นักศึกษาไฟล์ CSV:"
+
+#: Template/Comman/addimport.ctp:49 Template/Export/addimport.ctp:49
+msgid "Teacher CSV File :"
+msgstr "ครูไฟล์ CSV:"
+
+#: Template/Comman/addimport.ctp:56 Template/Export/addimport.ctp:56
+msgid "Parent CSV File :"
+msgstr "ผู้ปกครองไฟล์ CSV:"
+
+#: Template/Comman/addimport.ctp:63 Template/Export/addimport.ctp:63
+msgid "Support Staff CSV File :"
+msgstr "สนับสนุนไฟล์ CSV พนักงาน:"
+
+#: Template/Comman/addimport.ctp:72 Template/Export/addimport.ctp:72
+msgid "Import Data"
+msgstr "การนำเข้าข้อมูล"
+
+#: Template/Comman/addimport.ctp:76 Template/Export/addimport.ctp:76
+msgid "Sample Download"
+msgstr "ตัวอย่างดาวน์โหลด"
+
+#: Template/Comman/addincome.ctp:166 Template/Comman/addpayment.ctp:183
+#: Template/Payment/addincome.ctp:153 Template/Payment/addpayment.ctp:166
+msgid "Section "
+msgstr "ส่วน "
+
+#: Template/Comman/addincome.ctp:185 Template/Comman/addpayment.ctp:201
+#: Template/Payment/addincome.ctp:172
+msgid "Student : "
+msgstr "นักศึกษา: "
+
+#: Template/Comman/addincome.ctp:330 Template/Payment/addincome.ctp:318
+msgid "Create Income Entery"
+msgstr "สร้างรายได้"
+
+#: Template/Comman/addmarks.ctp:82 Template/Comman/addmarks.ctp:176
+#: Template/Comman/addmultiplemark.ctp:38 Template/Comman/exploremark.ctp:38
+#: Template/Marks/addmarks.ctp:81 Template/Marks/addmarks.ctp:176
+#: Template/Marks/addmultiplemark.ctp:39 Template/Marks/exploremark.ctp:38
+msgid "Manage Marks"
+msgstr "จัดการ Marks"
+
+#: Template/Comman/addmarks.ctp:85 Template/Comman/addmultiplemark.ctp:41
+#: Template/Comman/exploremark.ctp:41 Template/Comman/exploremark.ctp:101
+#: Template/Marks/addmarks.ctp:84 Template/Marks/addmultiplemark.ctp:42
+#: Template/Marks/exploremark.ctp:41 Template/Marks/exploremark.ctp:111
+msgid "Export Marks"
+msgstr "Marks ส่งออก"
+
+#: Template/Comman/addmarks.ctp:88 Template/Comman/addmultiplemark.ctp:44
+#: Template/Comman/exploremark.ctp:44 Template/Marks/addmarks.ctp:87
+#: Template/Marks/addmultiplemark.ctp:45 Template/Marks/exploremark.ctp:44
+msgid "Add Multiple Subject Marks"
+msgstr "เพิ่มเครื่องหมายเรื่องหลาย"
+
+#: Template/Comman/addmarks.ctp:104 Template/Comman/addmarks.ctp:107
+#: Template/Comman/addmultiplemark.ctp:61
+#: Template/Comman/addmultiplemark.ctp:64 Template/Comman/exploremark.ctp:61
+#: Template/Comman/exploremark.ctp:64 Template/Marks/addmarks.ctp:98
+#: Template/Marks/addmarks.ctp:104 Template/Marks/addmarks.ctp:107
+#: Template/Marks/addmultiplemark.ctp:56 Template/Marks/addmultiplemark.ctp:62
+#: Template/Marks/addmultiplemark.ctp:65 Template/Marks/exploremark.ctp:55
+#: Template/Marks/exploremark.ctp:70 Template/Migration/migration.ctp:57
+#: Template/Migration/migration.ctp:72 Template/Report/failed.ctp:95
+#: Template/Report/result.ctp:91
+msgid "Select Exam"
+msgstr "เลือกสอบ"
+
+#: Template/Comman/addmarks.ctp:203 Template/Marks/addmarks.ctp:208
+#: Template/Marks/addmarks.ctp:283
+msgid "Mark Obtained (Out of 100)"
+msgstr "มาร์คได้รับ (จาก 100)"
+
+#: Template/Comman/addmultiplemark.ctp:105
+#: Template/Comman/studentattendance.ctp:57
+#: Template/Comman/studentsubjectattendance.ctp:107
+#: Template/Marks/addmultiplemark.ctp:106
+#: Template/Student/studentattendance.ctp:65
+#: Template/Student/studentsubjectattendance.ctp:107
+#: Template/Teacher/teacherattendance.ctp:45
+msgid "Go"
+msgstr "ไป"
+
+#: Template/Comman/addmultiplemark.ctp:166
+#: Template/Marks/addmultiplemark.ctp:167
+msgid "Mark"
+msgstr "เครื่องหมาย"
+
+#: Template/Comman/addpayment.ctp:99 Template/Comman/addpayment.ctp:102
+#: Template/Payment/addpayment.ctp:99 Template/Payment/addpayment.ctp:102
+msgid "Edit Payment"
+msgstr "แก้ไขการชำระเงิน"
+
+#: Template/Comman/addpayment.ctp:156
+msgid "Title : "
+msgstr "ชื่อเรื่อง: "
+
+#: Template/Comman/addpayment.ctp:240 Template/Feepayment/invoice.ctp:286
+msgid "Amount : "
+msgstr "จำนวนเงิน: "
+
+#: Template/Comman/addpayment.ctp:267 Template/Feepayment/invoice.ctp:319
+#: Template/Holiday/updateholiday.ctp:41
+msgid "Description : "
+msgstr "รายละเอียด: "
+
+#: Template/Comman/addroom.ctp:96 Template/Hostel/addroom.ctp:96
+msgid "Hostel Room Category"
+msgstr "ประเภทห้องพักโฮสเทล"
+
+#: Template/Comman/addroom.ctp:101 Template/Hostel/addroom.ctp:101
+msgid "Category Name"
+msgstr "ชื่อหมวดหมู่"
+
+#: Template/Comman/addroom.ctp:112 Template/Feepayment/addfeetype.ctp:174
+#: Template/Hostel/addroom.ctp:112 Template/Library/addbook.ctp:115
+#: Template/Library/addbook.ctp:184 Template/Library/issuebook.ctp:196
+msgid "X"
+msgstr "X"
+
+#: Template/Comman/addroom.ctp:127 Template/Comman/roomlist.ctp:113
+#: Template/Comman/roomlist.ctp:125 Template/Hostel/addroom.ctp:127
+#: Template/Hostel/roomlist.ctp:134 Template/Hostel/roomlist.ctp:146
+msgid "Room Category"
+msgstr "ประเภทห้องพัก"
+
+#: Template/Comman/addroom.ctp:133 Template/Hostel/addroom.ctp:133
+msgid "Save Category"
+msgstr "บันทึกหมวดหมู่"
+
+#: Template/Comman/addroom.ctp:152 Template/Hostel/addroom.ctp:152
+msgid "Enter Room Unique ID "
+msgstr "เข้ามาในห้องหมายเลขที่ไม่ซ้ำกัน "
+
+#: Template/Comman/addroom.ctp:157 Template/Hostel/addroom.ctp:157
+msgid "Select Hostel "
+msgstr "เลือกโฮสเทล "
+
+#: Template/Comman/addroom.ctp:160 Template/Hostel/addroom.ctp:160
+msgid "Select Hostel"
+msgstr "เลือกโฮสเทล"
+
+#: Template/Comman/addroom.ctp:166 Template/Hostel/addroom.ctp:166
+msgid "Room Category "
+msgstr "ประเภทห้องพัก "
+
+#: Template/Comman/addroom.ctp:169 Template/Hostel/addroom.ctp:169
+msgid "Select Category Name"
+msgstr "เลือกชื่อหมวดหมู่"
+
+#: Template/Comman/addroom.ctp:183 Template/Hostel/addroom.ctp:183
+msgid "Add or Remove"
+msgstr "เพิ่มหรือลบ"
+
+#: Template/Comman/addroom.ctp:188 Template/Hostel/addroom.ctp:188
+msgid "Beds capacity "
+msgstr "ความจุเตียง "
+
+#: Template/Comman/addroom.ctp:190 Template/Hostel/addroom.ctp:190
+msgid "Enter Beds capacity "
+msgstr "ใส่เตียงจุ "
+
+#: Template/Comman/addstudent.ctp:42 Template/Comman/studentlist.ctp:89
+#: Template/Comman/studentlist.ctp:95 Template/Comman/updatestudent.ctp:4
+#: Template/Student/addstudent.ctp:50 Template/Student/exportcsv.ctp:7
+#: Template/Student/studentlist.ctp:168 Template/Student/updatestudent.ctp:49
+#: Template/Student/uploadcsv.ctp:7
+msgid "Student List"
+msgstr "รายการนักศึกษา"
+
+#: Template/Comman/addstudent.ctp:45 Template/Comman/studentlist.ctp:98
+#: Template/Student/addstudent.ctp:53 Template/Student/studentlist.ctp:171
+msgid "Add New Student"
+msgstr "เพิ่มนักเรียนใหม่"
+
+#: Template/Comman/addstudent.ctp:72 Template/Comman/updatestudent.ctp:36
+#: Template/Student/addstudent.ctp:91
+msgid "Enter Roll Number "
+msgstr "ใส่จำนวนม้วน "
+
+#: Template/Comman/addstudent.ctp:78 Template/Comman/updatestudent.ctp:42
+#: Template/Parent/addparent.ctp:38 Template/Parent/addparent.ctp:40
+#: Template/Parent/updateparent.ctp:42 Template/Staff/addstaff.ctp:31
+#: Template/Staff/addstaff.ctp:33 Template/Staff/updatestaff.ctp:30
+#: Template/Student/addstudent.ctp:96 Template/Student/updatestudent.ctp:95
+#: Template/Teacher/addteacher.ctp:36 Template/Teacher/updateteacher.ctp:36
+#: Template/Teacher/updateteacher.ctp:38
+msgid "Enter First Name "
+msgstr "ใส่ชื่อจริง "
+
+#: Template/Comman/addstudent.ctp:84 Template/Comman/updatestudent.ctp:48
+#: Template/Parent/addparent.ctp:43 Template/Parent/addparent.ctp:45
+#: Template/Parent/updateparent.ctp:47 Template/Staff/addstaff.ctp:36
+#: Template/Staff/addstaff.ctp:38 Template/Staff/updatestaff.ctp:35
+#: Template/Student/addstudent.ctp:104 Template/Student/updatestudent.ctp:103
+#: Template/Teacher/addteacher.ctp:41 Template/Teacher/updateteacher.ctp:41
+#: Template/Teacher/updateteacher.ctp:43
+msgid "Enter Middle Name "
+msgstr "กรุณาใส่ชื่อกลาง "
+
+#: Template/Comman/addstudent.ctp:90 Template/Comman/updatestudent.ctp:54
+#: Template/Parent/addparent.ctp:49 Template/Parent/addparent.ctp:51
+#: Template/Parent/updateparent.ctp:53 Template/Staff/addstaff.ctp:42
+#: Template/Staff/addstaff.ctp:44 Template/Staff/updatestaff.ctp:41
+#: Template/Student/addstudent.ctp:109 Template/Student/updatestudent.ctp:108
+#: Template/Teacher/addteacher.ctp:47 Template/Teacher/updateteacher.ctp:47
+#: Template/Teacher/updateteacher.ctp:49
+msgid "Enter Last Name "
+msgstr "ใส่นามสกุล "
+
+#: Template/Comman/addstudent.ctp:115 Template/Comman/updatestudent.ctp:80
+#: Template/Parent/addparent.ctp:99 Template/Parent/updateparent.ctp:115
+#: Template/Staff/addstaff.ctp:68 Template/Staff/updatestaff.ctp:68
+#: Template/Student/addstudent.ctp:137 Template/Teacher/updateteacher.ctp:86
+msgid "Enter Address "
+msgstr "ป้อนที่อยู่ "
+
+#: Template/Comman/addstudent.ctp:121 Template/Parent/addparent.ctp:104
+#: Template/Staff/addstaff.ctp:73
+msgid "Enter State "
+msgstr "ป้อนรัฐ "
+
+#: Template/Comman/addstudent.ctp:127 Template/Parent/addparent.ctp:110
+#: Template/Staff/addstaff.ctp:79 Template/Student/addstudent.ctp:148
+msgid "Enter City "
+msgstr "เข้าสู่เมือง "
+
+#: Template/Comman/addstudent.ctp:133 Template/Comman/updatestudent.ctp:98
+#: Template/Parent/addparent.ctp:115 Template/Parent/addparent.ctp:117
+#: Template/Parent/updateparent.ctp:131 Template/Staff/addstaff.ctp:84
+#: Template/Staff/addstaff.ctp:86 Template/Staff/updatestaff.ctp:84
+#: Template/Student/addstudent.ctp:151 Template/Student/updatestudent.ctp:150
+#: Template/Student/updatestudent.ctp:152 Template/Teacher/addteacher.ctp:93
+#: Template/Teacher/addteacher.ctp:95 Template/Teacher/updateteacher.ctp:102
+#: Template/Teacher/updateteacher.ctp:104
+msgid "Enter PinCode "
+msgstr "ป้อนรหัส PIN "
+
+#: Template/Comman/addstudent.ctp:148 Template/Comman/updatestudent.ctp:113
+#: Template/Staff/addstaff.ctp:99 Template/Staff/updatestaff.ctp:99
+#: Template/Student/addstudent.ctp:166 Template/Student/registration.ctp:193
+#: Template/Student/updatestudent.ctp:165 Template/Teacher/addteacher.ctp:108
+#: Template/Teacher/updateteacher.ctp:117
+msgid "Alternate Mobile Number "
+msgstr "สลับหมายเลขโทรศัพท์มือถือ "
+
+#: Template/Comman/addstudent.ctp:163 Template/Comman/updatestudent.ctp:128
+msgid "Valid Email "
+msgstr "ที่ถูกต้องอีเมล์ "
+
+#: Template/Comman/addstudent.ctp:169 Template/Comman/updatestudent.ctp:134
+msgid "Valid Username "
+msgstr "ชื่อผู้ใช้ที่ถูกต้อง "
+
+#: Template/Comman/addstudent.ctp:175 Template/Parent/addparent.ctp:150
+#: Template/Staff/addstaff.ctp:128 Template/Student/addstudent.ctp:195
+#: Template/Teacher/addteacher.ctp:137
+msgid "Enter Password "
+msgstr "ป้อนรหัสผ่าน "
+
+#: Template/Comman/addstudent.ctp:182 Template/Comman/updatestudent.ctp:140
+#: Template/Parent/addparent.ctp:155 Template/Parent/updateparent.ctp:165
+#: Template/Staff/addstaff.ctp:144 Template/Staff/updatestaff.ctp:138
+#: Template/Student/addstudent.ctp:200 Template/Student/addstudent.ctp:202
+#: Template/Student/registration.ctp:227 Template/Student/updatestudent.ctp:193
+#: Template/Teacher/addteacher.ctp:153 Template/Teacher/addteacher.ctp:155
+#: Template/Teacher/updateteacher.ctp:156
+#: Template/Transport/addtransport.ctp:72
+#: Template/Transport/updatetransport.ctp:71
+msgid "Select Image "
+msgstr "เลือกรูปภาพ "
+
+#: Template/Comman/addstudent.ctp:188 Template/Comman/updatestudent.ctp:158
+#: Template/Student/addstudent.ctp:205 Template/Student/registration.ctp:232
+#: Template/Student/updatestudent.ctp:210
+msgid "Approved "
+msgstr "ได้รับการอนุมัติ "
+
+#: Template/Comman/addstudent.ctp:196 Template/Student/addstudent.ctp:212
+#: Template/Student/exportcsv.ctp:4 Template/Student/uploadcsv.ctp:4
+msgid "Add Student"
+msgstr "เพิ่มนักศึกษา"
+
+#: Template/Comman/addsubject.ctp:41 Template/Comman/subjectlist.ctp:12
+#: Template/Comman/subjectlist.ctp:17 Template/Subject/addsubject.ctp:42
+#: Template/Subject/subjectlist.ctp:87 Template/Subject/updatesubject.ctp:41
+msgid "Subject List"
+msgstr "รายการเรื่อง"
+
+#: Template/Comman/addsubject.ctp:44 Template/Comman/subjectlist.ctp:21
+#: Template/Subject/addsubject.ctp:45 Template/Subject/addsubject.ctp:109
+#: Template/Subject/subjectlist.ctp:90
+msgid "Add Subject"
+msgstr "เพิ่มเรื่อง"
+
+#: Template/Comman/assignroom.ctp:59 Template/Hostel/assignroom.ctp:66
+#: Template/Hostel/assignroom.ctp:197
+msgid "Assign Room"
+msgstr "กำหนดห้อง"
+
+#: Template/Comman/assignroom.ctp:107 Template/Comman/bedslist.ctp:111
+#: Template/Comman/bedslist.ctp:121 Template/Hostel/assignroom.ctp:121
+#: Template/Hostel/bedslist.ctp:132 Template/Hostel/bedslist.ctp:142
+msgid "Bed Unique ID"
+msgstr "Bed ID ที่ไม่ซ้ำกัน"
+
+#: Template/Comman/bedslist.ctp:112 Template/Comman/bedslist.ctp:122
+#: Template/Comman/roomlist.ctp:111 Template/Comman/roomlist.ctp:123
+#: Template/Hostel/bedslist.ctp:133 Template/Hostel/bedslist.ctp:143
+#: Template/Hostel/roomlist.ctp:132 Template/Hostel/roomlist.ctp:144
+msgid "Room Unique ID"
+msgstr "ห้องพักหมายเลขที่ไม่ซ้ำกัน"
+
+#: Template/Comman/bedslist.ctp:113 Template/Comman/bedslist.ctp:123
+#: Template/Comman/roomlist.ctp:115 Template/Comman/roomlist.ctp:127
+#: Template/Hostel/bedslist.ctp:134 Template/Hostel/bedslist.ctp:144
+#: Template/Hostel/roomlist.ctp:136 Template/Hostel/roomlist.ctp:148
+msgid "Availability"
+msgstr "ความพร้อมใช้งาน"
+
+#: Template/Comman/bedslist.ctp:114 Template/Comman/bedslist.ctp:124
+#: Template/Comman/booklist.ctp:40 Template/Comman/booklist.ctp:50
+#: Template/Comman/eventlist.ctp:104 Template/Comman/eventlist.ctp:114
+#: Template/Comman/feelist.ctp:201 Template/Comman/feelist.ctp:215
+#: Template/Comman/holidaylist.ctp:27 Template/Comman/holidaylist.ctp:36
+#: Template/Comman/hostellist.ctp:110 Template/Comman/hostellist.ctp:119
+#: Template/Comman/newslist.ctp:104 Template/Comman/newslist.ctp:115
+#: Template/Comman/roomlist.ctp:116 Template/Comman/roomlist.ctp:128
+#: Template/Event/eventlist.ctp:111 Template/Event/eventlist.ctp:121
+#: Template/Feepayment/feelist.ctp:299 Template/Feepayment/feelist.ctp:314
+#: Template/Feepayment/feetypelist.ctp:141
+#: Template/Feepayment/feetypelist.ctp:151 Template/Hall/halllist.ctp:118
+#: Template/Hall/halllist.ctp:127 Template/Holiday/holidaylist.ctp:117
+#: Template/Holiday/holidaylist.ctp:127 Template/Hostel/bedslist.ctp:135
+#: Template/Hostel/bedslist.ctp:145 Template/Hostel/hostellist.ctp:134
+#: Template/Hostel/hostellist.ctp:143 Template/Hostel/roomlist.ctp:137
+#: Template/Hostel/roomlist.ctp:149 Template/Library/booklist.ctp:148
+#: Template/Library/booklist.ctp:159 Template/Message/inbox.ctp:59
+#: Template/Message/sentbox.ctp:62 Template/News/newslist.ctp:108
+#: Template/News/newslist.ctp:119 Template/Report/feepayment.ctp:220
+#: Template/Report/feepayment.ctp:234
+msgid "Description"
+msgstr "ลักษณะ"
+
+#: Template/Comman/bedslist.ctp:136 Template/Comman/bedslist.ctp:147
+#: Template/Comman/roomlist.ctp:155 Template/Hostel/bedslist.ctp:157
+#: Template/Hostel/bedslist.ctp:168 Template/Hostel/roomlist.ctp:176
+msgid "Available"
+msgstr "ใช้ได้"
+
+#: Template/Comman/bedslist.ctp:139 Template/Comman/roomlist.ctp:150
+#: Template/Hostel/bedslist.ctp:160 Template/Hostel/roomlist.ctp:171
+msgid "Occupied"
+msgstr "ที่ถูกครอบครอง"
+
+#: Template/Comman/bedslist.ctp:172 Template/Hostel/bedslist.ctp:200
+msgid "Not Available Any Bed"
+msgstr "ไม่สามารถใช้งาน Bed ใด ๆ"
+
+#: Template/Comman/booklist.ctp:11 Template/Comman/memberlist.ctp:120
+#: Template/Library/addbook.ctp:228 Template/Library/booklist.ctp:86
+#: Template/Library/issuebook.ctp:241 Template/Library/issuelist.ctp:86
+#: Template/Library/memberlist.ctp:120
+msgid "Member List"
+msgstr "รายชื่อสมาชิก"
+
+#: Template/Comman/booklist.ctp:20 Template/Comman/memberlist.ctp:129
+#: Template/Library/addbook.ctp:237 Template/Library/booklist.ctp:95
+#: Template/Library/issuebook.ctp:250 Template/Library/issuelist.ctp:95
+#: Template/Library/memberlist.ctp:129
+msgid "Book List"
+msgstr "รายชื่อหนังสือ"
+
+#: Template/Comman/booklist.ctp:36 Template/Comman/booklist.ctp:46
+#: Template/Library/booklist.ctp:144 Template/Library/booklist.ctp:155
+msgid "ISBN"
+msgstr "ISBN"
+
+#: Template/Comman/booklist.ctp:37 Template/Comman/booklist.ctp:47
+#: Template/Library/booklist.ctp:145 Template/Library/booklist.ctp:156
+#: Template/Library/issuelist.ctp:146 Template/Library/issuelist.ctp:157
+#: Template/Library/returnbook.ctp:25
+msgid "Book Name"
+msgstr "ชื่อหนังสือ"
+
+#: Template/Comman/booklist.ctp:38 Template/Comman/booklist.ctp:48
+#: Template/Library/booklist.ctp:146 Template/Library/booklist.ctp:157
+#: Template/Subject/subjectlist.ctp:111 Template/Subject/subjectlist.ctp:122
+msgid "Author Name"
+msgstr "เขียนชื่อ"
+
+#: Template/Comman/booklist.ctp:39 Template/Comman/booklist.ctp:49
+#: Template/Library/addbook.ctp:165 Template/Library/addbook.ctp:173
+#: Template/Library/booklist.ctp:147 Template/Library/booklist.ctp:158
+msgid "Rack Location"
+msgstr "เช่าชั้น"
+
+#: Template/Comman/childlist.ctp:83
+msgid "Child List"
+msgstr "รายการเด็ก"
+
+#: Template/Comman/childlist.ctp:95 Template/Comman/childlist.ctp:105
+msgid "Child Name"
+msgstr "ชื่อเด็ก"
+
+#: Template/Comman/childlist.ctp:98 Template/Comman/childlist.ctp:108
+msgid "Child Email"
+msgstr "เด็กอีเมล์"
+
+#: Template/Comman/childlist.ctp:107 Template/Comman/studentlist.ctp:152
+#: Template/Comman/studentlist.ctp:174 Template/Student/studentlist.ctp:214
+msgid "Roll Number"
+msgstr "จำนวนม้วน"
+
+#: Template/Comman/childlist.ctp:130 Template/Comman/studentlist.ctp:198
+#: Template/Comman/studentlist.ctp:226 Template/Comman/studentlist.ctp:252
+#: Template/Comman/studentlist.ctp:279 Template/Comman/studentlist.ctp:303
+#: Template/Student/studentlist.ctp:254
+msgid "View Result"
+msgstr "ดูผล"
+
+#: Template/Comman/childlist.ctp:131 Template/Comman/studentlist.ctp:199
+#: Template/Comman/studentlist.ctp:227 Template/Comman/studentlist.ctp:253
+#: Template/Comman/studentlist.ctp:280 Template/Comman/studentlist.ctp:304
+#: Template/Student/studentlist.ctp:256
+msgid "View Parent"
+msgstr "ดูผู้ปกครอง"
+
+#: Template/Comman/childlist.ctp:132 Template/Comman/studentlist.ctp:200
+#: Template/Comman/studentlist.ctp:228 Template/Comman/studentlist.ctp:254
+#: Template/Comman/studentlist.ctp:281 Template/Comman/studentlist.ctp:305
+#: Template/Comman/teacherlist.ctp:89 Template/Student/studentlist.ctp:258
+#: Template/Teacher/teacherlist.ctp:141
+msgid " View Attendance"
+msgstr " ดูผู้เข้าร่วม"
+
+#: Template/Comman/childlist.ctp:201 Template/Comman/studentlist.ctp:395
+#: Template/Student/studentlist.ctp:318
+msgid "Parent of Student"
+msgstr "ผู้ปกครองของนักเรียน"
+
+#: Template/Comman/classroutelist.ctp:26
+msgid "Class Time Table"
+msgstr "ตารางเวลาเรียน"
+
+#: Template/Comman/eventlist.ctp:105 Template/Comman/eventlist.ctp:115
+#: Template/Comman/holidaylist.ctp:28 Template/Comman/holidaylist.ctp:37
+#: Template/Comman/newslist.ctp:105 Template/Comman/newslist.ctp:116
+#: Template/Comman/studentattendance.ctp:26
+#: Template/Comman/studentsubjectattendance.ctp:56
+#: Template/Event/eventlist.ctp:112 Template/Event/eventlist.ctp:122
+#: Template/Holiday/holidaylist.ctp:118 Template/Holiday/holidaylist.ctp:128
+#: Template/News/newslist.ctp:109 Template/News/newslist.ctp:120
+#: Template/Report/attendance.ctp:74 Template/Student/studentattendance.ctp:34
+#: Template/Student/studentsubjectattendance.ctp:56
+#: Template/Teacher/teacherattendance.ctp:14
+msgid "Start Date"
+msgstr "วันที่เริ่มต้น"
+
+#: Template/Comman/eventlist.ctp:106 Template/Comman/eventlist.ctp:116
+#: Template/Comman/holidaylist.ctp:29 Template/Comman/holidaylist.ctp:38
+#: Template/Comman/newslist.ctp:106 Template/Comman/newslist.ctp:117
+#: Template/Comman/studentattendance.ctp:41
+#: Template/Comman/studentsubjectattendance.ctp:71
+#: Template/Event/eventlist.ctp:113 Template/Event/eventlist.ctp:123
+#: Template/Holiday/holidaylist.ctp:119 Template/Holiday/holidaylist.ctp:129
+#: Template/News/newslist.ctp:110 Template/News/newslist.ctp:121
+#: Template/Report/attendance.ctp:82 Template/Student/studentattendance.ctp:49
+#: Template/Student/studentsubjectattendance.ctp:71
+#: Template/Teacher/teacherattendance.ctp:29
+msgid "End Date"
+msgstr "วันที่สิ้นสุด"
+
+#: Template/Comman/eventlist.ctp:146 Template/Event/eventlist.ctp:161
+msgid "Not Available Any Event"
+msgstr "ไม่สามารถใช้งานกรณีใด ๆ"
+
+#: Template/Comman/examlist.ctp:10 Template/Exam/addexam.ctp:14
+#: Template/Exam/examlist.ctp:88
+msgid "Exam List"
+msgstr "รายการสอบ"
+
+#: Template/Comman/examlist.ctp:26 Template/Comman/examlist.ctp:34
+#: Template/Exam/examlist.ctp:118 Template/Exam/examlist.ctp:126
+msgid "Exam Title"
+msgstr "สอบชื่อเรื่อง"
+
+#: Template/Comman/examlist.ctp:27 Template/Comman/examlist.ctp:35
+#: Template/Exam/examlist.ctp:119 Template/Exam/examlist.ctp:127
+msgid "Exam Date"
+msgstr "วันที่สอบ"
+
+#: Template/Comman/examlist.ctp:28 Template/Comman/examlist.ctp:36
+#: Template/Exam/examlist.ctp:120 Template/Exam/examlist.ctp:128
+msgid "Exam Comment"
+msgstr "วิธีการสอบ"
+
+#: Template/Comman/expenselist.ctp:110 Template/Comman/expenselist.ctp:118
+#: Template/Payment/expenselist.ctp:179 Template/Payment/expenselist.ctp:187
+msgid "Supplier"
+msgstr "อุทธรณ์"
+
+#: Template/Comman/expenselist.ctp:111 Template/Comman/expenselist.ctp:119
+#: Template/Comman/feelist.ctp:199 Template/Comman/feelist.ctp:213
+#: Template/Comman/incomelist.ctp:104 Template/Comman/incomelist.ctp:113
+#: Template/Comman/paymentlist.ctp:139 Template/Comman/paymentlist.ctp:155
+#: Template/Feepayment/feelist.ctp:297 Template/Feepayment/feelist.ctp:312
+#: Template/Feepayment/feetypelist.ctp:140
+#: Template/Feepayment/feetypelist.ctp:150
+#: Template/Feepayment/paymentview.ctp:91 Template/Payment/expenselist.ctp:180
+#: Template/Payment/expenselist.ctp:188 Template/Payment/incomelist.ctp:183
+#: Template/Payment/incomelist.ctp:193 Template/Payment/paymentlist.ctp:212
+#: Template/Payment/paymentlist.ctp:224 Template/Report/feepayment.ctp:218
+#: Template/Report/feepayment.ctp:232
+msgid "Amount"
+msgstr "จำนวน"
+
+#: Template/Comman/expenselist.ctp:159 Template/Comman/incomelist.ctp:161
+#: Template/Comman/paymentlist.ctp:203
+msgid "View Income"
+msgstr "รายได้ดู"
+
+#: Template/Comman/expenselist.ctp:185 Template/Payment/expenselist.ctp:257
+msgid "School Mangement System"
+msgstr "ระบบโรงเรียน Mangement"
+
+#: Template/Comman/exportlist.ctp:113 Template/Comman/exportlist.ctp:122
+#: Template/Export/exportlist.ctp:113 Template/Export/exportlist.ctp:122
+msgid "Export Title"
+msgstr "ส่งออกชื่อ"
+
+#: Template/Comman/exportlist.ctp:114 Template/Comman/exportlist.ctp:123
+#: Template/Export/exportlist.ctp:114 Template/Export/exportlist.ctp:123
+msgid "Export Model"
+msgstr "ส่งออกรุ่น"
+
+#: Template/Comman/exportlist.ctp:144 Template/Export/exportlist.ctp:146
+msgid "Export to Excel"
+msgstr "ส่งออกไปยัง Excel"
+
+#: Template/Comman/exportlist.ctp:159 Template/Export/exportlist.ctp:163
+msgid "Not Available Any Export"
+msgstr "ไม่สามารถส่งออกใด ๆ"
+
+#: Template/Comman/feelist.ctp:94 Template/Feepayment/feelist.ctp:173
+msgid "Paid Amount : "
+msgstr "จำนวนเงินที่ชำระ: "
+
+#: Template/Comman/feelist.ctp:103 Template/Feepayment/feelist.ctp:182
+msgid "Payment By : "
+msgstr "การชำระเงินโดย: "
+
+#: Template/Comman/feelist.ctp:167 Template/Comman/feelist.ctp:173
+#: Template/Comman/feelist.ctp:179 Template/Feepayment/addfeetype.ctp:129
+#: Template/Feepayment/feelist.ctp:261 Template/Feepayment/feetypelist.ctp:105
+#: Template/Feepayment/invoice.ctp:167
+msgid "Fees List"
+msgstr "รายการค่าใช้จ่าย"
+
+#: Template/Comman/feelist.ctp:194 Template/Comman/feelist.ctp:208
+#: Template/Feepayment/addfeetype.ctp:156 Template/Feepayment/feelist.ctp:291
+#: Template/Feepayment/feelist.ctp:306 Template/Feepayment/feetypelist.ctp:137
+#: Template/Feepayment/feetypelist.ctp:147
+#: Template/Feepayment/paymentview.ctp:49 Template/Report/feepayment.ctp:138
+#: Template/Report/feepayment.ctp:213 Template/Report/feepayment.ctp:227
+msgid "Fee Type"
+msgstr "ประเภทค่าธรรมเนียม"
+
+#: Template/Comman/feelist.ctp:196 Template/Comman/feelist.ctp:210
+#: Template/Comman/incomelist.ctp:102 Template/Comman/incomelist.ctp:111
+#: Template/Comman/memberlist.ctp:150 Template/Comman/memberlist.ctp:161
+#: Template/Comman/paymentlist.ctp:136 Template/Comman/paymentlist.ctp:152
+#: Template/Feepayment/feelist.ctp:293 Template/Feepayment/feelist.ctp:308
+#: Template/Library/memberlist.ctp:181 Template/Library/memberlist.ctp:192
+#: Template/Payment/incomelist.ctp:181 Template/Payment/incomelist.ctp:191
+#: Template/Payment/paymentlist.ctp:209 Template/Payment/paymentlist.ctp:221
+#: Template/Report/feepayment.ctp:215 Template/Report/feepayment.ctp:229
+msgid "Roll No"
+msgstr "ม้วนเลขที่"
+
+#: Template/Comman/feelist.ctp:198 Template/Comman/feelist.ctp:212
+#: Template/Feepayment/feelist.ctp:296 Template/Feepayment/feelist.ctp:311
+#: Template/Report/feepayment.ctp:149 Template/Report/feepayment.ctp:217
+#: Template/Report/feepayment.ctp:231
+msgid "Payment Status"
+msgstr "สถานะการชำระเงิน"
+
+#: Template/Comman/feelist.ctp:200 Template/Comman/feelist.ctp:214
+#: Template/Feepayment/feelist.ctp:298 Template/Feepayment/feelist.ctp:313
+#: Template/Report/feepayment.ctp:219 Template/Report/feepayment.ctp:233
+msgid "Due Amount"
+msgstr "ลูกหนี้"
+
+#: Template/Comman/feelist.ctp:202 Template/Comman/feelist.ctp:216
+#: Template/Feepayment/feelist.ctp:300 Template/Feepayment/feelist.ctp:315
+#: Template/Report/feepayment.ctp:221 Template/Report/feepayment.ctp:235
+msgid "Year"
+msgstr "ปี"
+
+#: Template/Comman/feelist.ctp:227 Template/Feepayment/feelist.ctp:326
+#: Template/Feepayment/paymentview.ctp:14 Template/Report/feepayment.ctp:152
+#: Template/Report/feepayment.ctp:246
+msgid "Not Paid"
+msgstr "ไม่ได้ชำระเงิน"
+
+#: Template/Comman/feelist.ctp:229 Template/Feepayment/feelist.ctp:328
+#: Template/Feepayment/paymentview.ctp:16 Template/Report/feepayment.ctp:153
+#: Template/Report/feepayment.ctp:248
+msgid "Partially Paid"
+msgstr "ที่เรียกชำระแล้วบางส่วน"
+
+#: Template/Comman/feelist.ctp:231 Template/Feepayment/feelist.ctp:330
+#: Template/Feepayment/paymentview.ctp:18 Template/Report/feepayment.ctp:154
+#: Template/Report/feepayment.ctp:250
+msgid "Full Paid"
+msgstr "เต็มรูปแบบที่เรียกชำระแล้ว"
+
+#: Template/Comman/feelist.ctp:264 Template/Comman/feelist.ctp:303
+#: Template/Comman/feelist.ctp:344 Template/Comman/memberlist.ctp:188
+#: Template/Comman/memberlist.ctp:219 Template/Comman/newslist.ctp:146
+#: Template/Comman/noticelist.ctp:123 Template/Comman/noticelist.ctp:148
+#: Template/Comman/noticelist.ctp:164 Template/Comman/noticelist.ctp:180
+#: Template/Comman/subjectlist.ctp:106 Template/Feepayment/feelist.ctp:366
+#: Template/Library/memberlist.ctp:215 Template/News/newslist.ctp:150
+#: Template/Notice/noticelist.ctp:234 Template/Report/feepayment.ctp:286
+#: Template/Subject/subjectlist.ctp:154
+msgid "View"
+msgstr "ดู"
+
+#: Template/Comman/feelist.ctp:302 Template/Comman/feelist.ctp:343
+#: Template/Feepayment/feelist.ctp:365
+msgid "Pay"
+msgstr "จ่ายเงิน"
+
+#: Template/Comman/holidaylist.ctp:10 Template/Comman/holidaylist.ctp:26
+#: Template/Comman/holidaylist.ctp:35 Template/Dashboard/dashboard.ctp:83
+#: Template/Holiday/addholiday.ctp:13 Template/Holiday/holidaylist.ctp:85
+#: Template/Holiday/holidaylist.ctp:116 Template/Holiday/holidaylist.ctp:126
+#: Template/Templet/parentdash.ctp:95 Template/Templet/studentdash.ctp:95
+#: Template/Templet/supportstaffdash.ctp:95 Template/Templet/teacherdash.ctp:92
+#: Template/Templet/templet.ctp:95
+msgid "Holiday List"
+msgstr "รายการวันหยุด"
+
+#: Template/Comman/hostellist.ctp:108 Template/Comman/hostellist.ctp:117
+#: Template/Comman/roomlist.ctp:112 Template/Comman/roomlist.ctp:124
+#: Template/Hostel/hostellist.ctp:132 Template/Hostel/hostellist.ctp:141
+#: Template/Hostel/roomlist.ctp:133 Template/Hostel/roomlist.ctp:145
+msgid "Hostel Name"
+msgstr "ชื่อโฮสเทล"
+
+#: Template/Comman/hostellist.ctp:109 Template/Comman/hostellist.ctp:118
+#: Template/Hostel/hostellist.ctp:133 Template/Hostel/hostellist.ctp:142
+msgid "Hostel Type"
+msgstr "ประเภทโฮสเทล"
+
+#: Template/Comman/hostellist.ctp:149 Template/Hostel/hostellist.ctp:180
+msgid "Not Available Any Hostel"
+msgstr "ไม่สามารถใช้งานโฮสเทลใด ๆ"
+
+#: Template/Comman/importedit.ctp:16 Template/Comman/importlist.ctp:113
+#: Template/Comman/importlist.ctp:122 Template/Export/importedit.ctp:16
+#: Template/Export/importlist.ctp:113 Template/Export/importlist.ctp:122
+msgid "Import Title"
+msgstr "นำเข้าชื่อ"
+
+#: Template/Comman/importlist.ctp:114 Template/Comman/importlist.ctp:123
+#: Template/Export/importlist.ctp:114 Template/Export/importlist.ctp:123
+msgid "Import Model"
+msgstr "นำเข้ารุ่น"
+
+#: Template/Comman/importlist.ctp:158 Template/Export/importlist.ctp:162
+msgid "Not Available Any Import"
+msgstr "ใด ๆ ที่นำเข้าไม่สามารถใช้งาน"
+
+#: Template/Comman/memberlist.ctp:75 Template/Comman/memberlist.ctp:99
+#: Template/Library/memberlist.ctp:75 Template/Library/memberlist.ctp:99
+msgid "Student Library History"
+msgstr "ประวัติห้องสมุดนักศึกษา"
+
+#: Template/Comman/memberlist.ctp:220 Template/Library/memberlist.ctp:216
+msgid "Accept Return"
+msgstr "ยอมรับผลตอบแทน"
+
+#: Template/Comman/newslist.ctp:84 Template/Comman/newslist.ctp:103
+#: Template/Comman/newslist.ctp:114 Template/News/addnews.ctp:18
+#: Template/News/newslist.ctp:84 Template/News/newslist.ctp:107
+#: Template/News/newslist.ctp:118 Template/Templet/parentdash.ctp:117
+#: Template/Templet/studentdash.ctp:117
+#: Template/Templet/supportstaffdash.ctp:117
+#: Template/Templet/teacherdash.ctp:112 Template/Templet/templet.ctp:119
+msgid "News List"
+msgstr "รายการข่าว"
+
+#: Template/Comman/newslist.ctp:107 Template/Comman/newslist.ctp:118
+#: Template/News/newslist.ctp:111 Template/News/newslist.ctp:122
+msgid "Document"
+msgstr "เอกสาร"
+
+#: Template/Comman/newslist.ctp:144 Template/Comman/subjectlist.ctp:103
+#: Template/News/newslist.ctp:148 Template/Subject/subjectlist.ctp:151
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+#: Template/Comman/newslist.ctp:165 Template/News/newslist.ctp:176
+msgid "Not Available Any News"
+msgstr "ไม่สามารถใช้งานข่าวใด ๆ"
+
+#: Template/Comman/noticelist.ctp:70 Template/Notice/addnotice.ctp:65
+#: Template/Notice/noticelist.ctp:148 Template/Notice/updatenotice.ctp:59
+msgid "Notice List"
+msgstr "รายการแจ้งให้ทราบล่วงหน้า"
+
+#: Template/Comman/noticelist.ctp:80 Template/Comman/noticelist.ctp:91
+#: Template/Notice/noticelist.ctp:177 Template/Notice/noticelist.ctp:189
+msgid "Notice Title"
+msgstr "แจ้งให้ทราบชื่อ"
+
+#: Template/Comman/noticelist.ctp:81 Template/Comman/noticelist.ctp:92
+#: Template/Notice/noticelist.ctp:178 Template/Notice/noticelist.ctp:190
+msgid "Notice Comment"
+msgstr "คำแนะนำวิธี"
+
+#: Template/Comman/noticelist.ctp:82 Template/Comman/noticelist.ctp:93
+#: Template/Notice/noticelist.ctp:179 Template/Notice/noticelist.ctp:191
+msgid "Notice Start Date"
+msgstr "เริ่มต้นวันที่แจ้งให้ทราบ"
+
+#: Template/Comman/noticelist.ctp:83 Template/Comman/noticelist.ctp:94
+#: Template/Notice/noticelist.ctp:180 Template/Notice/noticelist.ctp:192
+msgid "Notice End Date"
+msgstr "วันที่คำแนะนำ End"
+
+#: Template/Comman/noticelist.ctp:84 Template/Comman/noticelist.ctp:95
+#: Template/Notice/noticelist.ctp:181 Template/Notice/noticelist.ctp:193
+msgid "Notice For"
+msgstr "สำหรับคำแนะนำ"
+
+#: Template/Comman/paymentlist.ctp:138 Template/Comman/paymentlist.ctp:154
+#: Template/Payment/paymentlist.ctp:211 Template/Payment/paymentlist.ctp:223
+msgid "Title"
+msgstr "ชื่อเรื่อง"
+
+#: Template/Comman/paymentlist.ctp:140 Template/Comman/paymentlist.ctp:156
+#: Template/Message/inbox.ctp:56 Template/Payment/paymentlist.ctp:213
+#: Template/Payment/paymentlist.ctp:225 Template/Student/studentlist.ctp:203
+#: Template/Student/studentlist.ctp:216
+msgid "Status"
+msgstr "สถานะ"
+
+#: Template/Comman/roomlist.ctp:114 Template/Comman/roomlist.ctp:126
+#: Template/Hostel/roomlist.ctp:135 Template/Hostel/roomlist.ctp:147
+msgid "Beds capacity"
+msgstr "ความจุเตียง"
+
+#: Template/Comman/roomlist.ctp:163 Template/Hostel/roomlist.ctp:187
+msgid "View or Assign Room"
+msgstr "ดูหรือห้องกำหนด"
+
+#: Template/Comman/roomlist.ctp:178 Template/Hostel/roomlist.ctp:204
+msgid "Not Available Any Room"
+msgstr "ไม่สามารถใช้งานห้องใด"
+
+#: Template/Comman/studentattendance.ctp:4
+#: Template/Comman/studentsubjectattendance.ctp:40
+#: Template/Student/studentattendance.ctp:7
+#: Template/Student/studentattendance.ctp:11
+#: Template/Student/studentsubjectattendance.ctp:40
+#: Template/Teacher/teacherattendance.ctp:4
+msgid "View Attendance"
+msgstr "ดูผู้เข้าร่วม"
+
+#: Template/Comman/studentattendance.ctp:10
+#: Template/Comman/studentattendance.ctp:14
+#: Template/Comman/studentsubjectattendance.ctp:46
+#: Template/Student/studentattendance.ctp:18
+#: Template/Student/studentattendance.ctp:22
+#: Template/Student/studentsubjectattendance.ctp:46
+msgid "View Subject Wise Attendance"
+msgstr "ดูเรื่องการเข้าร่วมประชุมปรีชาญาณ"
+
+#: Template/Comman/studentattendance.ctp:65
+#: Template/Comman/studentsubjectattendance.ctp:115
+#: Template/Student/studentattendance.ctp:74
+#: Template/Student/studentsubjectattendance.ctp:116
+#: Template/Teacher/teacherattendance.ctp:54
+msgid "Student Name :"
+msgstr "ชื่อนักศึกษา:"
+
+#: Template/Comman/studentattendance.ctp:69
+#: Template/Comman/studentsubjectattendance.ctp:119
+#: Template/Library/studentviewbook.ctp:49
+#: Template/Student/studentattendance.ctp:78
+#: Template/Student/studentsubjectattendance.ctp:120
+#: Template/Teacher/teacherattendance.ctp:58
+msgid "Day"
+msgstr "วัน"
+
+#: Template/Comman/studentattendance.ctp:109
+#: Template/Comman/studentsubjectattendance.ctp:159
+#: Template/Student/studentattendance.ctp:118
+#: Template/Student/studentsubjectattendance.ctp:160
+#: Template/Teacher/teacherattendance.ctp:98
+msgid "-"
+msgstr "-"
+
+#: Template/Comman/studentsubjectattendance.ctp:115
+#: Template/Student/studentsubjectattendance.ctp:116
+msgid "Subject Name :"
+msgstr "ชื่อเรื่อง:"
+
+#: Template/Comman/subjectlist.ctp:38 Template/Comman/subjectlist.ctp:48
+#: Template/Comman/subjectlist.ctp:62 Template/Comman/subjectlist.ctp:71
+#: Template/Subject/subjectlist.ctp:107 Template/Subject/subjectlist.ctp:118
+#: Template/Teacher/teacherlist.ctp:108 Template/Teacher/teacherlist.ctp:118
+msgid "Subject Name"
+msgstr "ชื่อเรื่อง"
+
+#: Template/Comman/subjectlist.ctp:39 Template/Comman/subjectlist.ctp:49
+#: Template/Comman/subjectlist.ctp:63 Template/Comman/subjectlist.ctp:72
+#: Template/Comman/teacherlist.ctp:22 Template/Comman/teacherlist.ctp:29
+#: Template/Comman/teacherlist.ctp:37 Template/Comman/teacherlist.ctp:45
+#: Template/Report/teacher.ctp:69 Template/Subject/subjectlist.ctp:108
+#: Template/Subject/subjectlist.ctp:119 Template/Teacher/teacherlist.ctp:106
+#: Template/Teacher/teacherlist.ctp:116
+msgid "Teacher Name"
+msgstr "ชื่อครู"
+
+#: Template/Comman/subjectlist.ctp:40 Template/Comman/subjectlist.ctp:50
+#: Template/Comman/subjectlist.ctp:64 Template/Comman/subjectlist.ctp:73
+#: Template/Comman/subjectlist.ctp:134
+msgid "Syllabus"
+msgstr "หลักสูตร"
+
+#: Template/Comman/teacherlist.ctp:9 Template/Teacher/addteacher.ctp:20
+#: Template/Teacher/teacherlist.ctp:85 Template/Teacher/updateteacher.ctp:23
+msgid "Teacher List"
+msgstr "รายการครู"
+
+#: Template/Comman/transportlist.ctp:10 Template/Transport/addtransport.ctp:7
+#: Template/Transport/transportlist.ctp:88
+msgid "Transport List"
+msgstr "รายการขนส่ง"
+
+#: Template/Comman/transportlist.ctp:27 Template/Comman/transportlist.ctp:40
+#: Template/Transport/transportlist.ctp:120
+#: Template/Transport/transportlist.ctp:132
+msgid "Route Name"
+msgstr "ชื่อถนน"
+
+#: Template/Comman/transportlist.ctp:28 Template/Comman/transportlist.ctp:41
+#: Template/Transport/transportlist.ctp:121
+#: Template/Transport/transportlist.ctp:133
+msgid "Vehicle Identifier"
+msgstr "ระบุยานพาหนะ"
+
+#: Template/Comman/transportlist.ctp:29 Template/Comman/transportlist.ctp:42
+#: Template/Transport/transportlist.ctp:122
+#: Template/Transport/transportlist.ctp:134
+msgid "Vehicle Registration Number"
+msgstr "เลขทะเบียนยานพาหนะ"
+
+#: Template/Comman/transportlist.ctp:31 Template/Comman/transportlist.ctp:44
+#: Template/Transport/transportlist.ctp:118
+#: Template/Transport/transportlist.ctp:130
+msgid "Driver Name"
+msgstr "ชื่อคนขับ"
+
+#: Template/Comman/transportlist.ctp:32 Template/Comman/transportlist.ctp:45
+#: Template/Transport/transportlist.ctp:119
+#: Template/Transport/transportlist.ctp:131
+msgid "Driver Phone Number"
+msgstr "หมายเลขโทรศัพท์ไดร์เวอร์"
+
+#: Template/Comman/transportlist.ctp:33 Template/Comman/transportlist.ctp:46
+#: Template/Transport/transportlist.ctp:123
+#: Template/Transport/transportlist.ctp:135
+msgid "Route Fare"
+msgstr "เส้นทางค่าโดยสาร"
+
+#: Template/Comman/updatestudent.ctp:7 Template/Student/updatestudent.ctp:52
+msgid "Edit Student"
+msgstr "แก้ไขนักศึกษา"
+
+#: Template/Comman/updatestudent.ctp:86 Template/Parent/updateparent.ctp:120
+#: Template/Staff/updatestaff.ctp:73 Template/Student/updatestudent.ctp:139
+#: Template/Teacher/updateteacher.ctp:91
+msgid "Select State "
+msgstr "เลือกรัฐ "
+
+#: Template/Comman/updatestudent.ctp:92 Template/Parent/updateparent.ctp:126
+#: Template/Staff/updatestaff.ctp:79 Template/Student/updatestudent.ctp:145
+#: Template/Teacher/updateteacher.ctp:97
+msgid "Select City "
+msgstr "เลือกเมือง "
+
+#: Template/Comman/updatestudent.ctp:177 Template/Student/updatestudent.ctp:229
+msgid "Save Student"
+msgstr "บันทึกนักศึกษา"
+
+#: Template/Comman/viewdataexpense.ctp:42 Template/Comman/viewdataincome.ctp:44
+#: Template/Comman/viewdatapayment.ctp:45
+#: Template/Payment/viewdataexpense.ctp:43
+#: Template/Payment/viewdataincome.ctp:48
+#: Template/Payment/viewdatapayment.ctp:47
+msgid "Issue Date:"
+msgstr "วันที่ออก:"
+
+#: Template/Comman/viewdataexpense.ctp:44 Template/Comman/viewdataincome.ctp:46
+#: Template/Comman/viewdatapayment.ctp:47
+#: Template/Payment/viewdataexpense.ctp:45
+#: Template/Payment/viewdataincome.ctp:50
+#: Template/Payment/viewdatapayment.ctp:49
+msgid "Status:"
+msgstr "สถานะ:"
+
+#: Template/Comman/viewdataexpense.ctp:48 Template/Comman/viewdataincome.ctp:50
+#: Template/Comman/viewdatapayment.ctp:51
+#: Template/Feepayment/paymentview.ctp:27
+#: Template/Payment/viewdataexpense.ctp:49
+#: Template/Payment/viewdataincome.ctp:54
+#: Template/Payment/viewdatapayment.ctp:53
+msgid "Payment To"
+msgstr "การชำระเงิน"
+
+#: Template/Comman/viewdataexpense.ctp:54 Template/Comman/viewdataincome.ctp:56
+#: Template/Comman/viewdatapayment.ctp:57
+#: Template/Feepayment/paymentview.ctp:34
+#: Template/Payment/viewdataexpense.ctp:55
+#: Template/Payment/viewdataincome.ctp:60
+#: Template/Payment/viewdatapayment.ctp:59
+msgid "Bill to"
+msgstr "บิล"
+
+#: Template/Comman/viewdataexpense.ctp:63 Template/Comman/viewdataincome.ctp:65
+#: Template/Comman/viewdatapayment.ctp:66
+#: Template/Payment/viewdataexpense.ctp:64
+#: Template/Payment/viewdataincome.ctp:69
+#: Template/Payment/viewdatapayment.ctp:68
+msgid "Invoice Entries"
+msgstr "รายการใบแจ้งหนี้"
+
+#: Template/Comman/viewdataexpense.ctp:67 Template/Comman/viewdataincome.ctp:69
+#: Template/Comman/viewdatapayment.ctp:70
+#: Template/Payment/viewdataexpense.ctp:68
+#: Template/Payment/viewdataincome.ctp:73
+#: Template/Payment/viewdatapayment.ctp:72
+msgid "#"
+msgstr "#"
+
+#: Template/Comman/viewdataexpense.ctp:69 Template/Comman/viewdataincome.ctp:71
+#: Template/Comman/viewdatapayment.ctp:72
+#: Template/Payment/viewdataexpense.ctp:70
+#: Template/Payment/viewdataincome.ctp:75
+#: Template/Payment/viewdatapayment.ctp:74
+msgid "Entry"
+msgstr "การเข้า"
+
+#: Template/Comman/viewdataexpense.ctp:70 Template/Comman/viewdataincome.ctp:72
+#: Template/Comman/viewdatapayment.ctp:73
+#: Template/Payment/viewdataexpense.ctp:71
+#: Template/Payment/viewdataincome.ctp:76
+#: Template/Payment/viewdatapayment.ctp:75
+msgid "Price"
+msgstr "ราคา"
+
+#: Template/Comman/viewdataexpense.ctp:112
+#: Template/Comman/viewdataincome.ctp:114
+#: Template/Comman/viewdatapayment.ctp:92
+#: Template/Payment/viewdataexpense.ctp:113
+#: Template/Payment/viewdataincome.ctp:118
+#: Template/Payment/viewdatapayment.ctp:94
+msgid "Grand Total:"
+msgstr "รวมทั้งหมด:"
+
+#: Template/Dashboard/dashboard.ctp:28 Template/Dashboard/dashboard.ctp:38
+#: Template/Dashboard/dashboard.ctp:48 Template/Dashboard/dashboard.ctp:58
+msgid "0"
+msgstr "0"
+
+#: Template/Dashboard/dashboard.ctp:59
+msgid "Today Attendence"
+msgstr "วันนี้ attendence"
+
+#: Template/Dashboard/dashboard.ctp:74
+msgid "Noticeboard"
+msgstr "ป้ายประกาศ"
+
+#: Template/Exam/addexam.ctp:23
+msgid " Add Exam"
+msgstr " เพิ่มการสอบ"
+
+#: Template/Exam/addexam.ctp:38 Template/Exam/updateexam.ctp:34
+msgid "Exam Name "
+msgstr "ชื่อสอบ "
+
+#: Template/Exam/addexam.ctp:41
+msgid "Enter Exam Name "
+msgstr "กรุณาใส่ชื่อสอบ "
+
+#: Template/Exam/addexam.ctp:45 Template/Exam/updateexam.ctp:40
+msgid "Exam Date "
+msgstr "วันที่สอบ "
+
+#: Template/Exam/addexam.ctp:47 Template/Holiday/addholiday.ctp:52
+#: Template/Holiday/addholiday.ctp:59 Template/Holiday/updateholiday.ctp:51
+#: Template/Holiday/updateholiday.ctp:58
+msgid "Enter Exam date "
+msgstr "ใส่ข้อมูลวันสอบ "
+
+#: Template/Exam/addexam.ctp:53 Template/Exam/updateexam.ctp:48
+msgid "Exam Comment "
+msgstr "วิธีการสอบ "
+
+#: Template/Exam/addexam.ctp:55
+msgid "Enter Exam Comment "
+msgstr "ใส่สอบวิธี "
+
+#: Template/Exam/addexam.ctp:63 Template/Exam/examlist.ctp:97
+#: Template/Exam/updateexam.ctp:22
+msgid "Add Exam"
+msgstr "เพิ่มการสอบ"
+
+#: Template/Exam/examlist.ctp:162
+msgid "Not Available Any Exam"
+msgstr "ไม่สามารถใช้การสอบใด ๆ"
+
+#: Template/Exam/updateexam.ctp:13
+msgid "Edit List"
+msgstr "แก้ไขรายการ"
+
+#: Template/Exam/updateexam.ctp:58
+msgid "Edit Exam"
+msgstr "แก้ไขการสอบ"
+
+#: Template/Feepayment/addfeetype.ctp:95
+msgid "Edit List1"
+msgstr "แก้ไข List1"
+
+#: Template/Feepayment/addfeetype.ctp:100 Template/Feepayment/feelist.ctp:251
+#: Template/Feepayment/feetypelist.ctp:95 Template/Feepayment/invoice.ctp:157
+msgid "Add Fee Type"
+msgstr "เพิ่มค่าธรรมเนียมประเภท"
+
+#: Template/Feepayment/addfeetype.ctp:110 Template/Feepayment/feelist.ctp:242
+#: Template/Feepayment/feetypelist.ctp:86 Template/Feepayment/invoice.ctp:148
+msgid "Fee Type List"
+msgstr "ค่าธรรมเนียมรายการประเภท"
+
+#: Template/Feepayment/addfeetype.ctp:138 Template/Feepayment/feelist.ctp:270
+#: Template/Feepayment/feetypelist.ctp:114 Template/Feepayment/invoice.ctp:183
+msgid "Generate Invoice"
+msgstr "สร้างใบแจ้งหนี้"
+
+#: Template/Feepayment/addfeetype.ctp:164
+msgid "Type"
+msgstr "ชนิด"
+
+#: Template/Feepayment/addfeetype.ctp:191
+msgid "FeeType:"
+msgstr "FeeType:"
+
+#: Template/Feepayment/addfeetype.ctp:198
+msgid "Save Fee Type"
+msgstr "บันทึกประเภทค่าธรรมเนียม"
+
+#: Template/Feepayment/addfeetype.ctp:227
+msgid "Fee Type "
+msgstr "ประเภทค่าธรรมเนียม "
+
+#: Template/Feepayment/addfeetype.ctp:239 Template/Feepayment/invoice.ctp:274
+msgid "Select Fee Type"
+msgstr "เลือกประเภทค่าธรรมเนียม"
+
+#: Template/Feepayment/addfeetype.ctp:254 Template/Library/addbook.ctp:329
+#: Template/Library/addbook.ctp:384 Template/Library/issuebook.ctp:437
+msgid "Add Or Remove"
+msgstr "เพิ่มหรือลบ"
+
+#: Template/Feepayment/addfeetype.ctp:262 Template/Library/issuebook.ctp:293
+#: Template/Payment/addpayment.ctp:146
+msgid "Class "
+msgstr "ชั้น "
+
+#: Template/Feepayment/addfeetype.ctp:288 Template/Feepayment/invoice.ctp:223
+#: Template/Library/issuebook.ctp:334
+msgid "Section : "
+msgstr "ส่วน: "
+
+#: Template/Feepayment/addfeetype.ctp:306 Template/Payment/addpayment.ctp:226
+msgid "Amount "
+msgstr "จำนวน "
+
+#: Template/Feepayment/addfeetype.ctp:308 Template/Payment/addpayment.ctp:228
+msgid "Enter Amount "
+msgstr "ใส่จำนวน "
+
+#: Template/Feepayment/addfeetype.ctp:326
+msgid "Create Fee Type"
+msgstr "สร้างค่าบริการประเภท"
+
+#: Template/Feepayment/feelist.ctp:187
+msgid "Cash"
+msgstr "เงินสด"
+
+#: Template/Feepayment/feelist.ctp:188
+msgid "Cheque"
+msgstr "ตรวจสอบ"
+
+#: Template/Feepayment/feelist.ctp:189
+msgid "Bank Transfer"
+msgstr "โอนเงินผ่านธนาคาร"
+
+#: Template/Feepayment/feelist.ctp:295 Template/Feepayment/feelist.ctp:310
+#: Template/Feepayment/feetypelist.ctp:139
+#: Template/Feepayment/feetypelist.ctp:149
+msgid "Section"
+msgstr "ส่วน"
+
+#: Template/Feepayment/feelist.ctp:403
+msgid "Fees Alert"
+msgstr "ค่าธรรมเนียมการแจ้งเตือน"
+
+#: Template/Feepayment/feelist.ctp:414
+msgid "Not Available Any Fees"
+msgstr "ไม่สามารถใช้งานค่าธรรมเนียมใด ๆ"
+
+#: Template/Feepayment/feetypelist.ctp:205
+msgid "Not Available Any Fee Type"
+msgstr "ค่าบริการประเภทใดก็ได้ไม่สามารถใช้งาน"
+
+#: Template/Feepayment/invoice.ctp:179
+msgid "Edit Invoice"
+msgstr "แก้ไขใบแจ้งหนี้"
+
+#: Template/Feepayment/invoice.ctp:242
+msgid "Student: "
+msgstr "นักศึกษา: "
+
+#: Template/Feepayment/invoice.ctp:264
+msgid "Fee Type : "
+msgstr "ประเภทค่าใช้จ่าย: "
+
+#: Template/Feepayment/invoice.ctp:328
+msgid "Year : "
+msgstr "ปี: "
+
+#: Template/Feepayment/invoice.ctp:339 Template/Setting/generalsetting.ctp:39
+msgid "Starting Year"
+msgstr "เริ่มต้นปี"
+
+#: Template/Feepayment/invoice.ctp:357
+msgid "Ending Year"
+msgstr "สิ้นสุดปี"
+
+#: Template/Feepayment/invoice.ctp:375
+msgid "Create Invoice"
+msgstr "สร้างใบแจ้งหนี้"
+
+#: Template/Feepayment/paymentview.ctp:10
+msgid "Issue Date :"
+msgstr "วันที่ออก:"
+
+#: Template/Feepayment/paymentview.ctp:22
+msgid "Status :"
+msgstr "สถานะ:"
+
+#: Template/Feepayment/paymentview.ctp:50 Template/Report/result.ctp:157
+msgid "Total"
+msgstr "ทั้งหมด"
+
+#: Template/Feepayment/paymentview.ctp:63
+msgid "Sub Total:"
+msgstr "ชิ้นราคารวม:"
+
+#: Template/Feepayment/paymentview.ctp:68
+msgid "Payment Made:"
+msgstr "ชำระเงิน:"
+
+#: Template/Feepayment/paymentview.ctp:73
+msgid "Due Amount:"
+msgstr "จำนวนเงินที่ครบกำหนด:"
+
+#: Template/Feepayment/paymentview.ctp:85
+msgid "Payment History"
+msgstr "ประวัติการชำระเงิน"
+
+#: Template/Feepayment/paymentview.ctp:92
+msgid "Method"
+msgstr "วิธี"
+
+#: Template/Feepayment/showfeetype.ctp:3 Template/Report/feepayment.ctp:141
+msgid "---Select Fee Type---"
+msgstr "ค่าธรรมเนียม --- เลือกประเภท ---"
+
+#: Template/Grade/addgrade.ctp:13 Template/Grade/gradelist.ctp:90
+msgid "Grade List"
+msgstr "รายการอันดับ"
+
+#: Template/Grade/addgrade.ctp:22 Template/Grade/addgrade.ctp:74
+#: Template/Grade/gradelist.ctp:99 Template/Grade/updategrade.ctp:19
+msgid "Add Grade"
+msgstr "เพิ่มเกรด"
+
+#: Template/Grade/addgrade.ctp:35 Template/Grade/updategrade.ctp:31
+msgid "Grade Name "
+msgstr "ยศชื่อ "
+
+#: Template/Grade/addgrade.ctp:37 Template/Grade/updategrade.ctp:33
+msgid "Enter Grade Name "
+msgstr "กรุณาใส่ชื่อเกรด "
+
+#: Template/Grade/addgrade.ctp:42 Template/Grade/updategrade.ctp:38
+msgid "Grade Point "
+msgstr "เกรดพอยต์ "
+
+#: Template/Grade/addgrade.ctp:44 Template/Grade/updategrade.ctp:40
+msgid "Enter Grade Point "
+msgstr "ใส่เกรด "
+
+#: Template/Grade/addgrade.ctp:49 Template/Grade/updategrade.ctp:45
+msgid "mark From "
+msgstr "Mark จาก "
+
+#: Template/Grade/addgrade.ctp:51 Template/Grade/updategrade.ctp:47
+msgid "Enter Grade Form "
+msgstr "ใส่แบบฟอร์มเกรด "
+
+#: Template/Grade/addgrade.ctp:57
+msgid "Mark Upto "
+msgstr "มาร์คไม่เกิน "
+
+#: Template/Grade/addgrade.ctp:59 Template/Grade/updategrade.ctp:55
+msgid "Enter Grade Upto "
+msgstr "ใส่ไม่เกินชั้นประถมศึกษาปี "
+
+#: Template/Grade/addgrade.ctp:64 Template/Grade/updategrade.ctp:60
+msgid "Comment "
+msgstr "อย่างไร "
+
+#: Template/Grade/addgrade.ctp:66 Template/Grade/updategrade.ctp:62
+msgid "Enter Grade Comment "
+msgstr "ใส่เกรดวิธี "
+
+#: Template/Grade/gradelist.ctp:119 Template/Grade/gradelist.ctp:129
+msgid "Grade Name"
+msgstr "ยศชื่อ"
+
+#: Template/Grade/gradelist.ctp:120 Template/Grade/gradelist.ctp:130
+msgid "Grade Point"
+msgstr "เกรดพอยต์"
+
+#: Template/Grade/gradelist.ctp:121 Template/Grade/gradelist.ctp:131
+msgid "Mark From"
+msgstr "Mark จาก"
+
+#: Template/Grade/gradelist.ctp:122 Template/Grade/gradelist.ctp:132
+msgid "Mark Upto"
+msgstr "มาร์คไม่เกิน"
+
+#: Template/Grade/gradelist.ctp:168
+msgid "Not Available Any Grade"
+msgstr "ไม่สามารถใช้งานใด ๆ เกรด"
+
+#: Template/Grade/updategrade.ctp:11
+msgid "Edit Grade"
+msgstr "แก้ไขเกรด"
+
+#: Template/Grade/updategrade.ctp:53
+msgid "mark Upto "
+msgstr "เครื่องหมายเกิน "
+
+#: Template/Grade/updategrade.ctp:70
+msgid "Update Grade"
+msgstr "ปรับปรุงอันดับ"
+
+#: Template/Hall/addhall.ctp:12 Template/Hall/halllist.ctp:86
+msgid "Hall List"
+msgstr "รายการฮอลล์"
+
+#: Template/Hall/addhall.ctp:20 Template/Hall/addhall.ctp:64
+#: Template/Hall/halllist.ctp:95 Template/Hall/updatehall.ctp:19
+msgid "Add Hall"
+msgstr "เพิ่มฮอลล์"
+
+#: Template/Hall/addhall.ctp:32 Template/Hall/updatehall.ctp:32
+msgid "Hall Name "
+msgstr "ชื่อฮอลล์ "
+
+#: Template/Hall/addhall.ctp:34 Template/Hall/updatehall.ctp:34
+msgid "Enter Hall Name "
+msgstr "กรุณาใส่ชื่อฮอลล์ "
+
+#: Template/Hall/addhall.ctp:39 Template/Hall/updatehall.ctp:39
+msgid "Hall Numeric Value "
+msgstr "ฮอลล์ค่าตัวเลข "
+
+#: Template/Hall/addhall.ctp:41 Template/Hall/updatehall.ctp:41
+msgid "Enter Number of Hall "
+msgstr "ใส่จำนวนฮอลล์ "
+
+#: Template/Hall/addhall.ctp:46 Template/Hall/updatehall.ctp:46
+msgid "Capacity "
+msgstr "ความจุ "
+
+#: Template/Hall/addhall.ctp:48 Template/Hall/updatehall.ctp:48
+msgid "Enter Hall Capacity "
+msgstr "ใส่ความจุฮอลล์ "
+
+#: Template/Hall/addhall.ctp:56 Template/Hall/updatehall.ctp:56
+msgid "Enter Hall Description "
+msgstr "ใส่รายละเอียดฮอลล์ "
+
+#: Template/Hall/halllist.ctp:115 Template/Hall/halllist.ctp:124
+msgid "Hall Name"
+msgstr "ชื่อฮอลล์"
+
+#: Template/Hall/halllist.ctp:116 Template/Hall/halllist.ctp:125
+msgid "Hall Numeric Value"
+msgstr "ฮอลล์ค่าตัวเลข"
+
+#: Template/Hall/halllist.ctp:160
+msgid "Not Available Any Hall"
+msgstr "ไม่สามารถใช้งานใด ๆ ฮอลล์"
+
+#: Template/Hall/updatehall.ctp:11 Template/Hall/updatehall.ctp:64
+msgid "Edit Hall"
+msgstr "แก้ไขฮอลล์"
+
+#: Template/Holiday/addholiday.ctp:21 Template/Holiday/addholiday.ctp:68
+#: Template/Holiday/holidaylist.ctp:94 Template/Holiday/updateholiday.ctp:19
+msgid "Add Holiday"
+msgstr "เพิ่มวันหยุด"
+
+#: Template/Holiday/addholiday.ctp:33
+msgid "Holiday Title "
+msgstr "ฮอลิเดย์ชื่อเรื่อง "
+
+#: Template/Holiday/addholiday.ctp:35 Template/Holiday/updateholiday.ctp:34
+msgid "Enter Holiday Title "
+msgstr "ใส่ชื่อฮอลิเดย์ "
+
+#: Template/Holiday/holidaylist.ctp:163
+msgid "Not Available Any Holiday"
+msgstr "ไม่สามารถใช้งานใด ๆ ในวันหยุด"
+
+#: Template/Holiday/updateholiday.ctp:11 Template/Holiday/updateholiday.ctp:67
+msgid "Edit Holiday"
+msgstr "แก้ไขวันหยุด"
+
+#: Template/Holiday/updateholiday.ctp:32
+msgid "Holiday Title : "
+msgstr "ฮอลิเดย์ชื่อเรื่อง: "
+
+#: Template/Holiday/updateholiday.ctp:49
+msgid "Start Date : "
+msgstr "วันที่เริ่ม: "
+
+#: Template/Holiday/updateholiday.ctp:56
+msgid "End Date : "
+msgstr "วันสิ้นสุด: "
+
+#: Template/Installer/index.ctp:2 Template/Installer/success.ctp:2
+msgid "School Master - School Management Installation Wizard"
+msgstr "โรงเรียน Master - โรงเรียนการจัดการตัวช่วยสร้างการติดตั้ง"
+
+#: Template/Installer/index.ctp:8 Template/Installer/index.ctp:10
+msgid "Database Setup"
+msgstr "การติดตั้งฐานข้อมูล"
+
+#: Template/Installer/index.ctp:13
+msgid "Database Name"
+msgstr "ชื่อฐานข้อมูล"
+
+#: Template/Installer/index.ctp:21
+msgid "Database Username"
+msgstr "ชื่อผู้ใช้ฐานข้อมูล"
+
+#: Template/Installer/index.ctp:29
+msgid "Database Password"
+msgstr "รหัสผ่านฐานข้อมูล"
+
+#: Template/Installer/index.ctp:37
+msgid "Host"
+msgstr "เจ้าภาพ"
+
+#: Template/Installer/index.ctp:45 Template/Installer/index.ctp:332
+msgid "Fields are required."
+msgstr "ทุ่งจะต้อง"
+
+#: Template/Installer/index.ctp:48 Template/Installer/index.ctp:50
+msgid "System Setting"
+msgstr "การตั้งค่าระบบ"
+
+#: Template/Installer/index.ctp:53
+msgid "System Name"
+msgstr "ระบบชื่อ"
+
+#: Template/Installer/index.ctp:61
+msgid "Country"
+msgstr "ประเทศ"
+
+#: Template/Installer/index.ctp:278 Template/Setting/generalsetting.ctp:185
+#: Template/Setting/generalsetting.ctp:192
+msgid "Select Currency"
+msgstr "เลือกสกุลเงิน"
+
+#: Template/Installer/index.ctp:297
+msgid "Date Format"
+msgstr "รูปแบบวันที่"
+
+#: Template/Installer/index.ctp:307
+msgid "System Language"
+msgstr "ภาษาระบบ"
+
+#: Template/Installer/index.ctp:335 Template/Installer/index.ctp:337
+msgid "Login Details"
+msgstr "เข้าสู่ระบบรายละเอียด"
+
+#: Template/Installer/index.ctp:348 Template/User/user.ctp:20
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+#: Template/Installer/index.ctp:365
+msgid "Finish"
+msgstr "เสร็จสิ้น"
+
+#: Template/Installer/index.ctp:367
+msgid "Please Note :"
+msgstr "หมายเหตุ:"
+
+#: Template/Installer/index.ctp:370
+msgid "1. It may take couple of minutes to set-up database."
+msgstr "1. มันอาจจะใช้คู่ของนาทีในการตั้งค่าฐานข้อมูล"
+
+#: Template/Installer/index.ctp:373
+msgid "2. Do not refresh page after to you click on install button."
+msgstr "2. อย่าฟื้นฟูหลังหน้ากับคุณหนึ่งคลิกที่ปุ่มติดตั้ง"
+
+#: Template/Installer/index.ctp:376
+msgid ""
+"3. You will be acknowledge with success message once after installation "
+"finishes."
+msgstr "3. คุณจะได้รับทราบข้อความที่มีออนซ์ประสบความสำเร็จหลังจากติดตั้งเสร็จสิ้น"
+
+#: Template/Installer/index.ctp:379
+msgid "4. Click on install to complete the installation."
+msgstr "4. คลิกที่การติดตั้งติดตั้งแบบเต็ม"
+
+#: Template/Installer/success.ctp:7
+msgid "Congratulation"
+msgstr "การแสดงความยินดี"
+
+#: Template/Installer/success.ctp:8
+msgid "Installation Completed Successfully"
+msgstr "การติดตั้งเสร็จเรียบร้อยแล้ว"
+
+#: Template/Installer/success.ctp:9
+msgid "Click"
+msgstr "คลิก"
+
+#: Template/Installer/success.ctp:9
+msgid "here to redirect on \tlogin page."
+msgstr "ที่นี่เพื่อเปลี่ยนเส้นทาง \ หน้า tlogin"
+
+#: Template/Layout/default.ctp:327
+msgid "Profile"
+msgstr "ข้อมูลส่วนตัว"
+
+#: Template/Layout/default.ctp:331
+msgid "Change Password"
+msgstr "เปลี่ยนรหัสผ่าน"
+
+#: Template/Layout/default.ctp:332
+msgid "Log out"
+msgstr "ออกจากระบบ"
+
+#: Template/Layout/default.ctp:358 Template/Layout/default.ctp:402
+#: Template/Layout/default.ctp:446 Template/Layout/default.ctp:489
+#: Template/Layout/default.ctp:545
+msgid "Dashboard"
+msgstr "หน้าปัด"
+
+#: Template/Layout/default.ctp:560 Template/User/user.ctp:29
+msgid "Admission"
+msgstr "การรับเข้า"
+
+#: Template/Layout/default.ctp:602
+msgid "News"
+msgstr "ข่าว"
+
+#: Template/Layout/default.ctp:610
+msgid "Event"
+msgstr "เหตุการณ์"
+
+#: Template/Layout/default.ctp:618
+msgid "Import/Export"
+msgstr "นำเข้า / ส่งออก"
+
+#: Template/Layout/default.ctp:626
+msgid "Hostel"
+msgstr "ที่พัก"
+
+#: Template/Layout/default.ctp:644
+msgid "Class Routine"
+msgstr "ประจำชั้น"
+
+#: Template/Layout/default.ctp:662
+msgid "Exam"
+msgstr "การสอบ"
+
+#: Template/Layout/default.ctp:680
+msgid "Mark Manage"
+msgstr "มาร์คจัดการ"
+
+#: Template/Layout/default.ctp:689
+msgid "Transport"
+msgstr "การขนส่ง"
+
+#: Template/Layout/default.ctp:698 Template/Templet/parentdash.ctp:73
+#: Template/Templet/studentdash.ctp:73 Template/Templet/supportstaffdash.ctp:73
+#: Template/Templet/teacherdash.ctp:72 Template/Templet/templet.ctp:71
+msgid "Notice"
+msgstr "แจ้งให้ทราบ"
+
+#: Template/Layout/default.ctp:707
+msgid "Message"
+msgstr "ข่าวสาร"
+
+#: Template/Layout/default.ctp:715
+msgid "Hall"
+msgstr "ห้องโถง"
+
+#: Template/Layout/default.ctp:724
+msgid "Fee Payment"
+msgstr "ค่าธรรมเนียมการชำระเงิน"
+
+#: Template/Layout/default.ctp:733
+msgid "Payment"
+msgstr "การชำระเงิน"
+
+#: Template/Layout/default.ctp:742
+msgid "Holiday"
+msgstr "วันหยุด"
+
+#: Template/Layout/default.ctp:751
+msgid "Library"
+msgstr "ห้องสมุด"
+
+#: Template/Layout/default.ctp:760
+msgid "Report"
+msgstr "การชะลอ"
+
+#: Template/Layout/default.ctp:769 Template/Teacherrights/accessteacher.ctp:6
+msgid "Access Rights"
+msgstr "สิทธิในการเข้าถึง"
+
+#: Template/Layout/default.ctp:778 Template/Migration/migration.ctp:4
+msgid "Migration"
+msgstr "การย้ายถิ่น"
+
+#: Template/Layout/default.ctp:789 Template/Smssetting/smssetting.ctp:36
+msgid "SMS Setting"
+msgstr "การตั้งค่า SMS"
+
+#: Template/Layout/default.ctp:798 Template/Setting/generalsetting.ctp:12
+msgid "General Setting"
+msgstr "การตั้งค่าทั่วไป"
+
+#: Template/Library/addbook.ctp:97 Template/Library/addbook.ctp:105
+msgid "Category"
+msgstr "หมวดหมู่"
+
+#: Template/Library/addbook.ctp:132
+msgid "Category Name:"
+msgstr "ชื่อหมวดหมู่:"
+
+#: Template/Library/addbook.ctp:139
+msgid "Add Category"
+msgstr "เพิ่มหมวดหมู่"
+
+#: Template/Library/addbook.ctp:202
+msgid "Rack Loaction Name:"
+msgstr "Rack loaction ชื่อ:"
+
+#: Template/Library/addbook.ctp:209
+msgid "Add Rack Location"
+msgstr "เพิ่มบริการให้เช่าตู้แร็ค"
+
+#: Template/Library/addbook.ctp:247 Template/Library/addbook.ctp:422
+#: Template/Library/booklist.ctp:105 Template/Library/issuebook.ctp:260
+#: Template/Library/issuelist.ctp:105 Template/Library/memberlist.ctp:139
+msgid "Add Book"
+msgstr "เพิ่มหนังสือ"
+
+#: Template/Library/addbook.ctp:256 Template/Library/booklist.ctp:114
+#: Template/Library/issuebook.ctp:269 Template/Library/issuelist.ctp:114
+#: Template/Library/memberlist.ctp:148
+msgid "Issue List"
+msgstr "รายการฉบับ"
+
+#: Template/Library/addbook.ctp:265 Template/Library/booklist.ctp:123
+#: Template/Library/issuebook.ctp:278 Template/Library/issuebook.ctp:538
+#: Template/Library/issuelist.ctp:123 Template/Library/memberlist.ctp:157
+msgid "Issue Book"
+msgstr "ที่ออกหนังสือ"
+
+#: Template/Library/addbook.ctp:295
+msgid "ISBN : "
+msgstr "ISBN: "
+
+#: Template/Library/addbook.ctp:297
+msgid "Enter ISBN Number "
+msgstr "ใส่หมายเลข ISBN "
+
+#: Template/Library/addbook.ctp:303
+msgid "Book Category : "
+msgstr "หนังสือหมวดหมู่: "
+
+#: Template/Library/addbook.ctp:308 Template/Library/issuebook.ctp:464
+msgid "---Select Category---"
+msgstr "--- เลือกหมวดหมู่ ---"
+
+#: Template/Library/addbook.ctp:337
+msgid "Book Name "
+msgstr "ชื่อหนังสือ "
+
+#: Template/Library/addbook.ctp:339
+msgid "Enter Book Name "
+msgstr "กรุณาใส่ชื่อหนังสือ "
+
+#: Template/Library/addbook.ctp:346
+msgid "Author Name "
+msgstr "เขียนชื่อ "
+
+#: Template/Library/addbook.ctp:348 Template/Subject/addsubject.ctp:94
+#: Template/Subject/addsubject.ctp:96 Template/Subject/updatesubject.ctp:97
+msgid "Enter Author Name "
+msgstr "ใส่ผู้เขียนชื่อ "
+
+#: Template/Library/addbook.ctp:354
+msgid "Rack Location "
+msgstr "เช่าชั้น "
+
+#: Template/Library/addbook.ctp:358
+msgid "---Select Rack Location---"
+msgstr "--- เลือก --- เช่าแร็ค"
+
+#: Template/Library/addbook.ctp:390
+msgid " Price "
+msgstr " ราคา "
+
+#: Template/Library/addbook.ctp:392
+msgid "Enter Price "
+msgstr "ใส่ราคา "
+
+#: Template/Library/addbook.ctp:399
+msgid " Quantity "
+msgstr " สินค้าคงคลัง "
+
+#: Template/Library/addbook.ctp:408
+msgid " Description "
+msgstr " ลักษณะ "
+
+#: Template/Library/booklist.ctp:206
+msgid "Not Available Any Book"
+msgstr "ไม่สามารถใช้งานใด ๆ ที่หนังสือ"
+
+#: Template/Library/issuebook.ctp:176
+msgid "Issue Period"
+msgstr "ระยะเวลาที่ออก"
+
+#: Template/Library/issuebook.ctp:184
+msgid "Period Time"
+msgstr "ช่วงเวลา"
+
+#: Template/Library/issuebook.ctp:193 Template/Library/issuebook.ctp:427
+msgid " Days"
+msgstr " วัน"
+
+#: Template/Library/issuebook.ctp:212
+msgid "Period Time:"
+msgstr "ระยะเวลา:"
+
+#: Template/Library/issuebook.ctp:220
+msgid "Add Period"
+msgstr "เพิ่มระยะเวลา"
+
+#: Template/Library/issuebook.ctp:311 Template/Report/feepayment.ctp:123
+msgid "---Select Class---"
+msgstr "--- เลือก --- ชั้น"
+
+#: Template/Library/issuebook.ctp:344
+msgid "---Select Section---"
+msgstr "--- เลือก --- ส่วน"
+
+#: Template/Library/issuebook.ctp:351
+msgid " Student "
+msgstr " นักเรียน "
+
+#: Template/Library/issuebook.ctp:388
+msgid "Issue Date "
+msgstr "วันที่ออก "
+
+#: Template/Library/issuebook.ctp:399
+msgid "Enter Issue Date "
+msgstr "ใส่วันที่ออก "
+
+#: Template/Library/issuebook.ctp:406
+msgid " Period "
+msgstr " ระยะเวลา "
+
+#: Template/Library/issuebook.ctp:410
+msgid "---Select Period---"
+msgstr "--- เลือก --- ระยะเวลา"
+
+#: Template/Library/issuebook.ctp:443
+msgid "Return Date "
+msgstr "วันที่กลับมา "
+
+#: Template/Library/issuebook.ctp:453
+msgid "Enter Return date"
+msgstr "ใส่กลับวันที่"
+
+#: Template/Library/issuebook.ctp:460
+msgid "Book Category "
+msgstr "หนังสือหมวดหมู่ "
+
+#: Template/Library/issuebook.ctp:495
+msgid " Book Name "
+msgstr " ชื่อหนังสือ "
+
+#: Template/Library/issuelist.ctp:147 Template/Library/issuelist.ctp:158
+#: Template/Library/studentviewbook.ctp:8
+msgid "Issue Date"
+msgstr "วันที่ออก"
+
+#: Template/Library/issuelist.ctp:148 Template/Library/issuelist.ctp:159
+#: Template/Library/studentviewbook.ctp:9
+msgid "Return Date"
+msgstr "วันที่กลับมา"
+
+#: Template/Library/issuelist.ctp:149 Template/Library/issuelist.ctp:160
+#: Template/Library/studentviewbook.ctp:10
+msgid "Period"
+msgstr "ระยะเวลา"
+
+#: Template/Library/issuelist.ctp:238
+msgid "Not Available Any Issue"
+msgstr "ไม่สามารถใช้งานปัญหาใด ๆ"
+
+#: Template/Library/memberlist.ctp:237
+msgid "Not Available Any Member"
+msgstr "สมาชิกใด ๆ ที่ไม่สามารถใช้งาน"
+
+#: Template/Library/returnbook.ctp:26 Template/Library/studentviewbook.ctp:11
+msgid "Overdue By"
+msgstr "โดยค้างชำระ"
+
+#: Template/Library/returnbook.ctp:27
+msgid "Fine"
+msgstr "ละเอียดอ่อน"
+
+#: Template/Library/returnbook.ctp:82
+msgid "Submit Book"
+msgstr "ส่งหนังสือ"
+
+#: Template/Library/studentviewbook.ctp:7
+msgid "Book name"
+msgstr "ชื่อหนังสือ"
+
+#: Template/Marks/addmarks.ctp:196 Template/Marks/addmarks.ctp:271
+msgid "Select CSV File : "
+msgstr "เลือกไฟล์ CSV: "
+
+#: Template/Marks/addmarks.ctp:198 Template/Marks/addmarks.ctp:273
+msgid "Fill data from CSV File"
+msgstr "กรอกข้อมูลจากไฟล์ CSV"
+
+#: Template/Marks/addmarks.ctp:256 Template/Marks/addmarks.ctp:394
+#: Template/Marks/addmultiplemark.ctp:205
+msgid "Update All Marks"
+msgstr "อัพเดท Marks ทั้งหมด"
+
+#: Template/Marks/addmultiplemark.ctp:193
+msgid "Add/Save Mark"
+msgstr "เพิ่ม / บันทึกมาร์ค"
+
+#: Template/Message/compose.ctp:62 Template/Message/compose.ctp:72
+#: Template/Message/inbox.ctp:5 Template/Message/inbox.ctp:16
+#: Template/Message/message.ctp:4 Template/Message/message.ctp:14
+#: Template/Message/sentbox.ctp:4 Template/Message/sentbox.ctp:14
+#: Template/Message/view_inbox_message.ctp:29
+#: Template/Message/view_inbox_message.ctp:39
+#: Template/Message/view_message.ctp:29 Template/Message/view_message.ctp:39
+msgid "Compose"
+msgstr "แต่ง"
+
+#: Template/Message/compose.ctp:68 Template/Message/compose.ctp:88
+#: Template/Message/inbox.ctp:12 Template/Message/inbox.ctp:32
+#: Template/Message/message.ctp:10 Template/Message/message.ctp:30
+#: Template/Message/sentbox.ctp:10 Template/Message/sentbox.ctp:30
+#: Template/Message/view_inbox_message.ctp:35
+#: Template/Message/view_inbox_message.ctp:54
+#: Template/Message/view_message.ctp:35 Template/Message/view_message.ctp:55
+msgid "Inbox"
+msgstr "กล่องขาเข้า"
+
+#: Template/Message/compose.ctp:70 Template/Message/inbox.ctp:14
+#: Template/Message/message.ctp:12 Template/Message/sentbox.ctp:12
+#: Template/Message/view_inbox_message.ctp:37
+#: Template/Message/view_message.ctp:37
+msgid "Sent Item"
+msgstr "ส่งรายการ"
+
+#: Template/Message/compose.ctp:94 Template/Message/inbox.ctp:38
+#: Template/Message/message.ctp:35 Template/Message/sentbox.ctp:37
+#: Template/Message/view_inbox_message.ctp:60
+#: Template/Message/view_message.ctp:61
+msgid "Sent"
+msgstr "ส่ง"
+
+#: Template/Message/compose.ctp:105
+msgid "Edit Message"
+msgstr "แก้ไขข้อความ"
+
+#: Template/Message/compose.ctp:115
+msgid "Message To"
+msgstr "ข้อความถึง"
+
+#: Template/Message/compose.ctp:119
+msgid "Teachers"
+msgstr "ครู"
+
+#: Template/Message/compose.ctp:120
+msgid "Parents"
+msgstr "พ่อแม่"
+
+#: Template/Message/compose.ctp:189
+msgid "Enter Subject "
+msgstr "ป้อนเรื่อง "
+
+#: Template/Message/compose.ctp:194
+msgid "Message Comment"
+msgstr "วิธีข้อความ"
+
+#: Template/Message/compose.ctp:196
+msgid "Enter Message Comment "
+msgstr "ใส่ข้อความวิธี "
+
+#: Template/Message/compose.ctp:201 Template/Notice/addnotice.ctp:167
+#: Template/Notice/updatenotice.ctp:182
+msgid "Send Mail "
+msgstr "ส่งอีเมล์ "
+
+#: Template/Message/compose.ctp:210
+msgid "Send SMS"
+msgstr "ส่ง SMS"
+
+#: Template/Message/compose.ctp:220
+msgid "SMS Text"
+msgstr "ข้อความ SMS"
+
+#: Template/Message/compose.ctp:222
+msgid "Enter SMS Text "
+msgstr "ใส่ข้อความ SMS "
+
+#: Template/Message/compose.ctp:223
+msgid "Max. 160 Character"
+msgstr "แม็กซ์ 160 ตัวอักษร"
+
+#: Template/Message/compose.ctp:230
+msgid "Send Message"
+msgstr "ส่งจดหมายข้อความส่วนตัว"
+
+#: Template/Message/inbox.ctp:57 Template/Message/sentbox.ctp:57
+msgid "Message For"
+msgstr "ข้อความสำหรับ"
+
+#: Template/Message/view_inbox_message.ctp:72
+#: Template/Message/view_message.ctp:73
+msgid "From:"
+msgstr "จาก:"
+
+#: Template/Message/view_inbox_message.ctp:72
+#: Template/Message/view_inbox_message.ctp:73
+#: Template/Message/view_message.ctp:73
+msgid "&gt"
+msgstr "& gt"
+
+#: Template/Message/view_inbox_message.ctp:73
+#: Template/Message/view_message.ctp:74
+msgid " To:"
+msgstr " ไปที่:"
+
+#: Template/Message/view_inbox_message.ctp:79
+#: Template/Message/view_inbox_message.ctp:93
+#: Template/Message/view_message.ctp:80
+msgid "Are you sure you wish to delete this Record?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบข้อมูลนี้หรือไม่"
+
+#: Template/Message/view_inbox_message.ctp:88
+msgid "Reply By:"
+msgstr "ตอบโดย:"
+
+#: Template/Message/view_inbox_message.ctp:114
+#: Template/Message/view_message.ctp:96
+msgid "Replay"
+msgstr "เล่นใหม่"
+
+#: Template/Migration/migration.ctp:15
+msgid "Select Current Class"
+msgstr "เลือกชั้นเรียนปัจจุบัน"
+
+#: Template/Migration/migration.ctp:29 Template/Migration/migration.ctp:50
+#: Template/Migration/migration.ctp:72
+msgid "options"
+msgstr "ตัวเลือก"
+
+#: Template/Migration/migration.ctp:36
+msgid "Select Next Class"
+msgstr "เลือกชั้นเรียนถัดไป"
+
+#: Template/Migration/migration.ctp:80
+msgid "Passing Marks"
+msgstr "ผ่าน Marks"
+
+#: Template/Migration/migration.ctp:82
+msgid "Marks"
+msgstr "เครื่องหมาย"
+
+#: Template/Migration/migration.ctp:88 Template/Report/attendance.ctp:105
+#: Template/Report/failed.ctp:146 Template/Report/feepayment.ctp:200
+#: Template/Report/result.ctp:136
+msgid "GO"
+msgstr "GO"
+
+#: Template/News/addnews.ctp:28 Template/News/addnews.ctp:96
+msgid "Edit News"
+msgstr "แก้ไขข่าว"
+
+#: Template/News/addnews.ctp:30 Template/News/addnews.ctp:98
+#: Template/News/newslist.ctp:87
+msgid "Add News"
+msgstr "เพิ่มข่าว"
+
+#: Template/News/addnews.ctp:43
+msgid "News Title "
+msgstr "หัวข้อข่าว "
+
+#: Template/News/addnews.ctp:45
+msgid "Enter News Title "
+msgstr "ใส่ชื่อเรื่อง "
+
+#: Template/News/addnews.ctp:84
+msgid "Upload Document "
+msgstr "อัปโหลดเอกสาร "
+
+#: Template/Notice/addnotice.ctp:74 Template/Notice/addnotice.ctp:200
+#: Template/Notice/noticelist.ctp:157 Template/Notice/updatenotice.ctp:215
+msgid "Add Notice"
+msgstr "เพิ่มแจ้งให้ทราบล่วงหน้า"
+
+#: Template/Notice/addnotice.ctp:88 Template/Notice/updatenotice.ctp:81
+msgid "Notice Title "
+msgstr "แจ้งให้ทราบชื่อ "
+
+#: Template/Notice/addnotice.ctp:90 Template/Payment/addpayment.ctp:141
+msgid "Enter Notice Title "
+msgstr "ใส่ชื่อเวปไซด์ "
+
+#: Template/Notice/addnotice.ctp:97 Template/Notice/updatenotice.ctp:90
+msgid "Notice Comment "
+msgstr "คำแนะนำวิธี "
+
+#: Template/Notice/addnotice.ctp:99
+msgid "Enter Notice Comment "
+msgstr "คำแนะนำวิธีการใส่ "
+
+#: Template/Notice/addnotice.ctp:105 Template/Notice/updatenotice.ctp:98
+msgid "Notice Start Date "
+msgstr "เริ่มต้นวันที่แจ้งให้ทราบ "
+
+#: Template/Notice/addnotice.ctp:107 Template/Notice/updatenotice.ctp:100
+msgid "Enter Notice Start date "
+msgstr "ใส่คำแนะนำเริ่มต้นวัน "
+
+#: Template/Notice/addnotice.ctp:112 Template/Notice/updatenotice.ctp:105
+msgid "Notice End Date "
+msgstr "วันที่คำแนะนำ End "
+
+#: Template/Notice/addnotice.ctp:114 Template/Notice/updatenotice.ctp:107
+msgid "Enter Notice End date "
+msgstr "คำแนะนำในการใส่วันที่สิ้นสุด "
+
+#: Template/Notice/addnotice.ctp:120 Template/Notice/updatenotice.ctp:113
+msgid "Notice For "
+msgstr "สำหรับคำแนะนำ "
+
+#: Template/Notice/addnotice.ctp:176 Template/Notice/updatenotice.ctp:190
+msgid "Send SMS "
+msgstr "ส่ง SMS "
+
+#: Template/Notice/addnotice.ctp:190 Template/Notice/updatenotice.ctp:204
+msgid "SMS Text "
+msgstr "ข้อความ SMS "
+
+#: Template/Notice/addnotice.ctp:192 Template/Notice/updatenotice.ctp:206
+msgid "Enter Message "
+msgstr "ป้อนข้อความ "
+
+#: Template/Notice/noticelist.ctp:262
+msgid "Not Available Any Notice"
+msgstr "ไม่สามารถแจ้งให้ทราบล่วงหน้า"
+
+#: Template/Notice/updatenotice.ctp:67
+msgid "Edit Notice"
+msgstr "แก้ไขคำแนะนำ"
+
+#: Template/Parent/addparent.ctp:25 Template/Parent/parentlist.ctp:123
+#: Template/Parent/updateparent.ctp:24
+msgid "Parent List"
+msgstr "รายการผู้ปกครอง"
+
+#: Template/Parent/addparent.ctp:28 Template/Parent/addparent.ctp:163
+#: Template/Parent/parentlist.ctp:126
+msgid "Add Parent"
+msgstr "เพิ่มผู้ปกครอง"
+
+#: Template/Parent/addparent.ctp:36 Template/Parent/updateparent.ctp:40
+#: Template/Staff/addstaff.ctp:29 Template/Staff/updatestaff.ctp:28
+#: Template/Student/addstudent.ctp:70 Template/Student/registration.ctp:98
+#: Template/Student/updatestudent.ctp:68 Template/Teacher/addteacher.ctp:32
+#: Template/Teacher/updateteacher.ctp:34
+msgid "Personal Info"
+msgstr "ข้อมูลส่วนตัว"
+
+#: Template/Parent/addparent.ctp:69 Template/Staff/addstaff.ctp:49
+#: Template/Student/addstudent.ctp:117 Template/Teacher/addteacher.ctp:65
+#: Template/Teacher/updateteacher.ctp:65
+msgid "Enter Birth Date "
+msgstr "ใส่วันเกิด "
+
+#: Template/Parent/addparent.ctp:72 Template/Parent/updateparent.ctp:77
+msgid "Select Child "
+msgstr "เลือกเด็ก "
+
+#: Template/Parent/addparent.ctp:85 Template/Parent/updateparent.ctp:101
+msgid "Select Relation "
+msgstr "ความสัมพันธ์พิเศษ "
+
+#: Template/Parent/addparent.ctp:87
+msgid "Father "
+msgstr "พ่อ "
+
+#: Template/Parent/addparent.ctp:87
+msgid "Mother "
+msgstr "แม่ "
+
+#: Template/Parent/addparent.ctp:92 Template/Parent/updateparent.ctp:108
+msgid "Add Child"
+msgstr "เพิ่มเด็ก"
+
+#: Template/Parent/addparent.ctp:93 Template/Parent/updateparent.ctp:109
+msgid "Remove Child"
+msgstr "นำเด็ก"
+
+#: Template/Parent/addparent.ctp:101 Template/Staff/addstaff.ctp:70
+#: Template/Student/updatestudent.ctp:136 Template/Teacher/addteacher.ctp:79
+#: Template/Teacher/updateteacher.ctp:88
+msgid "Enter Valid Address "
+msgstr "ใส่ที่อยู่ที่ถูกต้อง "
+
+#: Template/Parent/addparent.ctp:120 Template/Parent/updateparent.ctp:136
+#: Template/Staff/addstaff.ctp:89 Template/Staff/updatestaff.ctp:89
+#: Template/Student/addstudent.ctp:156 Template/Student/registration.ctp:183
+#: Template/Student/updatestudent.ctp:155 Template/Teacher/addteacher.ctp:98
+#: Template/Teacher/updateteacher.ctp:107
+msgid "Contact"
+msgstr "ติดต่อ"
+
+#: Template/Parent/addparent.ctp:127 Template/Staff/addstaff.ctp:96
+#: Template/Student/addstudent.ctp:163 Template/Student/updatestudent.ctp:162
+#: Template/Teacher/addteacher.ctp:105
+msgid "Enter Mobile Number "
+msgstr "ใส่หมายเลขโทรศัพท์มือถือ "
+
+#: Template/Parent/addparent.ctp:132 Template/Staff/addstaff.ctp:110
+#: Template/Student/addstudent.ctp:177 Template/Student/updatestudent.ctp:176
+#: Template/Teacher/addteacher.ctp:119 Template/Teacher/updateteacher.ctp:128
+msgid "Enter Phone Number "
+msgstr "ป้อนหมายเลขโทรศัพท์ "
+
+#: Template/Parent/addparent.ctp:135 Template/Parent/updateparent.ctp:151
+#: Template/Staff/addstaff.ctp:113 Template/Staff/updatestaff.ctp:113
+#: Template/Student/addstudent.ctp:180 Template/Student/registration.ctp:207
+#: Template/Student/updatestudent.ctp:179 Template/Teacher/addteacher.ctp:122
+#: Template/Teacher/updateteacher.ctp:131
+msgid "Authorize Info"
+msgstr "ข้อมูล Authorize"
+
+#: Template/Parent/addparent.ctp:139 Template/Staff/addstaff.ctp:117
+#: Template/Student/addstudent.ctp:184 Template/Student/updatestudent.ctp:183
+#: Template/Teacher/addteacher.ctp:126 Template/Teacher/updateteacher.ctp:135
+msgid "Enter Valid Email "
+msgstr "ใส่ที่ถูกต้องอีเมล์ "
+
+#: Template/Parent/addparent.ctp:142 Template/Parent/updateparent.ctp:158
+#: Template/Smssetting/smssetting.ctp:81 Template/Staff/addstaff.ctp:120
+#: Template/Staff/updatestaff.ctp:120 Template/Student/addstudent.ctp:187
+#: Template/Student/registration.ctp:214 Template/Student/updatestudent.ctp:186
+#: Template/Teacher/addteacher.ctp:129 Template/Teacher/updateteacher.ctp:138
+msgid "Username "
+msgstr "ชื่อผู้ใช้ "
+
+#: Template/Parent/addparent.ctp:144 Template/Staff/addstaff.ctp:122
+#: Template/Student/addstudent.ctp:189 Template/Teacher/addteacher.ctp:131
+msgid "Enter Valid Username "
+msgstr "ป้อนชื่อผู้ใช้ที่ถูกต้อง "
+
+#: Template/Parent/addparent.ctp:148 Template/Smssetting/smssetting.ctp:87
+#: Template/Staff/addstaff.ctp:126 Template/Student/addstudent.ctp:193
+#: Template/Student/registration.ctp:220 Template/Teacher/addteacher.ctp:135
+msgid "Password "
+msgstr "รหัสผ่าน "
+
+#: Template/Parent/addparent.ctp:153 Template/Parent/updateparent.ctp:163
+#: Template/Staff/addstaff.ctp:131 Template/Staff/updatestaff.ctp:125
+#: Template/Student/addstudent.ctp:198 Template/Student/registration.ctp:225
+#: Template/Student/updatestudent.ctp:191 Template/Teacher/addteacher.ctp:140
+#: Template/Teacher/updateteacher.ctp:143
+msgid "Other Info"
+msgstr "ข้อมูลอื่น ๆ"
+
+#: Template/Parent/parentlist.ctp:172
+msgid "View Child"
+msgstr "ดูเด็ก"
+
+#: Template/Parent/parentlist.ctp:192
+msgid "Not Available Any Parents"
+msgstr "ไม่สามารถใช้งานผู้ปกครองใด ๆ"
+
+#: Template/Parent/parentlist.ctp:205
+msgid "Child of Parent"
+msgstr "เด็กของผู้ปกครอง"
+
+#: Template/Parent/updateparent.ctp:27
+msgid "Edit Parent"
+msgstr "แก้ไขผู้ปกครอง"
+
+#: Template/Parent/updateparent.ctp:74
+msgid "Enter Birth Date"
+msgstr "ใส่วันเกิด"
+
+#: Template/Parent/updateparent.ctp:103
+msgid "Father"
+msgstr "พ่อ"
+
+#: Template/Parent/updateparent.ctp:103
+msgid "Mother"
+msgstr "แม่"
+
+#: Template/Parent/updateparent.ctp:117
+msgid "Enter Valid Address"
+msgstr "ใส่ที่อยู่ที่ถูกต้อง"
+
+#: Template/Parent/updateparent.ctp:185
+msgid "Save Parent"
+msgstr "บันทึกของผู้ปกครอง"
+
+#: Template/Payment/addexpense.ctp:17
+msgid "Edit Expense"
+msgstr "แก้ไขค่าใช้จ่าย"
+
+#: Template/Payment/addexpense.ctp:65 Template/Payment/addincome.ctp:212
+#: Template/Payment/addpayment.ctp:240
+msgid "Select Status"
+msgstr "เลือกสถานะ"
+
+#: Template/Payment/addexpense.ctp:80
+msgid "Enter Date "
+msgstr "ป้อนวันที่ "
+
+#: Template/Payment/addincome.ctp:93
+msgid "Edit Income"
+msgstr "แก้ไขรายได้"
+
+#: Template/Payment/addpayment.ctp:139
+msgid "Title "
+msgstr "ชื่อเรื่อง "
+
+#: Template/Payment/addpayment.ctp:185
+msgid "Student "
+msgstr "นักเรียน "
+
+#: Template/Payment/addpayment.ctp:234
+msgid "Status "
+msgstr "สถานะ "
+
+#: Template/Payment/expenselist.ctp:231
+msgid " View Expense "
+msgstr " ดูค่าใช้จ่าย "
+
+#: Template/Payment/expenselist.ctp:291
+msgid "Not Available Any Expense"
+msgstr "ไม่สามารถใช้ค่าใช้จ่ายใด ๆ"
+
+#: Template/Payment/incomelist.ctp:244
+msgid " View Income\t"
+msgstr " ดูราย \ t"
+
+#: Template/Payment/incomelist.ctp:279
+msgid "Not Available Any Income"
+msgstr "ไม่สามารถใช้งานอะไรก็ได้รายได้"
+
+#: Template/Payment/paymentlist.ctp:256
+msgid " View Payment "
+msgstr " ดูวิธีการชำระเงิน "
+
+#: Template/Payment/paymentlist.ctp:285
+msgid "Not Available Any Payment"
+msgstr "ไม่สามารถใช้การชำระเงินใด ๆ"
+
+#: Template/Report/attendance.ctp:23 Template/Report/failed.ctp:58
+#: Template/Report/feepayment.ctp:86 Template/Report/result.ctp:56
+#: Template/Report/teacher.ctp:21
+msgid "Student Failed Report"
+msgstr "ล้มเหลวในการรายงานนักศึกษา"
+
+#: Template/Report/attendance.ctp:30 Template/Report/attendance.ctp:134
+#: Template/Report/failed.ctp:65 Template/Report/feepayment.ctp:93
+#: Template/Report/result.ctp:63 Template/Report/teacher.ctp:24
+msgid "Attendance Report"
+msgstr "รายงานการเข้าร่วมประชุม"
+
+#: Template/Report/attendance.ctp:35 Template/Report/failed.ctp:70
+#: Template/Report/feepayment.ctp:98 Template/Report/result.ctp:68
+#: Template/Report/teacher.ctp:27
+msgid "Teacher Performance Report"
+msgstr "รายงานผลการปฏิบัติงานของครู"
+
+#: Template/Report/attendance.ctp:40 Template/Report/failed.ctp:75
+#: Template/Report/feepayment.ctp:103 Template/Report/result.ctp:73
+#: Template/Report/teacher.ctp:30
+msgid "Fee Payment Report"
+msgstr "แจ้งการชำระเงินค่าบริการ"
+
+#: Template/Report/attendance.ctp:45 Template/Report/failed.ctp:80
+#: Template/Report/feepayment.ctp:108 Template/Report/result.ctp:78
+#: Template/Report/teacher.ctp:33
+msgid "Result Report"
+msgstr "รายงานผล"
+
+#: Template/Report/attendance.ctp:147 Template/Report/failed.ctp:179
+#: Template/Report/teacher.ctp:75
+msgid "No of Student"
+msgstr "ไม่มีของนักศึกษา"
+
+#: Template/Report/attendance.ctp:175 Template/Report/failed.ctp:209
+#: Template/Report/teacher.ctp:102
+msgid "Result Not Found !"
+msgstr "ส่งผลให้ไม่พบ!"
+
+#: Template/Report/failed.ctp:97 Template/Report/result.ctp:93
+msgid "Select Exam Name"
+msgstr "เลือกชื่อสอบ"
+
+#: Template/Report/failed.ctp:149
+msgid "No. of Student Fail"
+msgstr "จำนวนนักศึกษาล้มเหลว"
+
+#: Template/Report/failed.ctp:167
+msgid "Exam Failed Report"
+msgstr "รายงานการสอบล้มเหลว"
+
+#: Template/Report/feepayment.ctp:161
+msgid "Start Year"
+msgstr "ปีวันเริ่มต้น"
+
+#: Template/Report/feepayment.ctp:163
+msgid "---Start Year---"
+msgstr "เริ่มต้นปี --- ---"
+
+#: Template/Report/feepayment.ctp:180
+msgid "End Year"
+msgstr "ปีที่จบ"
+
+#: Template/Report/feepayment.ctp:182
+msgid "---End Year---"
+msgstr "--- --- End ปี"
+
+#: Template/Report/teacher.ctp:45
+msgid "Pass"
+msgstr "ผ่าน"
+
+#: Template/Report/teacher.ctp:45
+msgid "Fail"
+msgstr "ล้มเหลว"
+
+#: Template/Report/teacher.ctp:63
+msgid "Teacher Perfomance Report"
+msgstr "รายงาน Perfomance ครู"
+
+#: Template/Setting/generalsetting.ctp:16
+msgid "School Name"
+msgstr "ชื่อโรงเรียน"
+
+#: Template/Setting/generalsetting.ctp:22
+msgid "School Icon"
+msgstr "ไอคอนของโรงเรียน"
+
+#: Template/Setting/generalsetting.ctp:42
+msgid "Enter Start Time"
+msgstr "ใส่เวลาเริ่มต้น"
+
+#: Template/Setting/generalsetting.ctp:46
+msgid "School Address "
+msgstr "ที่อยู่ของโรงเรียน "
+
+#: Template/Setting/generalsetting.ctp:48
+msgid "Enter School Address"
+msgstr "ใส่ที่อยู่ของโรงเรียน"
+
+#: Template/Setting/generalsetting.ctp:52
+msgid "Office Phone Number "
+msgstr "หมายเลขโทรศัพท์ที่ทำงาน "
+
+#: Template/Setting/generalsetting.ctp:54
+msgid "Enter Office Phone Number"
+msgstr "ใส่หมายเลขโทรศัพท์สำนักงาน"
+
+#: Template/Setting/generalsetting.ctp:58
+msgid "Country "
+msgstr "ประเทศ "
+
+#: Template/Setting/generalsetting.ctp:75
+msgid "System Language "
+msgstr "ภาษาระบบ "
+
+#: Template/Setting/generalsetting.ctp:81
+msgid "English/en"
+msgstr "ภาษาอังกฤษ / th"
+
+#: Template/Setting/generalsetting.ctp:82
+msgid "Arabic/ar"
+msgstr "ภาษาอาหรับ / เท่"
+
+#: Template/Setting/generalsetting.ctp:83
+msgid "Chinese/zh-CH"
+msgstr "จีน / zh-CH"
+
+#: Template/Setting/generalsetting.ctp:84
+msgid "Czech/cs"
+msgstr "สาธารณรัฐเช็ก / cs"
+
+#: Template/Setting/generalsetting.ctp:85
+msgid "French/fr"
+msgstr "ฝรั่งเศส / th"
+
+#: Template/Setting/generalsetting.ctp:86
+msgid "German/de"
+msgstr "เยอรมัน / เด"
+
+#: Template/Setting/generalsetting.ctp:87
+msgid "Greek/el"
+msgstr "กรีก / เอล"
+
+#: Template/Setting/generalsetting.ctp:88
+msgid "Italian/it"
+msgstr "อิตาลี / มัน"
+
+#: Template/Setting/generalsetting.ctp:89
+msgid "Japan/ja"
+msgstr "ญี่ปุ่น / ja"
+
+#: Template/Setting/generalsetting.ctp:90
+msgid "Polish/pl"
+msgstr "โปแลนด์ / PL"
+
+#: Template/Setting/generalsetting.ctp:91
+msgid "Portuguese-BR/pt-BR"
+msgstr "โปรตุเกส BR / PT-BR"
+
+#: Template/Setting/generalsetting.ctp:92
+msgid "Portuguese-PT/pt-PT"
+msgstr "โปรตุเกส-PT / PT-PT"
+
+#: Template/Setting/generalsetting.ctp:93
+msgid "Persian"
+msgstr "เปอร์เซีย"
+
+#: Template/Setting/generalsetting.ctp:94
+msgid "Russian/ru"
+msgstr "รัสเซีย / RU"
+
+#: Template/Setting/generalsetting.ctp:95
+msgid "Spanish/es"
+msgstr "/ สเปน ES"
+
+#: Template/Setting/generalsetting.ctp:96
+msgid "Thai/th"
+msgstr "ไทย / TH"
+
+#: Template/Setting/generalsetting.ctp:97
+msgid "Turkish/tr"
+msgstr "ตุรกี / TR"
+
+#: Template/Setting/generalsetting.ctp:106
+msgid "Set Language to RTL "
+msgstr "กำหนดภาษาจะ RTL "
+
+#: Template/Setting/generalsetting.ctp:113
+#: Template/Setting/generalsetting.ctp:117
+#: Template/Setting/generalsetting.ctp:169
+#: Template/Setting/generalsetting.ctp:173
+#: Template/Setting/generalsetting.ctp:233
+#: Template/Setting/generalsetting.ctp:245
+#: Template/Setting/generalsetting.ctp:266
+#: Template/Setting/generalsetting.ctp:305
+msgid "Enable"
+msgstr "ทำให้สามารถ"
+
+#: Template/Setting/generalsetting.ctp:129
+msgid "School Logo "
+msgstr "โลโก้โรงเรียน "
+
+#: Template/Setting/generalsetting.ctp:146
+msgid "Profile Cover Image "
+msgstr "รายละเอียด Cover Image "
+
+#: Template/Setting/generalsetting.ctp:163
+msgid "Enable Sandbox "
+msgstr "เปิดใช้งาน Sandbox "
+
+#: Template/Setting/generalsetting.ctp:179
+msgid "Paypal Email Id "
+msgstr "Email รหัส Paypal "
+
+#: Template/Setting/generalsetting.ctp:205
+msgid "Select Date Format"
+msgstr "เลือกรูปแบบวันที่"
+
+#: Template/Setting/generalsetting.ctp:221
+msgid "Message Setting"
+msgstr "การตั้งค่าข้อความ"
+
+#: Template/Setting/generalsetting.ctp:225
+msgid "Parent can send message to class students "
+msgstr "ผู้ปกครองสามารถส่งข้อความถึงระดับนักเรียน "
+
+#: Template/Setting/generalsetting.ctp:237
+msgid " Student can send message to each other "
+msgstr " นักศึกษาสามารถส่งข้อความไปยังแต่ละอื่น ๆ "
+
+#: Template/Setting/generalsetting.ctp:253
+msgid "Fees Alert Message Setting"
+msgstr "ค่าธรรมเนียมการตั้งค่าข้อความแจ้งเตือน"
+
+#: Template/Setting/generalsetting.ctp:258
+msgid "Enable Alert Mail"
+msgstr "เปิดใช้งานการแจ้งเตือนจดหมาย"
+
+#: Template/Setting/generalsetting.ctp:272
+msgid "Reminder Message"
+msgstr "การแจ้งเตือนข้อความ"
+
+#: Template/Setting/generalsetting.ctp:281
+msgid "ShortCodes For Notification Mail Message"
+msgstr "สำหรับรหัสย่อแจ้งข้อความจดหมาย"
+
+#: Template/Setting/generalsetting.ctp:283
+msgid "Parent Name -> PARENT_NAME"
+msgstr "ชื่อผู้ปกครอง -> PARENT_NAME"
+
+#: Template/Setting/generalsetting.ctp:284
+msgid "Child Name -> CHILD_NAME"
+msgstr "ชื่อเด็ก -> CHILD_NAME"
+
+#: Template/Setting/generalsetting.ctp:285
+msgid "Fees Type -> FEES_TYPE"
+msgstr "ประเภทค่าธรรมเนียม -> FEES_TYPE"
+
+#: Template/Setting/generalsetting.ctp:286
+msgid "Due Amount -> DUE_AMOUNT"
+msgstr "เนื่องจากจำนวนเงิน -> DUE_AMOUNT"
+
+#: Template/Setting/generalsetting.ctp:293
+msgid "Teacher Access Setting"
+msgstr "การตั้งค่าครูเพื่อการเข้า"
+
+#: Template/Setting/generalsetting.ctp:297
+msgid "Teacher can manage all subject marks "
+msgstr "ครูสามารถจัดการเครื่องหมายเรื่องทั้งหมด "
+
+#: Template/Smssetting/smssetting.ctp:44
+msgid "Select Message Service "
+msgstr "เลือกบริการข้อความ "
+
+#: Template/Smssetting/smssetting.ctp:53 Template/Smssetting/smssetting.ctp:61
+#: Template/Smssetting/smssetting.ctp:67
+msgid "Clickatell"
+msgstr "Clickatell"
+
+#: Template/Smssetting/smssetting.ctp:55 Template/Smssetting/smssetting.ctp:63
+#: Template/Smssetting/smssetting.ctp:69
+msgid "Twilio"
+msgstr "Twilio"
+
+#: Template/Smssetting/smssetting.ctp:93
+msgid "API Key "
+msgstr "คีย์ API "
+
+#: Template/Smssetting/smssetting.ctp:99
+msgid "Sender ID "
+msgstr "ID ของผู้ส่ง "
+
+#: Template/Smssetting/smssetting.ctp:108
+msgid "Account SID "
+msgstr "SID บัญชี "
+
+#: Template/Smssetting/smssetting.ctp:114
+msgid "Auth Token "
+msgstr "รับรองความถูกต้อง Token "
+
+#: Template/Smssetting/smssetting.ctp:120
+msgid "From Number "
+msgstr "จากจำนวน "
+
+#: Template/Staff/addstaff.ctp:17 Template/Staff/stafflist.ctp:87
+#: Template/Staff/updatestaff.ctp:17
+msgid "Support Staff List"
+msgstr "สนับสนุนรายการพนักงาน"
+
+#: Template/Staff/addstaff.ctp:20 Template/Staff/stafflist.ctp:90
+msgid "Add New Support Staff"
+msgstr "เพิ่มพนักงานให้ความช่วยเหลือใหม่"
+
+#: Template/Staff/addstaff.ctp:104 Template/Student/addstudent.ctp:171
+#: Template/Student/updatestudent.ctp:170 Template/Teacher/addteacher.ctp:113
+#: Template/Teacher/updateteacher.ctp:122
+msgid "Enter Alternate Mobile Number "
+msgstr "ใส่สลับหมายเลขโทรศัพท์มือถือ "
+
+#: Template/Staff/addstaff.ctp:133 Template/Staff/updatestaff.ctp:127
+#: Template/Teacher/addteacher.ctp:142 Template/Teacher/updateteacher.ctp:145
+msgid "Working Hour "
+msgstr "ชั่วโมงการทำงาน "
+
+#: Template/Staff/addstaff.ctp:135 Template/Staff/updatestaff.ctp:129
+#: Template/Teacher/addteacher.ctp:144 Template/Teacher/updateteacher.ctp:147
+msgid "Full Time "
+msgstr "เต็มเวลา "
+
+#: Template/Staff/addstaff.ctp:135 Template/Staff/updatestaff.ctp:129
+#: Template/Teacher/addteacher.ctp:144 Template/Teacher/updateteacher.ctp:147
+msgid "Part Time "
+msgstr "เวลา "
+
+#: Template/Staff/addstaff.ctp:135 Template/Staff/updatestaff.ctp:129
+#: Template/Teacher/addteacher.ctp:144 Template/Teacher/updateteacher.ctp:147
+msgid "(Select Job Time)"
+msgstr "(เลือกเวลาการทำงาน)"
+
+#: Template/Staff/addstaff.ctp:138 Template/Staff/addstaff.ctp:140
+#: Template/Staff/updatestaff.ctp:132 Template/Teacher/addteacher.ctp:147
+#: Template/Teacher/addteacher.ctp:149 Template/Teacher/updateteacher.ctp:150
+#: Template/Teacher/updateteacher.ctp:152
+msgid "Enter Position "
+msgstr "เข้าสู่ตำแหน่ง "
+
+#: Template/Staff/addstaff.ctp:152
+msgid "Add Support Staff"
+msgstr "เพิ่มพนักงานให้ความช่วยเหลือ"
+
+#: Template/Staff/stafflist.ctp:154
+msgid "Not Available Any Support Staff"
+msgstr "ไม่สามารถใช้งานใด ๆ ที่พนักงานให้ความช่วยเหลือ"
+
+#: Template/Staff/updatestaff.ctp:20
+msgid "Edit Support Staff"
+msgstr "แก้ไขพนักงานช่วยเหลือ"
+
+#: Template/Staff/updatestaff.ctp:158
+msgid "Save Support Staff"
+msgstr "บันทึกพนักงานให้ความช่วยเหลือ"
+
+#: Template/Student/addstudent.ctp:89 Template/Student/registration.ctp:117
+#: Template/Student/updatestudent.ctp:88
+msgid "Roll Number "
+msgstr "จำนวนม้วน "
+
+#: Template/Student/addstudent.ctp:142
+msgid "Enter State"
+msgstr "ป้อนรัฐ"
+
+#: Template/Student/addstudent.ctp:153
+msgid "Enter PinCode"
+msgstr "ป้อนรหัส PIN"
+
+#: Template/Student/exportcsv.ctp:10 Template/Student/uploadcsv.ctp:10
+msgid "Upload Student CSV"
+msgstr "อัปโหลดนักศึกษา CSV"
+
+#: Template/Student/exportcsv.ctp:13 Template/Student/uploadcsv.ctp:14
+msgid "Export Student"
+msgstr "นักศึกษาส่งออก"
+
+#: Template/Student/exportcsv.ctp:24
+msgid "Select Class : "
+msgstr "เลือกประเภท: "
+
+#: Template/Student/exportcsv.ctp:38 Template/Student/exportcsv.ctp:39
+msgid "Export IN CSV"
+msgstr "ส่งออก CSV ใน"
+
+#: Template/Student/registration.ctp:104
+msgid "Seclect Class"
+msgstr "Seclect ชั้น"
+
+#: Template/Student/studentlist.ctp:281
+msgid "Not Available Any Students"
+msgstr "นักเรียนที่ไม่สามารถใช้งานใด ๆ"
+
+#: Template/Student/uploadcsv.ctp:35
+msgid "Select CSV Files :"
+msgstr "เลือกไฟล์ CSV"
+
+#: Template/Student/uploadcsv.ctp:46 Template/Student/uploadcsv.ctp:47
+msgid "Upload CSV File"
+msgstr "อัปโหลดไฟล์ CSV"
+
+#: Template/Subject/addsubject.ctp:54 Template/Subject/addsubject.ctp:56
+#: Template/Subject/updatesubject.ctp:53
+msgid "Enter Subject Name "
+msgstr "กรุณาใส่ชื่อเรื่อง "
+
+#: Template/Subject/addsubject.ctp:88 Template/Subject/updatesubject.ctp:91
+msgid "Edition "
+msgstr "ฉบับ "
+
+#: Template/Subject/addsubject.ctp:90
+msgid "Enter Edition "
+msgstr "ใส่ฉบับ "
+
+#: Template/Subject/addsubject.ctp:101 Template/Subject/updatesubject.ctp:104
+msgid "Select Syllabus "
+msgstr "เลือกหลักสูตร "
+
+#: Template/Subject/subjectlist.ctp:112 Template/Subject/subjectlist.ctp:123
+msgid "Edition"
+msgstr "ฉบับ"
+
+#: Template/Subject/subjectlist.ctp:178
+msgid "Not Available Any Subject"
+msgstr "ไม่สามารถใช้งานใด ๆ เรื่อง"
+
+#: Template/Subject/updatesubject.ctp:44
+msgid "Edit Subject"
+msgstr "แก้ไขเรื่อง"
+
+#: Template/Subject/updatesubject.ctp:113
+msgid "Save Subject"
+msgstr "บันทึกเรื่อง"
+
+#: Template/Teacher/addteacher.ctp:23 Template/Teacher/addteacher.ctp:183
+#: Template/Teacher/teacherlist.ctp:88
+msgid "Add Teacher"
+msgstr "เพิ่มครู"
+
+#: Template/Teacher/addteacher.ctp:158
+msgid "Submitted Documents"
+msgstr "เอกสารที่ยื่น"
+
+#: Template/Teacher/addteacher.ctp:175 Template/Teacher/updateteacher.ctp:182
+msgid "Curriculum Vitae"
+msgstr "ประวัติ"
+
+#: Template/Teacher/addteacher.ctp:175 Template/Teacher/updateteacher.ctp:182
+msgid "Education Certificate"
+msgstr "หนังสือรับรองการศึกษา"
+
+#: Template/Teacher/addteacher.ctp:175 Template/Teacher/updateteacher.ctp:182
+msgid "Experience Certificate"
+msgstr "รับรองประสบการณ์"
+
+#: Template/Teacher/teacherlist.ctp:163
+msgid "Not Available Any Teachers"
+msgstr "ไม่สามารถใช้งานครูใด ๆ"
+
+#: Template/Teacher/updateteacher.ctp:26
+msgid "Edit Teacher"
+msgstr "แก้ไขครู"
+
+#: Template/Teacher/updateteacher.ctp:173
+msgid "Submitted Documents "
+msgstr "เอกสารที่ยื่น "
+
+#: Template/Teacher/updateteacher.ctp:189
+msgid "Save Teacher"
+msgstr "บันทึกครู"
+
+#: Template/Teacherrights/accessteacher.ctp:13
+msgid "Teacher Access Rights"
+msgstr "สิทธิในการเข้าถึงครู"
+
+#: Template/Teacherrights/accessteacher.ctp:26
+#: Template/Teacherrights/accessteacher.ctp:36
+msgid "Menu"
+msgstr "เมนู"
+
+#: Template/Teacherrights/accessteacher.ctp:176
+#: Template/Teacherrights/teacheraccessright.ctp:58
+msgid "Save Rights"
+msgstr "บันทึกสิทธิ"
+
+#: Template/Teacherrights/teacheraccessright.ctp:26
+msgid "View Subjects"
+msgstr "ดูวิชา"
+
+#: Template/Teacherrights/teacheraccessright.ctp:30
+msgid "All Subjects"
+msgstr "ทุกวิชา"
+
+#: Template/Teacherrights/teacheraccessright.ctp:31
+msgid "Only Own Class Subjects"
+msgstr "ชั้นเดียววิชาของตัวเอง"
+
+#: Template/Teacherrights/teacheraccessright.ctp:32
+msgid "Only Own Subjects"
+msgstr "วิชาเฉพาะของตัวเอง"
+
+#: Template/Teacherrights/teacheraccessright.ctp:37
+msgid "View Students"
+msgstr "ดูนักเรียน"
+
+#: Template/Teacherrights/teacheraccessright.ctp:41
+msgid "All Students"
+msgstr "นักเรียนทุกคน"
+
+#: Template/Teacherrights/teacheraccessright.ctp:42
+msgid "Only Own Class Students"
+msgstr "เฉพาะนักเรียนชั้นเอง"
+
+#: Template/Teacherrights/teacheraccessright.ctp:47
+msgid "Students Attendance"
+msgstr "นักเรียนที่เข้าร่วมประชุม"
+
+#: Template/Teacherrights/teacheraccessright.ctp:51
+msgid "All Students Attendance"
+msgstr "นักเรียนทุกคนเข้าร่วมประชุม"
+
+#: Template/Teacherrights/teacheraccessright.ctp:52
+msgid "Only Own Subject Students Attendance"
+msgstr "เท่านั้นเองเรื่องนักเรียนที่เข้าร่วมประชุม"
+
+#: Template/Teacherrights/teacheraccessright.ctp:53
+msgid "Only Own Class Students Attendance"
+msgstr "เฉพาะนักเรียนที่เข้าร่วมชั้นเรียนของตัวเอง"
+
+#: Template/Templet/parentdash.ctp:55 Template/Templet/studentdash.ctp:55
+#: Template/Templet/supportstaffdash.ctp:55 Template/Templet/teacherdash.ctp:55
+msgid "Today Attendance"
+msgstr "วันนี้การเข้าร่วมประชุม"
+
+#: Template/Templet/teacherdash.ctp:163
+msgid "My Time Table  "
+msgstr "ตารางเวลาของฉัน  "
+
+#: Template/Templet/templet.ctp:52
+msgid "Today attendence"
+msgstr "วันนี้ attendence"
+
+#: Template/Transport/addtransport.ctp:15
+#: Template/Transport/addtransport.ctp:98
+#: Template/Transport/transportlist.ctp:97
+#: Template/Transport/updatetransport.ctp:15
+msgid "Add Transport"
+msgstr "เพิ่มการขนส่ง"
+
+#: Template/Transport/addtransport.ctp:28
+#: Template/Transport/updatetransport.ctp:27
+msgid "Route Name "
+msgstr "ชื่อถนน "
+
+#: Template/Transport/addtransport.ctp:30
+msgid "Enter Route Name "
+msgstr "กรุณาใส่ชื่อเส้นทาง "
+
+#: Template/Transport/addtransport.ctp:35
+#: Template/Transport/updatetransport.ctp:34
+msgid "Vehicle identifier "
+msgstr "ประจำตัวรถ "
+
+#: Template/Transport/addtransport.ctp:37
+msgid "Enter Vehicle Identifier "
+msgstr "ระบุยานพาหนะใส่ "
+
+#: Template/Transport/addtransport.ctp:42
+#: Template/Transport/updatetransport.ctp:41
+msgid "Vehicle Registration Number "
+msgstr "เลขทะเบียนยานพาหนะ "
+
+#: Template/Transport/addtransport.ctp:44
+msgid "Enter Vehicle Registration Number "
+msgstr "ใส่เลขทะเบียนยานพาหนะ "
+
+#: Template/Transport/addtransport.ctp:50
+#: Template/Transport/updatetransport.ctp:49
+msgid "Driver Name "
+msgstr "ชื่อคนขับ "
+
+#: Template/Transport/addtransport.ctp:52
+msgid "Enter Driver Name "
+msgstr "กรุณาใส่ชื่อไดร์เวอร์ "
+
+#: Template/Transport/addtransport.ctp:57
+#: Template/Transport/updatetransport.ctp:56
+msgid "Driver Phone Number "
+msgstr "หมายเลขโทรศัพท์ไดร์เวอร์ "
+
+#: Template/Transport/addtransport.ctp:59
+msgid "Enter Driver Phone Number "
+msgstr "คนขับใส่หมายเลขโทรศัพท์ "
+
+#: Template/Transport/addtransport.ctp:65
+#: Template/Transport/updatetransport.ctp:64
+msgid "Driver Address "
+msgstr "ที่อยู่คนขับ "
+
+#: Template/Transport/addtransport.ctp:67
+msgid "Enter Driver Address "
+msgstr "กรุณาใส่ไดร์เวอร์ "
+
+#: Template/Transport/addtransport.ctp:89
+#: Template/Transport/updatetransport.ctp:100
+msgid "Route Fare "
+msgstr "เส้นทางค่าโดยสาร "
+
+#: Template/Transport/addtransport.ctp:91
+msgid "Enter Route Fare "
+msgstr "ใส่ค่าโดยสารเส้นทาง "
+
+#: Template/Transport/transportlist.ctp:177
+msgid "Not Available Any Transport"
+msgstr "ไม่สามารถใช้การขนส่งใด ๆ"
+
+#: Template/Transport/updatetransport.ctp:7
+msgid "EditTransport"
+msgstr "EditTransport"
+
+#: Template/Transport/updatetransport.ctp:109
+msgid "Edit Transport"
+msgstr "แก้ไขขนส่ง"
+
+#: Template/User/forgetpassword.ctp:26
+msgid "New Password Save"
+msgstr "รหัสผ่านใหม่บันทึก"
+
+#: Template/User/forgetpassword.ctp:29
+msgid "Back To Login Page"
+msgstr "กลับไปเข้าสู่ระบบหน้า"
+
+#: Template/User/user.ctp:14 Template/User/user.ctp:23
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+#: Template/User/user.ctp:26
+msgid "Forget Password"
+msgstr "ลืมรหัสผ่าน"
+

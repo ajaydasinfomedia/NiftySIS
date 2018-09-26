@@ -1,0 +1,3 @@
+Username,Email,Password,roll_no,first_name,middle_name,last_name,gender,birth_date,address,city_name,state_name,zip_code,mobile_number,alternet_mobile_number,phone
+john12,john12@mymail.com,123,101,John,M,Mark,male,07/02/15,Rd. Victoria,Atlanta,Georgia,1201,9898989898,9898989898,9898989898
+elissa12,eliss12@mymail.com,123,102,Elissa,L,Peter,female,07/02/15,Verona,Ferrara,Ferrara,89891,9999999999,9999999999,9999999999

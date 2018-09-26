@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.14.0" platform="windows">
+	<Servers>
+		<Server>
+			<Host>leighmelander.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>spillian@leighmelander.com</User>
+			<Pass encoding="base64">c3BpbGxpYW5AbGVpZ2htZWxhbmRlci5jb20=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>dddd</Name>
+			<Comments />
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>dddd</Server>
+		<Server>
+			<Host>ftp.joomlacustomizationindia.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>mojoomla@joomlacustomizationindia.com</User>
+			<Pass encoding="base64">QEczMkNzRkwue1FD</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>mojoomla</Name>
+			<Comments />
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>mojoomla</Server>
+		<Server>
+			<Host>166.78.47.59</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">N3g1RFltQXFadWJF</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Niftysol</Name>
+			<Comments />
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>Niftysol</Server>
+		<Server>
+			<Host>joomlacustomizationindia.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ecommerceapp@joomlacustomizationindia.com</User>
+			<Pass encoding="base64">Ry4yI1NfbmdPVHlm</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>niftysol_app_template_contact</Name>
+			<Comments />
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>niftysol_app_template_contact</Server>
+		<Server>
+			<Host>mobilewebs.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>extend@mobilewebs.net</User>
+			<Pass encoding="base64">P19ITHEjblQ2QG5I</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Plugin Demo</Name>
+			<Comments />
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>Plugin Demo</Server>
+		<Folder expanded="1">Qnima client<Server>
+				<Host>fishbox.fish</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>fishbox1</User>
+				<Pass encoding="base64">M3dZdzI2VFR3OA==</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>fishbox.fish</Name>
+				<Comments />
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>fishbox.fish</Server>
+		</Folder>
+		<Folder expanded="1">Runek client<Server>
+				<Host>w012f12e.kasserver.com</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>f00b0400</User>
+				<Pass encoding="base64">cGI0NzZ5MjM=</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>kasserver.com</Name>
+				<Comments />
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>kasserver.com</Server>
+		</Folder>
+		<Server>
+			<Host>ftp.totaledu.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>scholar@totaledu.net</User>
+			<Pass encoding="base64">Uyx2Sl5vVXFeSSxM</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>scholarship</Name>
+			<Comments />
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>scholarship</Server>
+		<Server>
+			<Host>ftp.mobilewebs.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mojoomla_wp@mobilewebs.net</User>
+			<Pass encoding="base64">TE4oWG85XkAqLTJm</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Theme Demo</Name>
+			<Comments />
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>Theme Demo</Server>
+	</Servers>
+</FileZilla3>

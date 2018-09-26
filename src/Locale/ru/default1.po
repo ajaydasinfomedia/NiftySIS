@@ -1,0 +1,5089 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-12-09 18:50+0530\n"
+"PO-Revision-Date: 2017-12-09 18:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;__(\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controller/AdmissionController.php:50 Controller/CommanController.php:86
+#: Controller/ParentController.php:50 Controller/StaffController.php:42
+#: Controller/StudentController.php:50 Controller/StudentController.php:192
+#: Controller/TeacherController.php:45
+msgid "Duplicate Email id"
+msgstr "Дублированный идентификатор электронной почты"
+
+#: Controller/AdmissionController.php:205 Controller/StudentController.php:245
+msgid "Registration Successfully"
+msgstr "Регистрация успешно"
+
+#: Controller/AdmissionController.php:273
+msgid "Admission Approved"
+msgstr "допуск Approved"
+
+#: Controller/AdmissionController.php:276
+msgid "Forgot Password"
+msgstr "Забыли пароль?"
+
+#: Controller/AdmissionController.php:322
+msgid "Admission Approved Successfully"
+msgstr "Утверждена Успешно Admission"
+
+#: Controller/AdmissionController.php:350
+msgid "Username :"
+msgstr "Имя пользователя:"
+
+#: Controller/AdmissionController.php:356
+msgid "Password :"
+msgstr "Пароль:"
+
+#: Controller/AdmissionController.php:365
+msgid "Send"
+msgstr "послать"
+
+#: Controller/AttendanceController.php:124
+#: Controller/Component/SettingComponent.php:1215
+msgid "Attendance Reminder Alert!"
+msgstr "Зрители Напоминание оповещения!"
+
+#: Controller/AttendanceController.php:217
+#: Controller/AttendanceController.php:437
+#: Controller/AttendanceController.php:547
+msgid "Attendance Successfully Saved"
+msgstr "Участники успешно сохранены"
+
+#: Controller/AttendanceController.php:223
+#: Controller/AttendanceController.php:443
+#: Controller/AttendanceController.php:553
+msgid "Update Attendance Successfully"
+msgstr "Участники Обновление успешно"
+
+#: Controller/ChangepasswordController.php:54
+msgid "Password Successfully Changed"
+msgstr "Пароль был успешно изменен"
+
+#: Controller/ChangepasswordController.php:61
+msgid "Old Password Is Wrong"
+msgstr "Старый неверный пароль"
+
+#: Controller/ClassmgtController.php:39
+msgid "Add New Class Successfully"
+msgstr "Добавить новый класс успешно"
+
+#: Controller/ClassmgtController.php:46
+msgid "Duplicate Class Name"
+msgstr "Повторяющееся имя класса"
+
+#: Controller/ClassmgtController.php:88 Controller/CommanController.php:1449
+#: Controller/CommanController.php:1671 Controller/CommanController.php:2080
+#: Controller/CommanController.php:2999 Controller/CommanController.php:3314
+#: Controller/CommanController.php:3925 Controller/CommanController.php:4072
+#: Controller/CommanController.php:4086 Controller/CommanController.php:4114
+#: Controller/CommanController.php:4251 Controller/CommanController.php:4279
+#: Controller/CommanController.php:4403 Controller/CommanController.php:4624
+#: Controller/EventController.php:232 Controller/EventController.php:254
+#: Controller/ExamController.php:60 Controller/ExportController.php:467
+#: Controller/ExportController.php:823 Controller/ExportController.php:837
+#: Controller/FeepaymentController.php:209
+#: Controller/FeepaymentController.php:362
+#: Controller/FeepaymentController.php:398 Controller/GradeController.php:63
+#: Controller/HallController.php:96 Controller/HolidayController.php:69
+#: Controller/HostelController.php:114 Controller/HostelController.php:136
+#: Controller/HostelController.php:272 Controller/HostelController.php:285
+#: Controller/HostelController.php:312 Controller/HostelController.php:447
+#: Controller/HostelController.php:474 Controller/HostelController.php:599
+#: Controller/LibraryController.php:109 Controller/LibraryController.php:293
+#: Controller/MessageController.php:795 Controller/NewsController.php:199
+#: Controller/NoticeController.php:439 Controller/ParentController.php:199
+#: Controller/PaymentController.php:18 Controller/PaymentController.php:295
+#: Controller/StaffController.php:139 Controller/StudentController.php:282
+#: Controller/SubjectController.php:153 Controller/TeacherController.php:177
+#: Controller/TransportController.php:86
+msgid "Record Delete Successfully"
+msgstr "Успешно Удалить запись"
+
+#: Controller/ClassmgtController.php:111
+msgid "Class Update Successfully"
+msgstr "Класс Обновление успешно"
+
+#: Controller/ClassmgtController.php:125
+msgid "Class Section"
+msgstr "Раздел Класс"
+
+#: Controller/ClassmgtController.php:141
+msgid "Edit Section"
+msgstr "Редактирование раздела"
+
+#: Controller/ClassmgtController.php:169
+msgid "Cancel"
+msgstr "отменить"
+
+#: Controller/ClassmgtController.php:170 Template/Comman/account.ctp:239
+#: Template/Comman/account.ctp:318 Template/Setting/generalsetting.ctp:309
+#: Template/Smssetting/smssetting.ctp:130
+msgid "Save"
+msgstr "защита"
+
+#: Controller/ClassrouteController.php:70
+msgid "Duplicate Record"
+msgstr "дубликат записи"
+
+#: Controller/ClassrouteController.php:79
+msgid "Add Classroute Successfully Done."
+msgstr "Добавить Classroute успешно Готово."
+
+#: Controller/CommanController.php:92 Controller/ParentController.php:56
+#: Controller/StaffController.php:48 Controller/StudentController.php:56
+#: Controller/StudentController.php:198 Controller/TeacherController.php:51
+msgid "Duplicate Username"
+msgstr "Повторяющееся имя пользователя"
+
+#: Controller/CommanController.php:140 Controller/StudentController.php:108
+msgid "Student Register Successfully"
+msgstr "Студент Регистрация успешно"
+
+#: Controller/CommanController.php:185 Controller/StudentController.php:353
+msgid "Student Record Update Successfully"
+msgstr "Студент записи Обновление успешно"
+
+#: Controller/CommanController.php:477 Controller/CommanController.php:589
+#: Controller/MarksController.php:110 Controller/MarksController.php:222
+msgid "Add Mark Successfully"
+msgstr "Добавить Марк успешно"
+
+#: Controller/CommanController.php:508 Controller/CommanController.php:595
+#: Controller/MarksController.php:141 Controller/MarksController.php:228
+msgid "Update Mark Successfully"
+msgstr "Марк Обновление успешно"
+
+#: Controller/CommanController.php:628 Controller/MarksController.php:518
+#: Controller/StudentController.php:1097
+#: Template/Attendance/subjectattendance.ctp:160
+#: Template/Attendance/subjectattendance.ctp:168
+#: Template/Classroute/addclassroute.ctp:89
+#: Template/Classroute/updateclassroute.ctp:85
+#: Template/Classroute/updateteacherroute.ctp:90
+#: Template/Comman/addmarks.ctp:154 Template/Comman/addmarks.ctp:162
+#: Template/Comman/studentsubjectattendance.ctp:98
+#: Template/Marks/addmarks.ctp:154 Template/Marks/addmarks.ctp:162
+#: Template/Student/studentsubjectattendance.ctp:89
+#: Template/Student/studentsubjectattendance.ctp:98
+msgid "Select Subject"
+msgstr "Выберите Тема"
+
+#: Controller/CommanController.php:869 Controller/MarksController.php:651
+msgid "Add Subject Mark Successfully"
+msgstr "Добав.тему Марк успешно"
+
+#: Controller/CommanController.php:875 Controller/MarksController.php:657
+msgid "Update Subject Mark Successfully"
+msgstr "Обновление Тема Марк успешно"
+
+#: Controller/CommanController.php:951 Controller/MarksController.php:733
+msgid "Add All Subject Mark Successfully"
+msgstr "Добавить все Subject Отметить Успешно"
+
+#: Controller/CommanController.php:957 Controller/MarksController.php:739
+msgid "Update All Subject Marks Successfully"
+msgstr "Обновить все Subject Marks Успешно"
+
+#: Controller/CommanController.php:1224 Controller/StudentController.php:877
+msgid "SurName"
+msgstr "фамилия"
+
+#: Controller/CommanController.php:1229 Controller/StudentController.php:882
+msgid "First Name"
+msgstr "Имя"
+
+#: Controller/CommanController.php:1232 Controller/ParentController.php:346
+#: Controller/StudentController.php:885 Template/Attendance/attendance.ctp:138
+#: Template/Attendance/attendance1.ctp:60
+#: Template/Attendance/subjectattendance.ctp:194
+#: Template/Comman/childlist.ctp:96 Template/Comman/feelist.ctp:197
+#: Template/Comman/feelist.ctp:211 Template/Comman/memberlist.ctp:149
+#: Template/Comman/memberlist.ctp:160 Template/Comman/paymentlist.ctp:137
+#: Template/Comman/paymentlist.ctp:153 Template/Comman/studentlist.ctp:142
+#: Template/Comman/studentlist.ctp:163 Template/Feepayment/feelist.ctp:294
+#: Template/Feepayment/feelist.ctp:309 Template/Feepayment/feetypelist.ctp:138
+#: Template/Feepayment/feetypelist.ctp:148 Template/Layout/default.ctp:635
+#: Template/Library/memberlist.ctp:180 Template/Library/memberlist.ctp:191
+#: Template/Notice/noticelist.ctp:182 Template/Notice/noticelist.ctp:194
+#: Template/Payment/paymentlist.ctp:210 Template/Payment/paymentlist.ctp:222
+#: Template/Report/attendance.ctp:117 Template/Report/attendance.ctp:140
+#: Template/Report/failed.ctp:149 Template/Report/feepayment.ctp:216
+#: Template/Report/feepayment.ctp:230
+msgid "Class"
+msgstr "класс"
+
+#: Controller/CommanController.php:1239 Controller/StudentController.php:892
+msgid "Exam Name"
+msgstr "экзамен Название"
+
+#: Controller/CommanController.php:1253 Controller/StudentController.php:906
+msgid "S/NO"
+msgstr "S / НЕТ"
+
+#: Controller/CommanController.php:1254 Controller/StudentController.php:662
+#: Controller/StudentController.php:907
+#: Template/Attendance/subjectattendance.ctp:196
+#: Template/Layout/default.ctp:594 Template/Message/compose.ctp:187
+#: Template/Message/inbox.ctp:58 Template/Message/sentbox.ctp:60
+#: Template/Message/view_inbox_message.ctp:68
+#: Template/Message/view_message.ctp:69 Template/Report/failed.ctp:173
+msgid "Subject"
+msgstr "предмет"
+
+#: Controller/CommanController.php:1255 Controller/StudentController.php:663
+#: Controller/StudentController.php:908
+msgid "Obtain Mark"
+msgstr "Получить Марк"
+
+#: Controller/CommanController.php:1256 Controller/StudentController.php:664
+#: Controller/StudentController.php:909 Template/Layout/default.ctp:671
+msgid "Grade"
+msgstr "класс"
+
+#: Controller/CommanController.php:1293 Controller/StudentController.php:946
+msgid "<B>Total Marks</B>"
+msgstr "<B> Всего знаки </ b>"
+
+#: Controller/CommanController.php:1297 Controller/StudentController.php:950
+msgid "<B>GPA ( Grade Point Average )</B>"
+msgstr "<B> ГПД (средний балл) </ b>"
+
+#: Controller/CommanController.php:1351 Controller/SubjectController.php:62
+msgid "Add New Subject Successfully"
+msgstr "Добавить Subject Успешно"
+
+#: Controller/CommanController.php:1807 Controller/CommanController.php:1900
+#: Controller/CommanController.php:1985 Controller/CommanController.php:3832
+#: Controller/ExportController.php:1351
+msgid "Record Update Successfully"
+msgstr "Запись Обновление успешно"
+
+#: Controller/CommanController.php:1852 Controller/CommanController.php:1928
+#: Controller/CommanController.php:2028
+msgid "Record Add Successfully"
+msgstr "Добавить запись успешно"
+
+#: Controller/CommanController.php:2107 Controller/LibraryController.php:319
+#: Template/Library/issuebook.ctp:357
+msgid "---Select Student---"
+msgstr "--- --- Выберите Student"
+
+#: Controller/CommanController.php:2524 Controller/NewsController.php:85
+msgid "News Update Successfully"
+msgstr "Новости Обновление успешно"
+
+#: Controller/CommanController.php:2569 Controller/NewsController.php:130
+msgid "Add News Successfully"
+msgstr "Добавить Новости Успешно"
+
+#: Controller/CommanController.php:3759 Controller/ExportController.php:1279
+msgid "Duplicate Student Record So Not Import"
+msgstr "Дублируйте запись студента, поэтому не импортируйте"
+
+#: Controller/CommanController.php:3767 Controller/ExportController.php:1287
+msgid "Duplicate Teacher Record So Not Import"
+msgstr "Дублируйте запись учителя, поэтому не импортируйте"
+
+#: Controller/CommanController.php:3775 Controller/ExportController.php:1295
+msgid "Duplicate Parent Record So Not Import"
+msgstr "Дублировать родительскую запись, поэтому не импортировать"
+
+#: Controller/CommanController.php:3783 Controller/ExportController.php:1303
+msgid "Duplicate SupportStaff Record So Not Import"
+msgstr "Дублированный отчет о персонале поддержки, поэтому не импортируйте"
+
+#: Controller/CommanController.php:3792 Controller/ExportController.php:1312
+msgid "Import Data Successfully"
+msgstr "Успешно Импорт данных"
+
+#: Controller/CommanController.php:3873 Controller/HostelController.php:62
+msgid "Edit Hostel Data Successfully"
+msgstr "Хостел Изменить данные успешно"
+
+#: Controller/CommanController.php:3896 Controller/HostelController.php:85
+msgid "Add Hostel Data Successfully"
+msgstr "Добавить хостел Данные успешно"
+
+#: Controller/CommanController.php:3989 Controller/HostelController.php:192
+msgid "Edit Hostel Room Data Successfully"
+msgstr "Номер в хостеле Редактировать данные успешно"
+
+#: Controller/CommanController.php:4014 Controller/HostelController.php:217
+msgid "Add Hostel Room Data Successfully"
+msgstr "Добавить хостеле Данные успешно"
+
+#: Controller/CommanController.php:4162 Controller/CommanController.php:4204
+#: Controller/HostelController.php:360 Controller/HostelController.php:402
+msgid "Unsuccessful! Hostel Room Bed No Capacity."
+msgstr "Неудачная! Хостел Нет Комната Bed Вместимость."
+
+#: Controller/CommanController.php:4183 Controller/HostelController.php:381
+msgid "Edit Hostel Room Bed Data Successfully"
+msgstr "Редактировать Bed Hostel Room Данные успешно"
+
+#: Controller/CommanController.php:4225 Controller/HostelController.php:423
+msgid "Add Hostel Room Bed Data Successfully"
+msgstr "Добавить хостел Room B & Data Удачно"
+
+#: Controller/CommanController.php:4357 Controller/HostelController.php:553
+msgid "Assign Hostel Room Successfully"
+msgstr "Назначают Hostel Room Удачно"
+
+#: Controller/CommanController.php:4463 Controller/CommanController.php:4549
+#: Controller/EventController.php:71 Controller/EventController.php:157
+msgid "Event Reminder Alert!"
+msgstr "Напоминание Событие оповещения!"
+
+#: Controller/CommanController.php:4511 Controller/EventController.php:119
+msgid "Event Update Successfully"
+msgstr "Обновление событий успешно"
+
+#: Controller/CommanController.php:4597 Controller/EventController.php:205
+msgid "Add Event Successfully"
+msgstr "Добавить событие успешно"
+
+#: Controller/Component/SettingComponent.php:419
+#: Template/Classroute/addclassroute.ctp:98
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Monday"
+msgstr "понедельник"
+
+#: Controller/Component/SettingComponent.php:420
+#: Template/Classroute/addclassroute.ctp:98
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Tuesday"
+msgstr "вторник"
+
+#: Controller/Component/SettingComponent.php:421
+#: Template/Classroute/addclassroute.ctp:98
+msgid "Wednesday"
+msgstr "среда"
+
+#: Controller/Component/SettingComponent.php:422
+#: Template/Classroute/addclassroute.ctp:98
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Thursday"
+msgstr "четверг"
+
+#: Controller/Component/SettingComponent.php:423
+#: Template/Classroute/addclassroute.ctp:98
+msgid "Friday"
+msgstr "пятница"
+
+#: Controller/Component/SettingComponent.php:424
+#: Template/Classroute/addclassroute.ctp:98
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Saturday"
+msgstr "суббота"
+
+#: Controller/Component/SettingComponent.php:425
+#: Template/Classroute/addclassroute.ctp:98
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Sunday"
+msgstr "воскресенье"
+
+#: Controller/ExamController.php:25
+msgid " Exam Inserted Successfully"
+msgstr " Экзамен успешно Поставлен"
+
+#: Controller/ExamController.php:78 Controller/FeepaymentController.php:284
+#: Controller/FeepaymentController.php:519 Controller/GradeController.php:90
+#: Controller/HallController.php:53 Controller/HolidayController.php:94
+#: Controller/LibraryController.php:35 Controller/LibraryController.php:185
+#: Controller/NoticeController.php:599 Controller/PaymentController.php:425
+#: Controller/PaymentController.php:518 Controller/TransportController.php:119
+msgid "Update Successfully"
+msgstr "Обновление успешно"
+
+#: Controller/FeepaymentController.php:29 Controller/PaymentController.php:713
+#: Template/Comman/assignroom.ctp:123 Template/Feepayment/invoice.ctp:257
+#: Template/Hostel/assignroom.ctp:137 Template/Payment/addincome.ctp:192
+#: Template/Payment/addpayment.ctp:206
+msgid "Select Student"
+msgstr "Выберите Student"
+
+#: Controller/FeepaymentController.php:173
+msgid " History Inserted Successfully"
+msgstr " Успешно Поставлен История"
+
+#: Controller/FeepaymentController.php:313
+#: Controller/FeepaymentController.php:567 Controller/PaymentController.php:478
+#: Controller/PaymentController.php:547 Controller/PaymentController.php:640
+#: Controller/TransportController.php:42
+msgid " Record Inserted Successfully"
+msgstr " Успешно вставленная запись"
+
+#: Controller/FeepaymentController.php:608
+msgid "Fees Payment Alert!"
+msgstr "Тарифы Оплата Бдительные!"
+
+#: Controller/FeepaymentController.php:612
+msgid "Alert mail send successfully"
+msgstr "Оповещение по электронной почте отправить успешно"
+
+#: Controller/GradeController.php:24
+msgid " Grade Inserted Successfully"
+msgstr " Оценка Поставлена ​​Успешно"
+
+#: Controller/HallController.php:27
+msgid " Hall Inserted Successfully"
+msgstr " Успешно Поставлен зал"
+
+#: Controller/HolidayController.php:24
+msgid " Holiday Inserted Successfully"
+msgstr " Праздник Поставлен успешно"
+
+#: Controller/LibraryController.php:62
+msgid " Add Book Record Inserted Successfully "
+msgstr " Добавить книгу Успешно вставленной записи "
+
+#: Controller/LibraryController.php:227
+msgid " Issue Book Record Inserted Successfully"
+msgstr " Выпуск успешно Поставлен Книжка"
+
+#: Controller/MarksController.php:304
+msgid "Add Mark"
+msgstr "Добавить Марка"
+
+#: Controller/MarksController.php:329 Template/Marks/addmarks.ctp:242
+#: Template/Marks/addmarks.ctp:309 Template/Marks/addmarks.ctp:344
+#: Template/Marks/addmarks.ctp:380
+msgid "Update"
+msgstr "обновление"
+
+#: Controller/MessageController.php:391
+msgid "Message Send Successfully"
+msgstr "Отправить сообщение успешно"
+
+#: Controller/NoticeController.php:35
+msgid "Notice Details"
+msgstr "подробности Примечание"
+
+#: Controller/NoticeController.php:40
+msgid "Notice Title:"
+msgstr "Заголовок:"
+
+#: Controller/NoticeController.php:46
+msgid "Notice Comment:"
+msgstr "Инструкции по:"
+
+#: Controller/NoticeController.php:52
+msgid "Notice For:"
+msgstr "Инструкции:"
+
+#: Controller/NoticeController.php:57 Controller/NoticeController.php:64
+msgid "Notice Start Date:"
+msgstr "Инструкции Дата начала:"
+
+#: Controller/NoticeController.php:146
+msgid "Notice Reminder Alert!"
+msgstr "Уведомление Напоминание Предупреждение!"
+
+#: Controller/NoticeController.php:404
+msgid " Notice Inserted Successfully"
+msgstr " Инструкции Поставлен успешно"
+
+#: Controller/ParentController.php:101
+msgid "Parent Register Successfully"
+msgstr "Родитель успешно Регистрация"
+
+#: Controller/ParentController.php:143
+msgid "Child Register Successfully"
+msgstr "Ребенок успешно Регистрация"
+
+#: Controller/ParentController.php:302
+msgid "Parent Record Update Successfully"
+msgstr "Родитель записи Обновление успешно"
+
+#: Controller/ParentController.php:344 Controller/StudentController.php:989
+#: Template/Comman/childlist.ctp:94 Template/Comman/childlist.ctp:104
+#: Template/Comman/memberlist.ctp:147 Template/Comman/memberlist.ctp:158
+#: Template/Comman/studentlist.ctp:140 Template/Comman/studentlist.ctp:149
+#: Template/Comman/studentlist.ctp:161 Template/Comman/studentlist.ctp:171
+#: Template/Comman/teacherlist.ctp:21 Template/Comman/teacherlist.ctp:28
+#: Template/Comman/teacherlist.ctp:36 Template/Comman/teacherlist.ctp:44
+#: Template/Comman/transportlist.ctp:26 Template/Comman/transportlist.ctp:39
+#: Template/Library/memberlist.ctp:178 Template/Library/memberlist.ctp:189
+#: Template/Parent/parentlist.ctp:142 Template/Parent/parentlist.ctp:150
+#: Template/Staff/stafflist.ctp:107 Template/Staff/stafflist.ctp:115
+#: Template/Student/studentlist.ctp:197 Template/Student/studentlist.ctp:210
+#: Template/Teacher/teacherlist.ctp:105 Template/Teacher/teacherlist.ctp:115
+#: Template/Transport/transportlist.ctp:117
+#: Template/Transport/transportlist.ctp:129
+msgid "Photo"
+msgstr "фото"
+
+#: Controller/ParentController.php:345 Controller/StudentController.php:990
+#: Template/Comman/account.ctp:180 Template/Comman/addmarks.ctp:202
+#: Template/Comman/addmultiplemark.ctp:128 Template/Marks/addmarks.ctp:207
+#: Template/Marks/addmarks.ctp:282 Template/Marks/addmultiplemark.ctp:129
+#: Template/Parent/parentlist.ctp:143 Template/Parent/parentlist.ctp:151
+#: Template/Report/result.ctp:147 Template/Staff/stafflist.ctp:108
+#: Template/Staff/stafflist.ctp:116
+msgid "Name"
+msgstr "имя"
+
+#: Controller/PaymentController.php:597
+msgid " Record Update Successfully"
+msgstr " Запись Обновление успешно"
+
+#: Controller/PaymentController.php:689
+msgid " Record Delete Successfully"
+msgstr " Успешно Удалить запись"
+
+#: Controller/StaffController.php:92
+msgid "Staff Register Successfully"
+msgstr "Удачно Регистрация Staff"
+
+#: Controller/StaffController.php:177
+msgid "Staff Record Update Successfully"
+msgstr "Персонал записи Обновление успешно"
+
+#: Controller/StudentController.php:149 Template/Attendance/attendance.ctp:116
+#: Template/Attendance/subjectattendance.ctp:152
+#: Template/Classroute/addclassroute.ctp:79
+#: Template/Classroute/updateclassroute.ctp:75
+#: Template/Classroute/updateteacherroute.ctp:76
+#: Template/Comman/addincome.ctp:176 Template/Comman/addmarks.ctp:147
+#: Template/Comman/addmultiplemark.ctp:97 Template/Comman/addpayment.ctp:193
+#: Template/Comman/addstudent.ctp:66 Template/Comman/addsubject.ctp:72
+#: Template/Comman/exploremark.ctp:93 Template/Feepayment/addfeetype.ctp:298
+#: Template/Feepayment/invoice.ctp:233 Template/Marks/addmarks.ctp:141
+#: Template/Marks/addmarks.ctp:147 Template/Marks/addmultiplemark.ctp:92
+#: Template/Marks/addmultiplemark.ctp:98 Template/Marks/exploremark.ctp:102
+#: Template/Marks/exploremark.ctp:104 Template/Message/compose.ctp:181
+#: Template/Notice/addnotice.ctp:161 Template/Payment/addincome.ctp:163
+#: Template/Payment/addpayment.ctp:176 Template/Report/failed.ctp:129
+#: Template/Report/result.ctp:123 Template/Student/addstudent.ctp:84
+#: Template/Student/registration.ctp:112 Template/Student/updatestudent.ctp:80
+#: Template/Subject/addsubject.ctp:73 Template/Subject/updatesubject.ctp:71
+msgid "Select Section"
+msgstr "Выберите раздел"
+
+#: Controller/StudentController.php:298
+msgid "Student Approve Successfully"
+msgstr "Утвердить студент успешно"
+
+#: Controller/StudentController.php:562
+msgid "Add CSV Record Successfully"
+msgstr "Добавить CSV Запись успешно"
+
+#: Controller/StudentController.php:568
+msgid "update Record Successfully"
+msgstr "Обновление Запись успешно"
+
+#: Controller/StudentController.php:633
+msgid "Exam Result"
+msgstr "Результат экзамена"
+
+#: Controller/StudentController.php:643 Controller/StudentController.php:651
+#: Template/Payment/viewdataexpense.ctp:130
+#: Template/Payment/viewdataincome.ctp:130
+#: Template/Payment/viewdatapayment.ctp:106
+msgid "PDF"
+msgstr "PDF"
+
+#: Controller/StudentController.php:644 Controller/StudentController.php:651
+#: Template/Comman/viewdataexpense.ctp:124
+#: Template/Comman/viewdataincome.ctp:125
+#: Template/Comman/viewdatapayment.ctp:103
+#: Template/Payment/viewdataexpense.ctp:129
+#: Template/Payment/viewdataincome.ctp:129
+#: Template/Payment/viewdatapayment.ctp:105
+msgid "Print"
+msgstr "печать"
+
+#: Controller/StudentController.php:665
+msgid "Grade Comment"
+msgstr "Как класс"
+
+#: Controller/StudentController.php:698
+msgid "Total Marks "
+msgstr "всего Marks "
+
+#: Controller/StudentController.php:703
+msgid "GPA( Grade Point Average )"
+msgstr "GPA (средний балл)"
+
+#: Controller/StudentController.php:728
+msgid "No Result Fount"
+msgstr "Нет Результат Fount"
+
+#: Controller/StudentController.php:991
+msgid "Relation"
+msgstr "отношение"
+
+#: Controller/SubjectController.php:209
+msgid "Subject Update Successfully"
+msgstr "Тема Обновление успешно"
+
+#: Controller/TeacherController.php:111
+msgid "Teacher Register Successfully"
+msgstr "Учитель Регистрация успешно"
+
+#: Controller/TeacherController.php:230
+msgid "Teacher Record Update Successfully"
+msgstr "Преподаватель записи Обновление успешно"
+
+#: Controller/TeacherrightsController.php:95
+msgid "Update Teacher Access Successfully"
+msgstr "Преподаватель Доступ Обновление успешно"
+
+#: Controller/TeacherrightsController.php:101
+msgid "Add Teacher Access Successfully"
+msgstr "Добавить Преподаватель Доступ успешно"
+
+#: Controller/UserController.php:45
+msgid "Invalid Username And Password"
+msgstr "Invalid Имя пользователя и пароль"
+
+#: Controller/UserController.php:107
+msgid "New Password Set Successfully."
+msgstr "Новый пароль успешно установлен."
+
+#: Controller/UserController.php:114
+msgid "Unsuccessful ! Wrong Email and Phone Number."
+msgstr "Неудачная! Неправильный электронный адрес и номер телефона."
+
+#: Template/Admission/admissionlist.ctp:129
+msgid "Admission List"
+msgstr "допуск Список"
+
+#: Template/Admission/admissionlist.ctp:147
+#: Template/Admission/admissionlist.ctp:159
+#: Template/Attendance/attendance.ctp:147
+#: Template/Attendance/attendance1.ctp:69
+#: Template/Attendance/subjectattendance.ctp:204
+#: Template/Comman/feelist.ctp:195 Template/Comman/feelist.ctp:209
+#: Template/Comman/incomelist.ctp:103 Template/Comman/incomelist.ctp:112
+#: Template/Comman/memberlist.ctp:148 Template/Comman/memberlist.ctp:159
+#: Template/Comman/paymentlist.ctp:135 Template/Comman/paymentlist.ctp:151
+#: Template/Comman/studentlist.ctp:141 Template/Comman/studentlist.ctp:150
+#: Template/Comman/studentlist.ctp:162 Template/Comman/studentlist.ctp:172
+#: Template/Feepayment/feelist.ctp:292 Template/Feepayment/feelist.ctp:307
+#: Template/Library/issuelist.ctp:145 Template/Library/issuelist.ctp:156
+#: Template/Library/memberlist.ctp:179 Template/Library/memberlist.ctp:190
+#: Template/Payment/incomelist.ctp:182 Template/Payment/incomelist.ctp:192
+#: Template/Payment/paymentlist.ctp:208 Template/Payment/paymentlist.ctp:220
+#: Template/Report/feepayment.ctp:214 Template/Report/feepayment.ctp:228
+#: Template/Student/studentlist.ctp:198 Template/Student/studentlist.ctp:211
+msgid "Student Name"
+msgstr "Имя студента"
+
+#: Template/Admission/admissionlist.ctp:148
+#: Template/Admission/admissionlist.ctp:160
+msgid "Gender"
+msgstr "пол"
+
+#: Template/Admission/admissionlist.ctp:149
+#: Template/Admission/admissionlist.ctp:161 Template/Comman/account.ctp:262
+#: Template/Parent/addparent.ctp:97 Template/Parent/updateparent.ctp:113
+#: Template/Staff/addstaff.ctp:66 Template/Staff/updatestaff.ctp:66
+#: Template/Student/addstudent.ctp:133 Template/Student/registration.ctp:160
+#: Template/Student/updatestudent.ctp:132 Template/Teacher/addteacher.ctp:75
+#: Template/Teacher/updateteacher.ctp:84
+msgid "Address"
+msgstr "адрес"
+
+#: Template/Admission/admissionlist.ctp:150
+#: Template/Admission/admissionlist.ctp:162 Template/Comman/account.ctp:294
+msgid "Phone"
+msgstr "телефон"
+
+#: Template/Admission/admissionlist.ctp:151
+#: Template/Admission/admissionlist.ctp:163 Template/Comman/memberlist.ctp:151
+#: Template/Comman/memberlist.ctp:162 Template/Comman/studentlist.ctp:144
+#: Template/Comman/studentlist.ctp:153 Template/Comman/studentlist.ctp:165
+#: Template/Comman/studentlist.ctp:175 Template/Library/memberlist.ctp:182
+#: Template/Library/memberlist.ctp:193 Template/Student/studentlist.ctp:202
+#: Template/Student/studentlist.ctp:215
+msgid "Student Email"
+msgstr "Студент Email"
+
+#: Template/Admission/admissionlist.ctp:152
+#: Template/Admission/admissionlist.ctp:164
+msgid "Previous School"
+msgstr "предыдущая школа"
+
+#: Template/Admission/admissionlist.ctp:153
+#: Template/Admission/admissionlist.ctp:165 Template/Classmgt/classlist.ctp:108
+#: Template/Classmgt/classlist.ctp:116 Template/Classmgt/viewsectionlist.ctp:13
+#: Template/Comman/addmarks.ctp:205 Template/Comman/addroom.ctp:102
+#: Template/Comman/childlist.ctp:99 Template/Comman/childlist.ctp:109
+#: Template/Comman/expenselist.ctp:113 Template/Comman/expenselist.ctp:121
+#: Template/Comman/exportlist.ctp:116 Template/Comman/exportlist.ctp:125
+#: Template/Comman/feelist.ctp:203 Template/Comman/feelist.ctp:217
+#: Template/Comman/importlist.ctp:116 Template/Comman/importlist.ctp:125
+#: Template/Comman/incomelist.ctp:106 Template/Comman/incomelist.ctp:115
+#: Template/Comman/memberlist.ctp:152 Template/Comman/memberlist.ctp:163
+#: Template/Comman/noticelist.ctp:85 Template/Comman/noticelist.ctp:96
+#: Template/Comman/paymentlist.ctp:145 Template/Comman/paymentlist.ctp:161
+#: Template/Comman/roomlist.ctp:117 Template/Comman/roomlist.ctp:129
+#: Template/Comman/studentlist.ctp:166 Template/Comman/studentlist.ctp:176
+#: Template/Comman/teacherlist.ctp:39 Template/Comman/teacherlist.ctp:47
+#: Template/Event/eventlist.ctp:114 Template/Event/eventlist.ctp:124
+#: Template/Exam/examlist.ctp:121 Template/Exam/examlist.ctp:129
+#: Template/Export/exportlist.ctp:116 Template/Export/exportlist.ctp:125
+#: Template/Export/importlist.ctp:116 Template/Export/importlist.ctp:125
+#: Template/Feepayment/addfeetype.ctp:165 Template/Feepayment/feelist.ctp:301
+#: Template/Feepayment/feelist.ctp:316 Template/Feepayment/feetypelist.ctp:142
+#: Template/Feepayment/feetypelist.ctp:152 Template/Grade/gradelist.ctp:124
+#: Template/Grade/gradelist.ctp:134 Template/Hall/halllist.ctp:119
+#: Template/Hall/halllist.ctp:128 Template/Holiday/holidaylist.ctp:120
+#: Template/Holiday/holidaylist.ctp:130 Template/Hostel/addroom.ctp:102
+#: Template/Hostel/bedslist.ctp:136 Template/Hostel/bedslist.ctp:146
+#: Template/Hostel/hostellist.ctp:135 Template/Hostel/hostellist.ctp:144
+#: Template/Hostel/roomlist.ctp:138 Template/Hostel/roomlist.ctp:150
+#: Template/Library/addbook.ctp:106 Template/Library/addbook.ctp:174
+#: Template/Library/booklist.ctp:149 Template/Library/booklist.ctp:160
+#: Template/Library/issuebook.ctp:185 Template/Library/issuelist.ctp:150
+#: Template/Library/issuelist.ctp:161 Template/Library/memberlist.ctp:183
+#: Template/Library/memberlist.ctp:194 Template/Marks/addmarks.ctp:210
+#: Template/News/newslist.ctp:112 Template/News/newslist.ctp:123
+#: Template/Notice/noticelist.ctp:183 Template/Notice/noticelist.ctp:195
+#: Template/Parent/parentlist.ctp:145 Template/Parent/parentlist.ctp:153
+#: Template/Payment/expenselist.ctp:182 Template/Payment/expenselist.ctp:190
+#: Template/Payment/incomelist.ctp:185 Template/Payment/incomelist.ctp:195
+#: Template/Payment/paymentlist.ctp:215 Template/Payment/paymentlist.ctp:227
+#: Template/Report/feepayment.ctp:222 Template/Report/feepayment.ctp:236
+#: Template/Staff/stafflist.ctp:110 Template/Staff/stafflist.ctp:118
+#: Template/Student/studentlist.ctp:204 Template/Student/studentlist.ctp:217
+#: Template/Subject/subjectlist.ctp:113 Template/Subject/subjectlist.ctp:124
+#: Template/Teacher/teacherlist.ctp:110 Template/Teacher/teacherlist.ctp:120
+#: Template/Transport/transportlist.ctp:124
+#: Template/Transport/transportlist.ctp:136
+msgid "Action"
+msgstr "действие"
+
+#: Template/Admission/admissionlist.ctp:193
+#: Template/Student/studentlist.ctp:252
+msgid "Approve"
+msgstr "утвердить"
+
+#: Template/Admission/admissionlist.ctp:208 Template/Classmgt/classlist.ctp:146
+#: Template/Event/eventlist.ctp:152 Template/Exam/examlist.ctp:153
+#: Template/Export/exportlist.ctp:154 Template/Export/importlist.ctp:153
+#: Template/Feepayment/feelist.ctp:400 Template/Feepayment/feetypelist.ctp:196
+#: Template/Grade/gradelist.ctp:159 Template/Hall/halllist.ctp:151
+#: Template/Holiday/holidaylist.ctp:154 Template/Hostel/bedslist.ctp:191
+#: Template/Hostel/hostellist.ctp:171 Template/Hostel/roomlist.ctp:195
+#: Template/Library/booklist.ctp:197 Template/Library/issuelist.ctp:229
+#: Template/News/newslist.ctp:167 Template/Notice/noticelist.ctp:252
+#: Template/Parent/parentlist.ctp:183 Template/Payment/expenselist.ctp:282
+#: Template/Payment/incomelist.ctp:268 Template/Payment/paymentlist.ctp:276
+#: Template/Staff/stafflist.ctp:145 Template/Student/studentlist.ctp:272
+#: Template/Subject/subjectlist.ctp:169 Template/Teacher/teacherlist.ctp:154
+#: Template/Transport/transportlist.ctp:168
+msgid "Delete Selected"
+msgstr "Удалить выбранное"
+
+#: Template/Admission/admissionlist.ctp:217
+msgid "Not Available Any Admission"
+msgstr "Не доступно Прием Любой"
+
+#: Template/Admission/admissionlist.ctp:231 Template/Comman/childlist.ctp:178
+#: Template/Comman/feelist.ctp:89 Template/Comman/feelist.ctp:141
+#: Template/Comman/incomelist.ctp:52 Template/Comman/paymentlist.ctp:79
+#: Template/Comman/studentlist.ctp:372 Template/Comman/viewdataexpense.ctp:49
+#: Template/Comman/viewdataincome.ctp:51 Template/Comman/viewdatapayment.ctp:52
+#: Template/Feepayment/feelist.ctp:168 Template/Feepayment/feelist.ctp:221
+#: Template/Feepayment/paymentview.ctp:28 Template/Payment/incomelist.ctp:127
+#: Template/Payment/paymentlist.ctp:155 Template/Payment/viewdataexpense.ctp:50
+#: Template/Payment/viewdataincome.ctp:55
+#: Template/Payment/viewdatapayment.ctp:54 Template/Report/feepayment.ctp:65
+#: Template/Student/studentlist.ctp:295
+msgid "School Management System"
+msgstr "Система школьного управления"
+
+#: Template/Admission/admissionlist.ctp:242
+#: Template/Classmgt/editcriteria.ctp:20
+#: Template/Classmgt/viewsectionlist.ctp:60 Template/Comman/addroom.ctp:136
+#: Template/Comman/childlist.ctp:186 Template/Comman/childlist.ctp:209
+#: Template/Comman/feelist.ctp:126 Template/Comman/feelist.ctp:149
+#: Template/Comman/memberlist.ctp:83 Template/Comman/noticelist.ctp:55
+#: Template/Comman/studentlist.ctp:380 Template/Comman/studentlist.ctp:403
+#: Template/Feepayment/addfeetype.ctp:202 Template/Feepayment/feelist.ctp:205
+#: Template/Feepayment/feelist.ctp:229 Template/Hostel/addroom.ctp:136
+#: Template/Library/memberlist.ctp:83 Template/Notice/noticelist.ctp:129
+#: Template/Parent/parentlist.ctp:213 Template/Report/feepayment.ctp:73
+#: Template/Student/studentlist.ctp:303 Template/Student/studentlist.ctp:326
+msgid "Close"
+msgstr "близко"
+
+#: Template/Admission/registration.ctp:197 Template/Student/registration.ctp:90
+#: Template/Student/registration.ctp:242
+msgid "New Registration"
+msgstr "Новая регистрация"
+
+#: Template/Admission/registration.ctp:205
+msgid "Student Info"
+msgstr "Студенческая информация"
+
+#: Template/Admission/registration.ctp:217
+#: Template/Admission/registration.ctp:499 Template/Student/addstudent.ctp:94
+#: Template/Student/registration.ctp:125 Template/Student/updatestudent.ctp:93
+#: Template/Teacher/addteacher.ctp:34
+msgid "First Name "
+msgstr "Имя "
+
+#: Template/Admission/registration.ctp:222
+#: Template/Admission/registration.ctp:515 Template/Student/addstudent.ctp:102
+#: Template/Student/registration.ctp:130 Template/Student/updatestudent.ctp:101
+#: Template/Teacher/addteacher.ctp:39
+msgid "Middle Name "
+msgstr "отчество "
+
+#: Template/Admission/registration.ctp:228
+#: Template/Admission/registration.ctp:532 Template/Student/addstudent.ctp:107
+#: Template/Student/registration.ctp:136 Template/Student/updatestudent.ctp:106
+#: Template/Teacher/addteacher.ctp:45
+msgid "Last Name "
+msgstr "фамилия "
+
+#: Template/Admission/registration.ctp:233 Template/Comman/addstudent.ctp:109
+#: Template/Comman/updatestudent.ctp:74 Template/Parent/addparent.ctp:67
+#: Template/Parent/updateparent.ctp:72 Template/Staff/addstaff.ctp:47
+#: Template/Staff/updatestaff.ctp:46 Template/Student/addstudent.ctp:115
+#: Template/Student/registration.ctp:141 Template/Student/updatestudent.ctp:114
+#: Template/Teacher/addteacher.ctp:63 Template/Teacher/updateteacher.ctp:63
+msgid "Date Of Birth "
+msgstr "День рождения "
+
+#: Template/Admission/registration.ctp:239 Template/Comman/addstudent.ctp:96
+#: Template/Comman/updatestudent.ctp:60 Template/Parent/addparent.ctp:54
+#: Template/Parent/updateparent.ctp:58 Template/Staff/addstaff.ctp:53
+#: Template/Staff/updatestaff.ctp:52 Template/Student/addstudent.ctp:120
+#: Template/Student/registration.ctp:147 Template/Student/updatestudent.ctp:118
+#: Template/Teacher/addteacher.ctp:50 Template/Teacher/updateteacher.ctp:51
+msgid "Select Gender "
+msgstr "Выберите Пол "
+
+#: Template/Admission/registration.ctp:244 Template/Comman/addstudent.ctp:101
+#: Template/Comman/updatestudent.ctp:66 Template/Parent/addparent.ctp:59
+#: Template/Parent/updateparent.ctp:64 Template/Staff/addstaff.ctp:58
+#: Template/Staff/updatestaff.ctp:58 Template/Student/addstudent.ctp:125
+#: Template/Student/registration.ctp:152 Template/Student/updatestudent.ctp:124
+#: Template/Teacher/addteacher.ctp:55 Template/Teacher/updateteacher.ctp:56
+msgid "Male"
+msgstr "мужчина"
+
+#: Template/Admission/registration.ctp:244 Template/Comman/addstudent.ctp:101
+#: Template/Comman/updatestudent.ctp:66 Template/Parent/addparent.ctp:59
+#: Template/Parent/updateparent.ctp:64 Template/Staff/addstaff.ctp:58
+#: Template/Staff/updatestaff.ctp:58 Template/Student/addstudent.ctp:125
+#: Template/Student/registration.ctp:152 Template/Student/updatestudent.ctp:124
+#: Template/Teacher/addteacher.ctp:55 Template/Teacher/updateteacher.ctp:56
+msgid "Female"
+msgstr "женщина"
+
+#: Template/Admission/registration.ctp:254 Template/Student/addstudent.ctp:135
+#: Template/Student/registration.ctp:162 Template/Student/updatestudent.ctp:134
+#: Template/Teacher/addteacher.ctp:77
+msgid "Address "
+msgstr "адрес "
+
+#: Template/Admission/registration.ctp:259 Template/Student/addstudent.ctp:140
+#: Template/Student/registration.ctp:167 Template/Teacher/addteacher.ctp:82
+msgid "State "
+msgstr "состояние "
+
+#: Template/Admission/registration.ctp:265 Template/Student/addstudent.ctp:146
+#: Template/Student/registration.ctp:173 Template/Teacher/addteacher.ctp:88
+msgid "City "
+msgstr "город "
+
+#: Template/Admission/registration.ctp:270
+#: Template/Student/registration.ctp:178
+msgid "PinCode "
+msgstr "PinCode "
+
+#: Template/Admission/registration.ctp:277 Template/Comman/addstudent.ctp:139
+#: Template/Comman/updatestudent.ctp:104 Template/Parent/addparent.ctp:122
+#: Template/Parent/updateparent.ctp:138 Template/Staff/addstaff.ctp:91
+#: Template/Staff/updatestaff.ctp:91 Template/Student/addstudent.ctp:158
+#: Template/Student/registration.ctp:185 Template/Student/updatestudent.ctp:157
+#: Template/Teacher/addteacher.ctp:100 Template/Teacher/updateteacher.ctp:109
+msgid "Mobile Number "
+msgstr "Номер мобильного телефона "
+
+#: Template/Admission/registration.ctp:286 Template/Comman/addstudent.ctp:157
+#: Template/Comman/updatestudent.ctp:122 Template/Parent/addparent.ctp:130
+#: Template/Parent/updateparent.ctp:146 Template/Staff/addstaff.ctp:108
+#: Template/Staff/updatestaff.ctp:108 Template/Student/addstudent.ctp:175
+#: Template/Student/registration.ctp:202 Template/Student/updatestudent.ctp:174
+#: Template/Teacher/addteacher.ctp:117 Template/Teacher/updateteacher.ctp:126
+#: Template/User/forgetpassword.ctp:20
+msgid "Phone Number "
+msgstr "Номер телефона "
+
+#: Template/Admission/registration.ctp:293
+#: Template/Admission/registration.ctp:549 Template/Parent/addparent.ctp:137
+#: Template/Parent/updateparent.ctp:153 Template/Staff/addstaff.ctp:115
+#: Template/Staff/updatestaff.ctp:115 Template/Student/addstudent.ctp:182
+#: Template/Student/registration.ctp:209 Template/Student/updatestudent.ctp:181
+#: Template/Teacher/addteacher.ctp:124 Template/Teacher/updateteacher.ctp:133
+msgid "Email "
+msgstr "электронная почта "
+
+#: Template/Admission/registration.ctp:298
+msgid "Name of the Previous School attended "
+msgstr "Название предыдущей школы Присутствовали "
+
+#: Template/Admission/registration.ctp:301
+msgid "-- None --"
+msgstr "по умолчанию"
+
+#: Template/Admission/registration.ctp:302
+msgid "Old School 1"
+msgstr "Старая школа 1"
+
+#: Template/Admission/registration.ctp:303
+msgid "Old School 2"
+msgstr "Old School 2"
+
+#: Template/Admission/registration.ctp:304
+msgid "Old School 3"
+msgstr "Old School 3"
+
+#: Template/Admission/registration.ctp:305
+#: Template/Admission/registration.ctp:589
+#: Template/Admission/registration.ctp:603
+#: Template/Admission/registration.ctp:621
+#: Template/Admission/registration.ctp:636
+#: Template/Admission/registration.ctp:700
+#: Template/Admission/registration.ctp:716
+msgid "Other"
+msgstr "другое"
+
+#: Template/Admission/registration.ctp:316
+msgid "Siblings Information"
+msgstr "братья и сестры информация"
+
+#: Template/Admission/registration.ctp:322
+msgid "In case of no sibling click here"
+msgstr "В случае отсутствия собрата нажмите здесь"
+
+#: Template/Admission/registration.ctp:328
+msgid "Relation Type "
+msgstr "Тип отношения "
+
+#: Template/Admission/registration.ctp:329
+msgid "Full Name "
+msgstr "Полное имя "
+
+#: Template/Admission/registration.ctp:330
+msgid "Age "
+msgstr "возраст "
+
+#: Template/Admission/registration.ctp:331
+msgid "Standard "
+msgstr "стандарт "
+
+#: Template/Admission/registration.ctp:332
+msgid "SID "
+msgstr "SID "
+
+#: Template/Admission/registration.ctp:341
+#: Template/Admission/registration.ctp:374
+#: Template/Admission/registration.ctp:407
+msgid "Brother"
+msgstr "брат"
+
+#: Template/Admission/registration.ctp:344
+#: Template/Admission/registration.ctp:377
+#: Template/Admission/registration.ctp:410
+msgid "Sister"
+msgstr "сестра"
+
+#: Template/Admission/registration.ctp:349
+#: Template/Admission/registration.ctp:381
+#: Template/Admission/registration.ctp:414
+msgid "Enter Full Name"
+msgstr "Введите полное имя"
+
+#: Template/Admission/registration.ctp:352
+#: Template/Admission/registration.ctp:384
+#: Template/Admission/registration.ctp:417
+msgid "Enter Age"
+msgstr "войти Возраст"
+
+#: Template/Admission/registration.ctp:356
+#: Template/Admission/registration.ctp:388
+#: Template/Admission/registration.ctp:421
+msgid "-- Select Standard --"
+msgstr "- Выберите стандарт -"
+
+#: Template/Admission/registration.ctp:357
+#: Template/Admission/registration.ctp:389
+#: Template/Admission/registration.ctp:422
+msgid "std 1"
+msgstr "станд 1"
+
+#: Template/Admission/registration.ctp:358
+#: Template/Admission/registration.ctp:390
+#: Template/Admission/registration.ctp:423
+msgid "std 2"
+msgstr "станд 2"
+
+#: Template/Admission/registration.ctp:359
+#: Template/Admission/registration.ctp:391
+#: Template/Admission/registration.ctp:424
+msgid "std 3"
+msgstr "3 станд"
+
+#: Template/Admission/registration.ctp:360
+#: Template/Admission/registration.ctp:392
+#: Template/Admission/registration.ctp:425
+msgid "std 4"
+msgstr "станд 4"
+
+#: Template/Admission/registration.ctp:437
+msgid "Family Information"
+msgstr "информация о семье"
+
+#: Template/Admission/registration.ctp:440
+msgid "Parental Status "
+msgstr "родительский статус "
+
+#: Template/Admission/registration.ctp:444
+msgid "Single Father"
+msgstr "Отец-одиночка"
+
+#: Template/Admission/registration.ctp:447
+msgid "Single Mother"
+msgstr "Single Mother"
+
+#: Template/Admission/registration.ctp:450
+msgid "Both"
+msgstr "обе"
+
+#: Template/Admission/registration.ctp:457
+msgid "Relationship"
+msgstr "отношения"
+
+#: Template/Admission/registration.ctp:459
+msgid "FATHER"
+msgstr "ОТЕЦ"
+
+#: Template/Admission/registration.ctp:465
+msgid "MOTHER"
+msgstr "МАТЬ"
+
+#: Template/Admission/registration.ctp:472
+msgid "Salutation"
+msgstr "приветствие"
+
+#: Template/Admission/registration.ctp:476
+msgid "Mr"
+msgstr "Господин"
+
+#: Template/Admission/registration.ctp:486
+msgid "Ms"
+msgstr "Миссисипи"
+
+#: Template/Admission/registration.ctp:487
+msgid "Mrs"
+msgstr "Г-жа"
+
+#: Template/Admission/registration.ctp:488
+msgid "Miss"
+msgstr "мисс"
+
+#: Template/Admission/registration.ctp:502
+#: Template/Admission/registration.ctp:509 Template/Parent/updateparent.ctp:44
+msgid "Enter First Name"
+msgstr "Введите Имя"
+
+#: Template/Admission/registration.ctp:518
+#: Template/Admission/registration.ctp:525 Template/Parent/updateparent.ctp:49
+msgid "Enter Middle Name"
+msgstr "Введите ОТЧЕСТВО"
+
+#: Template/Admission/registration.ctp:535
+#: Template/Admission/registration.ctp:542 Template/Parent/updateparent.ctp:55
+msgid "Enter Last Name"
+msgstr "Введите Фамилию"
+
+#: Template/Admission/registration.ctp:552
+#: Template/Admission/registration.ctp:559
+#: Template/Setting/generalsetting.ctp:125
+msgid "Enter Email"
+msgstr "введите e-mail"
+
+#: Template/Admission/registration.ctp:566
+msgid "Mobile No "
+msgstr "мобильный номер "
+
+#: Template/Admission/registration.ctp:569
+#: Template/Admission/registration.ctp:576
+msgid "Enter Mobile Number"
+msgstr "Введите номер мобильного телефона"
+
+#: Template/Admission/registration.ctp:583
+msgid "School Name "
+msgstr "Название школы "
+
+#: Template/Admission/registration.ctp:587
+#: Template/Admission/registration.ctp:601
+msgid "-- Select School --"
+msgstr "- Выберите школу -"
+
+#: Template/Admission/registration.ctp:588
+msgid "Father School 1"
+msgstr "Отец школы 1"
+
+#: Template/Admission/registration.ctp:592
+#: Template/Admission/registration.ctp:606
+#: Template/Setting/generalsetting.ctp:18
+msgid "Enter School Name"
+msgstr "Введите название школы"
+
+#: Template/Admission/registration.ctp:602
+msgid "Mother School 1"
+msgstr "Мать школа 1"
+
+#: Template/Admission/registration.ctp:614
+msgid "Medium of Instruction "
+msgstr "Среда Инструкции "
+
+#: Template/Admission/registration.ctp:618
+#: Template/Admission/registration.ctp:633
+msgid "-- Select Medium --"
+msgstr "- Выберите Medium -"
+
+#: Template/Admission/registration.ctp:619
+#: Template/Admission/registration.ctp:634
+msgid "English"
+msgstr "английский"
+
+#: Template/Admission/registration.ctp:620
+#: Template/Admission/registration.ctp:635
+msgid "Gujrati"
+msgstr "Gujrati"
+
+#: Template/Admission/registration.ctp:624
+#: Template/Admission/registration.ctp:639
+msgid "Enter Medium of School"
+msgstr "Введите среду школы"
+
+#: Template/Admission/registration.ctp:647
+msgid "Highest Educational Qualification "
+msgstr "Высший Образовательный ценз "
+
+#: Template/Admission/registration.ctp:651
+#: Template/Admission/registration.ctp:663
+msgid "-- Select Qualification --"
+msgstr "- Выберите рейтинг -"
+
+#: Template/Admission/registration.ctp:652
+#: Template/Admission/registration.ctp:664
+msgid "SSC"
+msgstr "SSC"
+
+#: Template/Admission/registration.ctp:653
+#: Template/Admission/registration.ctp:665
+msgid "HSC"
+msgstr "HSC"
+
+#: Template/Admission/registration.ctp:654
+#: Template/Admission/registration.ctp:666
+msgid "BCA"
+msgstr "BCA"
+
+#: Template/Admission/registration.ctp:676
+msgid "Annual Income"
+msgstr "годовой доход"
+
+#: Template/Admission/registration.ctp:679
+#: Template/Admission/registration.ctp:686
+msgid "Enter Annual Income"
+msgstr "Введите годовой доход"
+
+#: Template/Admission/registration.ctp:692
+msgid "Occupation "
+msgstr "занятие "
+
+#: Template/Admission/registration.ctp:696
+#: Template/Admission/registration.ctp:712
+msgid "-- Select One --"
+msgstr "- Выберите значение -"
+
+#: Template/Admission/registration.ctp:697
+#: Template/Admission/registration.ctp:713
+msgid "Business"
+msgstr "бизнес"
+
+#: Template/Admission/registration.ctp:698
+#: Template/Admission/registration.ctp:714
+msgid "Employee"
+msgstr "сотрудник"
+
+#: Template/Admission/registration.ctp:699
+#: Template/Admission/registration.ctp:715
+msgid "Banker"
+msgstr "банкомет"
+
+#: Template/Admission/registration.ctp:703
+#: Template/Admission/registration.ctp:719
+msgid "Enter Occupation"
+msgstr "введите Род занятий"
+
+#: Template/Admission/registration.ctp:729
+msgid "Proof of Qualification "
+msgstr "Доказательство квалификации "
+
+#: Template/Admission/registration.ctp:732
+#: Template/Admission/registration.ctp:738 Template/Teacher/addteacher.ctp:161
+msgid "Upload Documenr "
+msgstr "Загрузить Documenr "
+
+#: Template/Admission/registration.ctp:749
+msgid "New Admission"
+msgstr "Новый Admission"
+
+#: Template/Attendance/attendance.ctp:67 Template/Attendance/attendance.ctp:148
+#: Template/Attendance/attendance1.ctp:4 Template/Attendance/attendance1.ctp:70
+#: Template/Attendance/subjectattendance.ctp:106
+#: Template/Attendance/subjectattendance.ctp:205
+#: Template/Attendance/teacherattendance.ctp:20
+#: Template/Attendance/teacherattendance.ctp:69
+#: Template/Comman/studentattendance.ctp:70
+#: Template/Comman/studentsubjectattendance.ctp:120
+#: Template/Layout/default.ctp:653 Template/Student/studentattendance.ctp:79
+#: Template/Student/studentsubjectattendance.ctp:121
+#: Template/Teacher/teacherattendance.ctp:59
+msgid "Attendance"
+msgstr "посещаемость"
+
+#: Template/Attendance/attendance.ctp:70
+#: Template/Attendance/subjectattendance.ctp:109
+#: Template/Attendance/teacherattendance.ctp:23
+#: Template/Attendance/teacherattendance.ctp:61
+msgid "Teacher Attendance"
+msgstr "Участие учителей"
+
+#: Template/Attendance/attendance.ctp:73
+#: Template/Attendance/subjectattendance.ctp:112
+#: Template/Attendance/teacherattendance.ctp:26
+msgid "Subject Wise Attendance"
+msgstr "Тема Wise Посещаемость"
+
+#: Template/Attendance/attendance.ctp:82
+msgid "Current Date"
+msgstr "Текущая дата"
+
+#: Template/Attendance/attendance.ctp:89
+#: Template/Attendance/subjectattendance.ctp:128 Template/Report/failed.ctp:112
+#: Template/Report/result.ctp:108
+msgid "Select Class Name"
+msgstr "Выберите имя класса"
+
+#: Template/Attendance/attendance.ctp:94 Template/Attendance/attendance.ctp:98
+#: Template/Attendance/subjectattendance.ctp:133
+#: Template/Attendance/subjectattendance.ctp:137
+#: Template/Classroute/addclassroute.ctp:70
+#: Template/Classroute/updateclassroute.ctp:66
+#: Template/Classroute/updateteacherroute.ctp:67
+#: Template/Comman/addmarks.ctp:123 Template/Comman/addmarks.ctp:127
+#: Template/Comman/addmultiplemark.ctp:80
+#: Template/Comman/addmultiplemark.ctp:83 Template/Comman/addstudent.ctp:56
+#: Template/Comman/addsubject.ctp:62 Template/Comman/exploremark.ctp:80
+#: Template/Comman/exploremark.ctp:83 Template/Comman/studentlist.ctp:113
+#: Template/Comman/studentlist.ctp:117 Template/Feepayment/addfeetype.ctp:271
+#: Template/Feepayment/invoice.ctp:211 Template/Marks/addmarks.ctp:117
+#: Template/Marks/addmarks.ctp:123 Template/Marks/addmarks.ctp:127
+#: Template/Marks/addmultiplemark.ctp:75 Template/Marks/addmultiplemark.ctp:81
+#: Template/Marks/addmultiplemark.ctp:84 Template/Marks/exploremark.ctp:80
+#: Template/Marks/exploremark.ctp:94 Template/Message/compose.ctp:159
+#: Template/Migration/migration.ctp:29 Template/Migration/migration.ctp:50
+#: Template/Payment/addincome.ctp:141 Template/Payment/addpayment.ctp:153
+#: Template/Report/attendance.ctp:91 Template/Student/addstudent.ctp:76
+#: Template/Student/updatestudent.ctp:73 Template/Student/uploadcsv.ctp:27
+#: Template/Subject/addsubject.ctp:63 Template/Subject/updatesubject.ctp:62
+msgid "Select Class"
+msgstr "Выбор класса"
+
+#: Template/Attendance/attendance.ctp:105
+#: Template/Attendance/subjectattendance.ctp:145 Template/Report/failed.ctp:122
+msgid "Select Section Name"
+msgstr "Выбрать Название раздела"
+
+#: Template/Attendance/attendance.ctp:123
+#: Template/Attendance/subjectattendance.ctp:179
+#: Template/Attendance/teacherattendance.ctp:43
+msgid "Take/View Attendance"
+msgstr "Принять / Просмотреть Перенаправление"
+
+#: Template/Attendance/attendance.ctp:139
+#: Template/Attendance/attendance1.ctp:13
+#: Template/Attendance/attendance1.ctp:61
+#: Template/Attendance/subjectattendance.ctp:121
+#: Template/Attendance/subjectattendance.ctp:195
+#: Template/Attendance/teacherattendance.ctp:35
+#: Template/Attendance/teacherattendance.ctp:62
+#: Template/Comman/expenselist.ctp:112 Template/Comman/expenselist.ctp:120
+#: Template/Comman/exportlist.ctp:115 Template/Comman/exportlist.ctp:124
+#: Template/Comman/importlist.ctp:115 Template/Comman/importlist.ctp:124
+#: Template/Comman/incomelist.ctp:105 Template/Comman/incomelist.ctp:114
+#: Template/Comman/paymentlist.ctp:141 Template/Comman/paymentlist.ctp:157
+#: Template/Comman/studentattendance.ctp:68
+#: Template/Comman/studentsubjectattendance.ctp:118
+#: Template/Comman/viewdataexpense.ctp:68 Template/Comman/viewdataincome.ctp:70
+#: Template/Comman/viewdatapayment.ctp:71 Template/Export/exportlist.ctp:115
+#: Template/Export/exportlist.ctp:124 Template/Export/importlist.ctp:115
+#: Template/Export/importlist.ctp:124 Template/Feepayment/paymentview.ctp:90
+#: Template/Message/inbox.ctp:60 Template/Message/sentbox.ctp:65
+#: Template/Payment/expenselist.ctp:181 Template/Payment/expenselist.ctp:189
+#: Template/Payment/incomelist.ctp:184 Template/Payment/incomelist.ctp:194
+#: Template/Payment/paymentlist.ctp:214 Template/Payment/paymentlist.ctp:226
+#: Template/Payment/viewdataexpense.ctp:69
+#: Template/Payment/viewdataincome.ctp:74
+#: Template/Payment/viewdatapayment.ctp:73
+#: Template/Student/studentattendance.ctp:77
+#: Template/Student/studentsubjectattendance.ctp:119
+#: Template/Teacher/teacherattendance.ctp:57
+msgid "Date"
+msgstr "Дата: 2013.12.11 11:30:02 +01'00'"
+
+#: Template/Attendance/attendance.ctp:145
+#: Template/Attendance/attendance1.ctp:67
+#: Template/Attendance/subjectattendance.ctp:202
+#: Template/Attendance/teacherattendance.ctp:67
+msgid "Srno"
+msgstr "Srno"
+
+#: Template/Attendance/attendance.ctp:146
+#: Template/Attendance/attendance1.ctp:68
+#: Template/Attendance/subjectattendance.ctp:203
+#: Template/Comman/addmarks.ctp:201 Template/Comman/addmultiplemark.ctp:127
+#: Template/Comman/childlist.ctp:97 Template/Comman/studentlist.ctp:143
+#: Template/Comman/studentlist.ctp:164 Template/Marks/addmarks.ctp:206
+#: Template/Marks/addmarks.ctp:281 Template/Marks/addmultiplemark.ctp:128
+#: Template/Report/result.ctp:146 Template/Student/studentlist.ctp:201
+msgid "Roll No."
+msgstr "Ролл No."
+
+#: Template/Attendance/attendance.ctp:149
+#: Template/Attendance/attendance1.ctp:71
+#: Template/Attendance/subjectattendance.ctp:206
+#: Template/Attendance/teacherattendance.ctp:70
+#: Template/Comman/addmarks.ctp:204 Template/Comman/addmultiplemark.ctp:169
+#: Template/Comman/studentattendance.ctp:71
+#: Template/Comman/studentsubjectattendance.ctp:121
+#: Template/Grade/gradelist.ctp:123 Template/Grade/gradelist.ctp:133
+#: Template/Marks/addmarks.ctp:209 Template/Marks/addmarks.ctp:284
+#: Template/Marks/addmultiplemark.ctp:170
+#: Template/Student/studentattendance.ctp:80
+#: Template/Student/studentsubjectattendance.ctp:122
+#: Template/Teacher/teacherattendance.ctp:60
+msgid "Comment"
+msgstr "как"
+
+#: Template/Attendance/attendance.ctp:179
+#: Template/Attendance/attendance.ctp:203
+#: Template/Attendance/subjectattendance.ctp:235
+#: Template/Attendance/subjectattendance.ctp:264
+#: Template/Attendance/teacherattendance.ctp:102
+#: Template/Attendance/teacherattendance.ctp:123
+#: Template/Report/attendance.ctp:117
+msgid "Present"
+msgstr "настоящее время"
+
+#: Template/Attendance/attendance.ctp:182
+#: Template/Attendance/attendance.ctp:206
+#: Template/Attendance/subjectattendance.ctp:238
+#: Template/Attendance/subjectattendance.ctp:267
+#: Template/Attendance/teacherattendance.ctp:105
+#: Template/Attendance/teacherattendance.ctp:126
+#: Template/Comman/studentattendance.ctp:96
+#: Template/Comman/studentsubjectattendance.ctp:146
+#: Template/Report/attendance.ctp:117
+#: Template/Student/studentattendance.ctp:105
+#: Template/Student/studentsubjectattendance.ctp:147
+#: Template/Teacher/teacherattendance.ctp:85
+msgid "Absent"
+msgstr "отсутствующий"
+
+#: Template/Attendance/attendance.ctp:185
+#: Template/Attendance/attendance.ctp:209
+#: Template/Attendance/subjectattendance.ctp:241
+#: Template/Attendance/subjectattendance.ctp:270
+#: Template/Attendance/teacherattendance.ctp:108
+#: Template/Attendance/teacherattendance.ctp:129
+msgid "Late"
+msgstr "поздно"
+
+#: Template/Attendance/attendance.ctp:258
+#: Template/Attendance/attendance1.ctp:129
+#: Template/Attendance/subjectattendance.ctp:319
+msgid "If student absent then Send  SMS to his/her parents "
+msgstr "Если студент не хватает затем отправить SMS на его / ее родителей "
+
+#: Template/Attendance/attendance.ctp:288
+#: Template/Attendance/subjectattendance.ctp:348
+#: Template/Attendance/teacherattendance.ctp:182
+msgid "Save  Attendance"
+msgstr "Сохранить посещаемость"
+
+#: Template/Attendance/teacherattendance.ctp:68 Template/Comman/account.ctp:139
+#: Template/Comman/addevent.ctp:76 Template/Comman/addexport.ctp:53
+#: Template/Dashboard/dashboard.ctp:39 Template/Event/addevent.ctp:76
+#: Template/Export/addexport.ctp:53 Template/Layout/default.ctp:568
+#: Template/Notice/addnotice.ctp:125 Template/Notice/updatenotice.ctp:123
+#: Template/Report/teacher.ctp:45 Template/Teacherrights/accessteacher.ctp:27
+#: Template/Teacherrights/accessteacher.ctp:37
+#: Template/Templet/parentdash.ctp:33 Template/Templet/studentdash.ctp:33
+#: Template/Templet/supportstaffdash.ctp:33 Template/Templet/teacherdash.ctp:33
+#: Template/Templet/templet.ctp:32
+msgid "Teacher"
+msgstr "учитель"
+
+#: Template/Classmgt/addclass.ctp:4 Template/Classmgt/classlist.ctp:85
+#: Template/Classmgt/updateclass.ctp:5
+msgid "Class List"
+msgstr "Список классов"
+
+#: Template/Classmgt/addclass.ctp:7 Template/Classmgt/addclass.ctp:38
+#: Template/Classmgt/classlist.ctp:88
+msgid "Add Class"
+msgstr "Добавление класса"
+
+#: Template/Classmgt/addclass.ctp:17 Template/Classmgt/addclass.ctp:19
+#: Template/Classmgt/updateclass.ctp:18
+msgid "Enter Class Name "
+msgstr "Введите имя класса "
+
+#: Template/Classmgt/addclass.ctp:23 Template/Classmgt/updateclass.ctp:24
+msgid "Numeric Class Name "
+msgstr "Числовой Имя класса "
+
+#: Template/Classmgt/addclass.ctp:30
+msgid "Student Capacity in Section "
+msgstr "Студент Вместимость в разделе "
+
+#: Template/Classmgt/classlist.ctp:105 Template/Classmgt/classlist.ctp:113
+#: Template/Comman/childlist.ctp:106 Template/Comman/studentlist.ctp:151
+#: Template/Comman/studentlist.ctp:173 Template/Comman/subjectlist.ctp:36
+#: Template/Comman/subjectlist.ctp:46 Template/Report/attendance.ctp:89
+#: Template/Report/failed.ctp:110 Template/Report/feepayment.ctp:121
+#: Template/Report/result.ctp:106 Template/Student/studentlist.ctp:199
+#: Template/Student/studentlist.ctp:212 Template/Subject/subjectlist.ctp:109
+#: Template/Subject/subjectlist.ctp:120 Template/Teacher/teacherlist.ctp:107
+#: Template/Teacher/teacherlist.ctp:117
+msgid "Class Name"
+msgstr "Имя класса"
+
+#: Template/Classmgt/classlist.ctp:106 Template/Classmgt/classlist.ctp:114
+msgid "Class Numeric Name"
+msgstr "Класс Числовой Имя"
+
+#: Template/Classmgt/classlist.ctp:107 Template/Classmgt/classlist.ctp:115
+#: Template/Hall/halllist.ctp:117 Template/Hall/halllist.ctp:126
+msgid "Capacity"
+msgstr "мощность"
+
+#: Template/Classmgt/classlist.ctp:131
+#: Template/Classroute/classroutelist.ctp:68
+#: Template/Classroute/teacherroutelist.ctp:63
+#: Template/Comman/expenselist.ctp:163 Template/Comman/exportlist.ctp:142
+#: Template/Comman/importlist.ctp:142 Template/Comman/incomelist.ctp:165
+#: Template/Comman/paymentlist.ctp:205 Template/Comman/studentlist.ctp:229
+#: Template/Comman/studentlist.ctp:255 Template/Event/eventlist.ctp:142
+#: Template/Exam/examlist.ctp:143 Template/Export/exportlist.ctp:142
+#: Template/Export/importlist.ctp:142 Template/Feepayment/feelist.ctp:369
+#: Template/Feepayment/feetypelist.ctp:179 Template/Grade/gradelist.ctp:149
+#: Template/Hall/halllist.ctp:141 Template/Holiday/holidaylist.ctp:144
+#: Template/Hostel/bedslist.ctp:181 Template/Hostel/hostellist.ctp:161
+#: Template/Hostel/roomlist.ctp:183 Template/Library/booklist.ctp:182
+#: Template/Library/issuelist.ctp:210 Template/News/newslist.ctp:157
+#: Template/Notice/noticelist.ctp:240 Template/Parent/parentlist.ctp:170
+#: Template/Payment/expenselist.ctp:234 Template/Payment/incomelist.ctp:247
+#: Template/Payment/paymentlist.ctp:259 Template/Staff/stafflist.ctp:134
+#: Template/Student/studentlist.ctp:248 Template/Subject/subjectlist.ctp:142
+#: Template/Teacher/teacherlist.ctp:140
+#: Template/Transport/transportlist.ctp:155
+msgid "Edit"
+msgstr "редактировать"
+
+#: Template/Classmgt/classlist.ctp:133
+#: Template/Classroute/classroutelist.ctp:69
+#: Template/Classroute/teacherroutelist.ctp:64
+#: Template/Comman/addexpense.ctp:125 Template/Comman/addexpense.ctp:149
+#: Template/Comman/addincome.ctp:275 Template/Comman/addincome.ctp:301
+#: Template/Comman/expenselist.ctp:165 Template/Comman/incomelist.ctp:167
+#: Template/Comman/paymentlist.ctp:207 Template/Event/eventlist.ctp:144
+#: Template/Exam/examlist.ctp:145 Template/Export/exportlist.ctp:144
+#: Template/Export/importlist.ctp:144 Template/Feepayment/feelist.ctp:371
+#: Template/Feepayment/feetypelist.ctp:181 Template/Grade/gradelist.ctp:151
+#: Template/Hall/halllist.ctp:143 Template/Holiday/holidaylist.ctp:146
+#: Template/Hostel/assignroom.ctp:174 Template/Hostel/bedslist.ctp:183
+#: Template/Hostel/hostellist.ctp:163 Template/Hostel/roomlist.ctp:185
+#: Template/Library/booklist.ctp:184 Template/Library/issuelist.ctp:212
+#: Template/Message/view_inbox_message.ctp:79
+#: Template/Message/view_inbox_message.ctp:92
+#: Template/Message/view_inbox_message.ctp:93
+#: Template/Message/view_message.ctp:80 Template/News/newslist.ctp:159
+#: Template/Notice/noticelist.ctp:242 Template/Parent/parentlist.ctp:170
+#: Template/Payment/addexpense.ctp:111 Template/Payment/addexpense.ctp:135
+#: Template/Payment/addincome.ctp:262 Template/Payment/addincome.ctp:289
+#: Template/Payment/expenselist.ctp:235 Template/Payment/incomelist.ctp:249
+#: Template/Payment/paymentlist.ctp:261 Template/Staff/stafflist.ctp:134
+#: Template/Student/studentlist.ctp:250 Template/Subject/subjectlist.ctp:142
+#: Template/Teacher/teacherlist.ctp:140
+#: Template/Transport/transportlist.ctp:157
+msgid "Delete"
+msgstr "удалять"
+
+#: Template/Classmgt/classlist.ctp:135
+msgid "View Or Add Section"
+msgstr "Просмотр Gold Добавить раздел"
+
+#: Template/Classmgt/classlist.ctp:155
+msgid "Not Available Any Class"
+msgstr "Нет данных Любой класс"
+
+#: Template/Classmgt/editcriteria.ctp:21
+msgid "Submit"
+msgstr "представить"
+
+#: Template/Classmgt/updateclass.ctp:8
+msgid "Edit Class"
+msgstr "Редактировать Класс"
+
+#: Template/Classmgt/updateclass.ctp:31
+msgid "Student Capacity in Sction "
+msgstr "Студент Вместимость в Sction "
+
+#: Template/Classmgt/updateclass.ctp:40
+msgid "Save Class"
+msgstr "Сохранить класс"
+
+#: Template/Classmgt/viewsectionlist.ctp:12
+#: Template/Classmgt/viewsectionlist.ctp:49 Template/Comman/subjectlist.ctp:37
+#: Template/Comman/subjectlist.ctp:47 Template/Comman/subjectlist.ctp:61
+#: Template/Comman/subjectlist.ctp:70 Template/Student/studentlist.ctp:200
+#: Template/Student/studentlist.ctp:213 Template/Subject/subjectlist.ctp:110
+#: Template/Subject/subjectlist.ctp:121
+msgid "Section Name"
+msgstr "Название раздела"
+
+#: Template/Classmgt/viewsectionlist.ctp:55
+msgid "Add New Section"
+msgstr "Добавить раздел"
+
+#: Template/Classroute/addclassroute.ctp:39
+#: Template/Classroute/classroutelist.ctp:10
+#: Template/Classroute/teacherroutelist.ctp:10
+#: Template/Classroute/updateclassroute.ctp:39
+#: Template/Classroute/updateteacherroute.ctp:40
+msgid "Route List"
+msgstr "Список маршрутов"
+
+#: Template/Classroute/addclassroute.ctp:42
+#: Template/Classroute/classroutelist.ctp:13
+#: Template/Classroute/teacherroutelist.ctp:13
+msgid "Add Route"
+msgstr "Добавить маршрут"
+
+#: Template/Classroute/addclassroute.ctp:45
+#: Template/Classroute/classroutelist.ctp:16
+#: Template/Classroute/teacherroutelist.ctp:16
+#: Template/Classroute/updateclassroute.ctp:45
+#: Template/Classroute/updateteacherroute.ctp:46
+msgid "Teacher Time Table"
+msgstr "Учитель Таблица времени"
+
+#: Template/Classroute/addclassroute.ctp:54 Template/Subject/addsubject.ctp:79
+#: Template/Subject/updatesubject.ctp:81
+msgid "Select Teacher "
+msgstr "Выберите Учитель "
+
+#: Template/Classroute/addclassroute.ctp:67 Template/Comman/addstudent.ctp:53
+#: Template/Comman/updatestudent.ctp:16 Template/Notice/addnotice.ctp:138
+#: Template/Notice/updatenotice.ctp:136 Template/Student/addstudent.ctp:73
+#: Template/Student/registration.ctp:101 Template/Student/updatestudent.ctp:70
+#: Template/Subject/addsubject.ctp:60 Template/Subject/updatesubject.ctp:59
+#: Template/Teacher/addteacher.ctp:68 Template/Teacher/updateteacher.ctp:68
+msgid "Select Class "
+msgstr "Выбор класса "
+
+#: Template/Classroute/addclassroute.ctp:76 Template/Comman/addstudent.ctp:63
+#: Template/Comman/addsubject.ctp:69 Template/Message/compose.ctp:178
+#: Template/Notice/addnotice.ctp:158 Template/Notice/updatenotice.ctp:159
+#: Template/Student/addstudent.ctp:81 Template/Student/registration.ctp:109
+#: Template/Student/updatestudent.ctp:77 Template/Subject/addsubject.ctp:70
+#: Template/Subject/updatesubject.ctp:68
+msgid "Select Section "
+msgstr "Выберите раздел "
+
+#: Template/Classroute/addclassroute.ctp:86
+msgid "Select Subject "
+msgstr "Выберите Тема "
+
+#: Template/Classroute/addclassroute.ctp:96
+msgid "Select Day "
+msgstr "Выберите день "
+
+#: Template/Classroute/addclassroute.ctp:98 Template/Parent/addparent.ctp:87
+#: Template/Parent/updateparent.ctp:103
+msgid "(choose one)"
+msgstr "(Выберите один)"
+
+#: Template/Classroute/addclassroute.ctp:102
+msgid "Start Time "
+msgstr "Время начала "
+
+#: Template/Classroute/addclassroute.ctp:104
+#: Template/Classroute/addclassroute.ctp:117
+msgid "(Select)"
+msgstr "(Выбрать)"
+
+#: Template/Classroute/addclassroute.ctp:110
+#: Template/Classroute/addclassroute.ctp:123
+#: Template/Classroute/updateclassroute.ctp:109
+#: Template/Classroute/updateclassroute.ctp:125
+msgid "am"
+msgstr "я"
+
+#: Template/Classroute/addclassroute.ctp:110
+#: Template/Classroute/addclassroute.ctp:123
+#: Template/Classroute/updateclassroute.ctp:109
+#: Template/Classroute/updateclassroute.ctp:125
+msgid "pm"
+msgstr "вечера"
+
+#: Template/Classroute/addclassroute.ctp:115
+msgid "End Time "
+msgstr "Время окончания "
+
+#: Template/Classroute/addclassroute.ctp:129
+msgid "Add Class Routine"
+msgstr "Добавить Routine класс"
+
+#: Template/Classroute/classroutelist.ctp:38 Template/Comman/account.ctp:400
+#: Template/Comman/addincome.ctp:142 Template/Comman/addpayment.ctp:163
+#: Template/Comman/classroutelist.ctp:52 Template/Comman/classroutelist.ctp:110
+#: Template/Comman/classroutelist.ctp:178
+#: Template/Comman/classroutelist.ctp:248 Template/Feepayment/invoice.ctp:202
+#: Template/Payment/addincome.ctp:129
+msgid "Class : "
+msgstr "Класс: "
+
+#: Template/Classroute/teacherroutelist.ctp:33
+msgid "Teacher : "
+msgstr "Учитель: "
+
+#: Template/Classroute/updateclassroute.ctp:42
+#: Template/Classroute/updateteacherroute.ctp:43
+msgid "Edit Route"
+msgstr "Изменить маршрут"
+
+#: Template/Classroute/updateclassroute.ctp:55
+#: Template/Classroute/updateteacherroute.ctp:56
+msgid "Select Teacher :"
+msgstr "Выбор учителя:"
+
+#: Template/Classroute/updateclassroute.ctp:58
+#: Template/Classroute/updateteacherroute.ctp:59
+#: Template/Subject/updatesubject.ctp:84
+msgid "Select Teacher"
+msgstr "Выберите Учитель"
+
+#: Template/Classroute/updateclassroute.ctp:63
+#: Template/Classroute/updateteacherroute.ctp:64
+msgid "Select Class :"
+msgstr "Выбрать Класс:"
+
+#: Template/Classroute/updateclassroute.ctp:72
+#: Template/Classroute/updateteacherroute.ctp:73
+msgid "Select Section : "
+msgstr "Выберите раздел: "
+
+#: Template/Classroute/updateclassroute.ctp:82
+#: Template/Classroute/updateteacherroute.ctp:87
+msgid "Select Subject :"
+msgstr "Выберите Тема:"
+
+#: Template/Classroute/updateclassroute.ctp:91
+#: Template/Classroute/updateteacherroute.ctp:96
+msgid "Select Day : "
+msgstr "Выберите день: "
+
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Wedneshday"
+msgstr "Wedneshday"
+
+#: Template/Classroute/updateclassroute.ctp:94
+msgid "Frieday"
+msgstr "Frieday"
+
+#: Template/Classroute/updateclassroute.ctp:98
+#: Template/Classroute/updateteacherroute.ctp:103
+msgid "Start Time : "
+msgstr "Время начала: "
+
+#: Template/Classroute/updateclassroute.ctp:114
+#: Template/Classroute/updateteacherroute.ctp:119
+msgid "End Time : "
+msgstr "Время окончания: "
+
+#: Template/Classroute/updateclassroute.ctp:131
+#: Template/Classroute/updateteacherroute.ctp:136
+msgid "Save Route"
+msgstr "Сохранить маршрут"
+
+#: Template/Comman/account.ctp:136
+msgid "Class :"
+msgstr "Класс:"
+
+#: Template/Comman/account.ctp:164 Template/Comman/account.ctp:256
+msgid "Account Settings"
+msgstr "Настройки учетной записи"
+
+#: Template/Comman/account.ctp:191 Template/Comman/viewdataexpense.ctp:71
+#: Template/Comman/viewdataincome.ctp:73 Template/Comman/viewdatapayment.ctp:74
+#: Template/Installer/index.ctp:340 Template/Payment/viewdataexpense.ctp:72
+#: Template/Payment/viewdataincome.ctp:77
+#: Template/Payment/viewdatapayment.ctp:76
+msgid "Username"
+msgstr "имя пользователя"
+
+#: Template/Comman/account.ctp:203
+msgid "Current Password"
+msgstr "Текущий пароль"
+
+#: Template/Comman/account.ctp:214 Template/User/forgetpassword.ctp:14
+#: Template/User/forgetpassword.ctp:23
+msgid "New Password"
+msgstr "Новый пароль"
+
+#: Template/Comman/account.ctp:224 Template/Installer/index.ctp:357
+msgid "Confirm Password"
+msgstr "Подтверждение пароля"
+
+#: Template/Comman/account.ctp:272
+msgid "City"
+msgstr "город"
+
+#: Template/Comman/account.ctp:283
+msgid "State"
+msgstr "состояние"
+
+#: Template/Comman/account.ctp:305 Template/Comman/teacherlist.ctp:23
+#: Template/Comman/teacherlist.ctp:30 Template/Comman/teacherlist.ctp:38
+#: Template/Comman/teacherlist.ctp:46 Template/Installer/index.ctp:289
+#: Template/Parent/parentlist.ctp:144 Template/Parent/parentlist.ctp:152
+#: Template/Setting/generalsetting.ctp:123 Template/Staff/stafflist.ctp:109
+#: Template/Staff/stafflist.ctp:117 Template/Teacher/teacherlist.ctp:109
+#: Template/Teacher/teacherlist.ctp:119 Template/User/forgetpassword.ctp:17
+#: Template/User/user.ctp:17
+msgid "Email"
+msgstr "электронная почта"
+
+#: Template/Comman/account.ctp:338 Template/Comman/addevent.ctp:78
+#: Template/Comman/addexport.ctp:54 Template/Dashboard/dashboard.ctp:49
+#: Template/Event/addevent.ctp:78 Template/Export/addexport.ctp:54
+#: Template/Layout/default.ctp:585 Template/Notice/addnotice.ctp:127
+#: Template/Notice/updatenotice.ctp:125
+#: Template/Teacherrights/accessteacher.ctp:30
+#: Template/Teacherrights/accessteacher.ctp:40
+#: Template/Templet/parentdash.ctp:44 Template/Templet/studentdash.ctp:44
+#: Template/Templet/supportstaffdash.ctp:44 Template/Templet/teacherdash.ctp:44
+#: Template/Templet/templet.ctp:42
+msgid "Parent"
+msgstr "относительный"
+
+#: Template/Comman/account.ctp:373
+msgid "Child"
+msgstr "ребенок"
+
+#: Template/Comman/addbeds.ctp:49 Template/Comman/addhostel.ctp:13
+#: Template/Comman/addroom.ctp:55 Template/Comman/assignroom.ctp:48
+#: Template/Comman/bedslist.ctp:84 Template/Comman/hostellist.ctp:84
+#: Template/Comman/roomlist.ctp:84 Template/Hostel/addbeds.ctp:49
+#: Template/Hostel/addhostel.ctp:13 Template/Hostel/addroom.ctp:55
+#: Template/Hostel/assignroom.ctp:48 Template/Hostel/bedslist.ctp:84
+#: Template/Hostel/hostellist.ctp:84 Template/Hostel/roomlist.ctp:84
+msgid "Hostel List"
+msgstr "Список Hostel"
+
+#: Template/Comman/addbeds.ctp:54 Template/Comman/addhostel.ctp:18
+#: Template/Comman/addhostel.ctp:78 Template/Comman/addroom.ctp:60
+#: Template/Hostel/addbeds.ctp:54 Template/Hostel/addhostel.ctp:18
+#: Template/Hostel/addhostel.ctp:78 Template/Hostel/addroom.ctp:60
+#: Template/Hostel/assignroom.ctp:53 Template/Hostel/bedslist.ctp:89
+#: Template/Hostel/hostellist.ctp:89 Template/Hostel/roomlist.ctp:89
+msgid "Edit Hostel"
+msgstr "Edit Hostel"
+
+#: Template/Comman/addbeds.ctp:56 Template/Comman/addhostel.ctp:20
+#: Template/Comman/addhostel.ctp:80 Template/Comman/addroom.ctp:62
+#: Template/Hostel/addbeds.ctp:56 Template/Hostel/addhostel.ctp:20
+#: Template/Hostel/addhostel.ctp:80 Template/Hostel/addroom.ctp:62
+#: Template/Hostel/assignroom.ctp:55 Template/Hostel/bedslist.ctp:91
+#: Template/Hostel/hostellist.ctp:91 Template/Hostel/roomlist.ctp:91
+msgid "Add Hostel"
+msgstr "Добавить хостел"
+
+#: Template/Comman/addbeds.ctp:60 Template/Comman/addhostel.ctp:24
+#: Template/Comman/addroom.ctp:66 Template/Comman/assignroom.ctp:52
+#: Template/Comman/bedslist.ctp:88 Template/Comman/hostellist.ctp:87
+#: Template/Comman/roomlist.ctp:88 Template/Hostel/addbeds.ctp:60
+#: Template/Hostel/addhostel.ctp:24 Template/Hostel/addroom.ctp:66
+#: Template/Hostel/assignroom.ctp:59 Template/Hostel/bedslist.ctp:95
+#: Template/Hostel/hostellist.ctp:95 Template/Hostel/roomlist.ctp:95
+msgid "Room List"
+msgstr "Список номеров"
+
+#: Template/Comman/addbeds.ctp:65 Template/Comman/addhostel.ctp:29
+#: Template/Comman/addroom.ctp:71 Template/Comman/addroom.ctp:206
+#: Template/Comman/assignroom.ctp:57 Template/Hostel/addbeds.ctp:65
+#: Template/Hostel/addhostel.ctp:29 Template/Hostel/addroom.ctp:71
+#: Template/Hostel/addroom.ctp:206 Template/Hostel/assignroom.ctp:64
+#: Template/Hostel/bedslist.ctp:100 Template/Hostel/hostellist.ctp:100
+#: Template/Hostel/roomlist.ctp:100
+msgid "Edit Room"
+msgstr "Изменить номер"
+
+#: Template/Comman/addbeds.ctp:67 Template/Comman/addhostel.ctp:31
+#: Template/Comman/addroom.ctp:73 Template/Comman/addroom.ctp:208
+#: Template/Hostel/addbeds.ctp:67 Template/Hostel/addhostel.ctp:31
+#: Template/Hostel/addroom.ctp:73 Template/Hostel/addroom.ctp:208
+#: Template/Hostel/bedslist.ctp:102 Template/Hostel/hostellist.ctp:102
+#: Template/Hostel/roomlist.ctp:102
+msgid "Add Room"
+msgstr "Добавить номер"
+
+#: Template/Comman/addbeds.ctp:71 Template/Comman/addhostel.ctp:35
+#: Template/Comman/addroom.ctp:77 Template/Comman/assignroom.ctp:63
+#: Template/Comman/bedslist.ctp:92 Template/Comman/hostellist.ctp:90
+#: Template/Comman/roomlist.ctp:92 Template/Hostel/addbeds.ctp:71
+#: Template/Hostel/addhostel.ctp:35 Template/Hostel/addroom.ctp:77
+#: Template/Hostel/assignroom.ctp:70 Template/Hostel/bedslist.ctp:106
+#: Template/Hostel/hostellist.ctp:106 Template/Hostel/roomlist.ctp:106
+msgid "Beds List"
+msgstr "Список кроватей"
+
+#: Template/Comman/addbeds.ctp:76 Template/Comman/addhostel.ctp:40
+#: Template/Comman/addroom.ctp:82 Template/Hostel/addbeds.ctp:76
+#: Template/Hostel/addhostel.ctp:40 Template/Hostel/addroom.ctp:82
+#: Template/Hostel/assignroom.ctp:75 Template/Hostel/bedslist.ctp:111
+#: Template/Hostel/hostellist.ctp:111 Template/Hostel/roomlist.ctp:111
+msgid "Edit Beds"
+msgstr "Редактировать кровати"
+
+#: Template/Comman/addbeds.ctp:78 Template/Comman/addhostel.ctp:42
+#: Template/Comman/addroom.ctp:84 Template/Hostel/addbeds.ctp:78
+#: Template/Hostel/addhostel.ctp:42 Template/Hostel/addroom.ctp:84
+#: Template/Hostel/assignroom.ctp:77 Template/Hostel/bedslist.ctp:113
+#: Template/Hostel/hostellist.ctp:113 Template/Hostel/roomlist.ctp:113
+msgid "Add Beds"
+msgstr "Добавить Кровати"
+
+#: Template/Comman/addbeds.ctp:87 Template/Hostel/addbeds.ctp:87
+msgid "Bed Unique ID "
+msgstr "Кровать Уникальный ID "
+
+#: Template/Comman/addbeds.ctp:89 Template/Hostel/addbeds.ctp:89
+msgid "Enter Bed Unique ID "
+msgstr "Введите уникальный идентификатор Bed "
+
+#: Template/Comman/addbeds.ctp:93 Template/Comman/addroom.ctp:150
+#: Template/Hostel/addbeds.ctp:93 Template/Hostel/addroom.ctp:150
+msgid "Room Unique ID "
+msgstr "Номер Уникальный ID "
+
+#: Template/Comman/addbeds.ctp:96 Template/Hostel/addbeds.ctp:96
+msgid "Select Room Unique ID "
+msgstr "Выберите номер Уникальный идентификатор "
+
+#: Template/Comman/addbeds.ctp:103 Template/Comman/addevent.ctp:40
+#: Template/Comman/addhostel.ctp:67 Template/Comman/addroom.ctp:195
+#: Template/Event/addevent.ctp:40 Template/Feepayment/addfeetype.ctp:315
+#: Template/Hall/addhall.ctp:54 Template/Hall/updatehall.ctp:54
+#: Template/Holiday/addholiday.ctp:42 Template/Hostel/addbeds.ctp:103
+#: Template/Hostel/addhostel.ctp:67 Template/Hostel/addroom.ctp:195
+#: Template/News/addnews.ctp:52 Template/Payment/addpayment.ctp:253
+#: Template/Transport/addtransport.ctp:81
+#: Template/Transport/updatetransport.ctp:92
+msgid "Description "
+msgstr "Описание "
+
+#: Template/Comman/addbeds.ctp:105 Template/Comman/addevent.ctp:42
+#: Template/Comman/addhostel.ctp:69 Template/Event/addevent.ctp:42
+#: Template/Feepayment/addfeetype.ctp:317 Template/Feepayment/invoice.ctp:321
+#: Template/Holiday/addholiday.ctp:44 Template/Holiday/updateholiday.ctp:43
+#: Template/Hostel/addbeds.ctp:105 Template/Hostel/addhostel.ctp:69
+#: Template/Library/addbook.ctp:410 Template/News/addnews.ctp:54
+#: Template/Payment/addpayment.ctp:255 Template/Transport/addtransport.ctp:83
+msgid "Enter Description "
+msgstr "введите описание "
+
+#: Template/Comman/addbeds.ctp:114 Template/Hostel/addbeds.ctp:114
+msgid "Edit Bed"
+msgstr "Редактировать кровать"
+
+#: Template/Comman/addbeds.ctp:116 Template/Hostel/addbeds.ctp:116
+msgid "Add Bed"
+msgstr "Добавить кровать"
+
+#: Template/Comman/addevent.ctp:15 Template/Comman/eventlist.ctp:84
+#: Template/Comman/eventlist.ctp:103 Template/Comman/eventlist.ctp:113
+#: Template/Event/addevent.ctp:15 Template/Event/eventlist.ctp:84
+#: Template/Event/eventlist.ctp:110 Template/Event/eventlist.ctp:120
+#: Template/Templet/parentdash.ctp:137 Template/Templet/studentdash.ctp:137
+#: Template/Templet/supportstaffdash.ctp:137
+#: Template/Templet/teacherdash.ctp:132 Template/Templet/templet.ctp:142
+msgid "Event List"
+msgstr "Список событий"
+
+#: Template/Comman/addevent.ctp:20 Template/Comman/addevent.ctp:91
+#: Template/Event/addevent.ctp:20 Template/Event/addevent.ctp:91
+#: Template/Event/eventlist.ctp:89
+msgid "Edit Event"
+msgstr "Редактировать событие"
+
+#: Template/Comman/addevent.ctp:22 Template/Comman/addevent.ctp:93
+#: Template/Event/addevent.ctp:22 Template/Event/addevent.ctp:93
+#: Template/Event/eventlist.ctp:91
+msgid "Add Event"
+msgstr "Добавить событие"
+
+#: Template/Comman/addevent.ctp:31 Template/Event/addevent.ctp:31
+msgid "Event Title "
+msgstr "Название события "
+
+#: Template/Comman/addevent.ctp:33 Template/Event/addevent.ctp:33
+msgid "Enter Event Title "
+msgstr "Введите название события "
+
+#: Template/Comman/addevent.ctp:48 Template/Event/addevent.ctp:48
+#: Template/Holiday/addholiday.ctp:50 Template/News/addnews.ctp:60
+msgid "Start Date "
+msgstr "Дата начала "
+
+#: Template/Comman/addevent.ctp:55 Template/Comman/addevent.ctp:67
+#: Template/Event/addevent.ctp:55 Template/Event/addevent.ctp:67
+#: Template/News/addnews.ctp:67 Template/News/addnews.ctp:79
+msgid "Enter News date "
+msgstr "Введите даты Новости "
+
+#: Template/Comman/addevent.ctp:60 Template/Event/addevent.ctp:60
+#: Template/Holiday/addholiday.ctp:57 Template/News/addnews.ctp:72
+msgid "End Date "
+msgstr "Дата окончания "
+
+#: Template/Comman/addevent.ctp:72 Template/Event/addevent.ctp:72
+msgid "Event For "
+msgstr "Для события "
+
+#: Template/Comman/addevent.ctp:75 Template/Comman/noticelist.ctp:118
+#: Template/Comman/noticelist.ctp:143 Template/Event/addevent.ctp:75
+#: Template/Message/compose.ctp:162 Template/Notice/addnotice.ctp:124
+#: Template/Notice/addnotice.ctp:144 Template/Notice/updatenotice.ctp:122
+#: Template/Notice/updatenotice.ctp:144 Template/Student/exportcsv.ctp:27
+msgid "All"
+msgstr "все"
+
+#: Template/Comman/addevent.ctp:77 Template/Comman/addexport.ctp:52
+#: Template/Comman/noticelist.ctp:116 Template/Dashboard/dashboard.ctp:29
+#: Template/Event/addevent.ctp:77 Template/Export/addexport.ctp:52
+#: Template/Layout/default.ctp:552 Template/Message/compose.ctp:118
+#: Template/Notice/addnotice.ctp:126 Template/Notice/updatenotice.ctp:124
+#: Template/Teacherrights/accessteacher.ctp:28
+#: Template/Teacherrights/accessteacher.ctp:38
+#: Template/Templet/parentdash.ctp:22 Template/Templet/studentdash.ctp:22
+#: Template/Templet/supportstaffdash.ctp:22 Template/Templet/teacherdash.ctp:22
+#: Template/Templet/templet.ctp:21
+msgid "Student"
+msgstr "студент"
+
+#: Template/Comman/addevent.ctp:79 Template/Comman/addexport.ctp:55
+#: Template/Comman/noticelist.ctp:141 Template/Event/addevent.ctp:79
+#: Template/Export/addexport.ctp:55 Template/Layout/default.ctp:576
+#: Template/Message/compose.ctp:121 Template/Notice/addnotice.ctp:128
+#: Template/Notice/updatenotice.ctp:126
+#: Template/Teacherrights/accessteacher.ctp:29
+#: Template/Teacherrights/accessteacher.ctp:39
+msgid "Support Staff"
+msgstr "Вспомогательный персонал"
+
+#: Template/Comman/addexpense.ctp:36 Template/Comman/addincome.ctp:114
+#: Template/Comman/addpayment.ctp:124 Template/Comman/addpayment.ctp:130
+#: Template/Comman/expenselist.ctp:83 Template/Comman/incomelist.ctp:76
+#: Template/Comman/paymentlist.ctp:103 Template/Comman/paymentlist.ctp:109
+#: Template/Payment/addexpense.ctp:31 Template/Payment/addincome.ctp:109
+#: Template/Payment/addpayment.ctp:121 Template/Payment/expenselist.ctp:153
+#: Template/Payment/incomelist.ctp:154 Template/Payment/paymentlist.ctp:183
+msgid "Payment List"
+msgstr "Список платежей"
+
+#: Template/Comman/addexpense.ctp:39 Template/Comman/addincome.ctp:117
+#: Template/Comman/addpayment.ctp:108 Template/Comman/addpayment.ctp:111
+#: Template/Comman/expenselist.ctp:86 Template/Comman/feelist.ctp:125
+#: Template/Comman/incomelist.ctp:79 Template/Comman/paymentlist.ctp:112
+#: Template/Feepayment/feelist.ctp:204 Template/Payment/addexpense.ctp:33
+#: Template/Payment/addincome.ctp:111 Template/Payment/addpayment.ctp:108
+#: Template/Payment/addpayment.ctp:111 Template/Payment/addpayment.ctp:123
+#: Template/Payment/expenselist.ctp:155 Template/Payment/incomelist.ctp:156
+#: Template/Payment/paymentlist.ctp:185
+msgid "Add Payment"
+msgstr "Добавить Оплата"
+
+#: Template/Comman/addexpense.ctp:42 Template/Comman/addincome.ctp:120
+#: Template/Comman/addpayment.ctp:136 Template/Comman/expenselist.ctp:89
+#: Template/Comman/incomelist.ctp:82 Template/Comman/paymentlist.ctp:115
+#: Template/Payment/addexpense.ctp:35 Template/Payment/addincome.ctp:113
+#: Template/Payment/addpayment.ctp:125 Template/Payment/expenselist.ctp:157
+#: Template/Payment/incomelist.ctp:158 Template/Payment/paymentlist.ctp:187
+msgid "Income List"
+msgstr "Список доходов"
+
+#: Template/Comman/addexpense.ctp:45 Template/Comman/addincome.ctp:123
+#: Template/Comman/addpayment.ctp:139 Template/Comman/expenselist.ctp:92
+#: Template/Comman/incomelist.ctp:85 Template/Comman/paymentlist.ctp:118
+#: Template/Payment/addexpense.ctp:37 Template/Payment/addincome.ctp:101
+#: Template/Payment/addincome.ctp:115 Template/Payment/addpayment.ctp:127
+#: Template/Payment/expenselist.ctp:159 Template/Payment/incomelist.ctp:160
+#: Template/Payment/paymentlist.ctp:189
+msgid "Add Income"
+msgstr "Добавить доход"
+
+#: Template/Comman/addexpense.ctp:48 Template/Comman/addincome.ctp:126
+#: Template/Comman/expenselist.ctp:95 Template/Comman/incomelist.ctp:88
+#: Template/Comman/paymentlist.ctp:121 Template/Payment/addexpense.ctp:39
+#: Template/Payment/addincome.ctp:117 Template/Payment/addpayment.ctp:129
+#: Template/Payment/expenselist.ctp:161 Template/Payment/incomelist.ctp:162
+#: Template/Payment/paymentlist.ctp:191
+msgid "Expense List"
+msgstr "Список расходов"
+
+#: Template/Comman/addexpense.ctp:51 Template/Comman/addincome.ctp:129
+#: Template/Comman/expenselist.ctp:98 Template/Comman/incomelist.ctp:91
+#: Template/Comman/paymentlist.ctp:124 Template/Payment/addexpense.ctp:22
+#: Template/Payment/addincome.ctp:119 Template/Payment/addpayment.ctp:131
+#: Template/Payment/expenselist.ctp:163 Template/Payment/incomelist.ctp:164
+#: Template/Payment/paymentlist.ctp:193
+msgid "Add Expense"
+msgstr "Добавить Expense"
+
+#: Template/Comman/addexpense.ctp:64 Template/Payment/addexpense.ctp:51
+msgid "Supplier : "
+msgstr "Поставщик: "
+
+#: Template/Comman/addexpense.ctp:72 Template/Comman/addincome.ctp:219
+#: Template/Comman/addpayment.ctp:248 Template/Payment/addexpense.ctp:59
+#: Template/Payment/addincome.ctp:206
+msgid "Status : "
+msgstr "Статус: "
+
+#: Template/Comman/addexpense.ctp:78 Template/Comman/addincome.ctp:225
+#: Template/Comman/addpayment.ctp:254 Template/Report/feepayment.ctp:151
+msgid "---Select Status---"
+msgstr "Выберите Статус --- ---"
+
+#: Template/Comman/addexpense.ctp:79 Template/Comman/addincome.ctp:226
+#: Template/Comman/addpayment.ctp:255 Template/Payment/addexpense.ctp:66
+#: Template/Payment/addincome.ctp:213 Template/Payment/addpayment.ctp:241
+msgid "Paid"
+msgstr "оплаченный"
+
+#: Template/Comman/addexpense.ctp:80 Template/Comman/addincome.ctp:227
+#: Template/Comman/addpayment.ctp:256 Template/Payment/addexpense.ctp:67
+#: Template/Payment/addincome.ctp:214 Template/Payment/addpayment.ctp:242
+msgid "Part Paid"
+msgstr "доля платных"
+
+#: Template/Comman/addexpense.ctp:81 Template/Comman/addincome.ctp:228
+#: Template/Comman/addpayment.ctp:257 Template/Payment/addexpense.ctp:68
+#: Template/Payment/addincome.ctp:215 Template/Payment/addpayment.ctp:243
+msgid "Unpaid"
+msgstr "неоплаченный"
+
+#: Template/Comman/addexpense.ctp:91 Template/Comman/addincome.ctp:238
+#: Template/Payment/addexpense.ctp:78 Template/Payment/addincome.ctp:225
+msgid "Date : "
+msgstr "Дата: 2013.12.11 11:30:02 +01'00' "
+
+#: Template/Comman/addexpense.ctp:116 Template/Comman/addexpense.ctp:140
+#: Template/Comman/addincome.ctp:266 Template/Comman/addincome.ctp:292
+#: Template/Payment/addexpense.ctp:102 Template/Payment/addexpense.ctp:126
+#: Template/Payment/addincome.ctp:253 Template/Payment/addincome.ctp:280
+msgid "Income Entry"
+msgstr "Доход Вход"
+
+#: Template/Comman/addexpense.ctp:161 Template/Comman/addincome.ctp:315
+#: Template/Payment/addexpense.ctp:147 Template/Payment/addincome.ctp:303
+msgid "Add More Field"
+msgstr "Добавить еще Поле"
+
+#: Template/Comman/addexpense.ctp:174 Template/Payment/addexpense.ctp:160
+msgid "Create Expense Entry"
+msgstr "Создать Расходу запись"
+
+#: Template/Comman/addexport.ctp:12 Template/Comman/addimport.ctp:11
+#: Template/Comman/exportlist.ctp:84 Template/Comman/importlist.ctp:84
+#: Template/Export/addexport.ctp:12 Template/Export/addimport.ctp:11
+#: Template/Export/exportlist.ctp:84 Template/Export/importlist.ctp:84
+msgid "Import List"
+msgstr "Импорт списка"
+
+#: Template/Comman/addexport.ctp:15 Template/Comman/addimport.ctp:18
+#: Template/Comman/exportlist.ctp:87 Template/Comman/importlist.ctp:87
+#: Template/Export/addexport.ctp:15 Template/Export/addimport.ctp:18
+#: Template/Export/exportlist.ctp:87 Template/Export/importlist.ctp:87
+msgid "New Import"
+msgstr "Новый импорт"
+
+#: Template/Comman/addexport.ctp:18 Template/Comman/addimport.ctp:22
+#: Template/Comman/exportlist.ctp:90 Template/Comman/importlist.ctp:90
+#: Template/Export/addexport.ctp:18 Template/Export/addimport.ctp:22
+#: Template/Export/exportlist.ctp:90 Template/Export/importlist.ctp:90
+msgid "Export List"
+msgstr "Экспорт списка"
+
+#: Template/Comman/addexport.ctp:23 Template/Export/addexport.ctp:23
+#: Template/Export/addexport.ctp:67
+msgid "Edit Export"
+msgstr "Изменение экспорта"
+
+#: Template/Comman/addexport.ctp:25 Template/Comman/addexport.ctp:69
+#: Template/Comman/addimport.ctp:26 Template/Comman/exportlist.ctp:93
+#: Template/Comman/importlist.ctp:93 Template/Export/addexport.ctp:25
+#: Template/Export/addexport.ctp:69 Template/Export/addimport.ctp:26
+#: Template/Export/exportlist.ctp:93 Template/Export/importlist.ctp:93
+msgid "New Export"
+msgstr "Новый экспорт"
+
+#: Template/Comman/addexport.ctp:34 Template/Export/addexport.ctp:34
+msgid "Export Title "
+msgstr "Экспорт Название "
+
+#: Template/Comman/addexport.ctp:36 Template/Export/addexport.ctp:36
+msgid "Enter Export Title "
+msgstr "Введите Экспорт Название "
+
+#: Template/Comman/addexport.ctp:41 Template/Export/addexport.ctp:41
+msgid "Export Model "
+msgstr "экспортная модель "
+
+#: Template/Comman/addexport.ctp:67
+msgid "Update Export"
+msgstr "Экспорт обновлений"
+
+#: Template/Comman/addhostel.ctp:51 Template/Hostel/addhostel.ctp:51
+msgid "Hostel Name "
+msgstr "Hostel Имя "
+
+#: Template/Comman/addhostel.ctp:53 Template/Hostel/addhostel.ctp:53
+msgid "Enter Hostel Name "
+msgstr "Введите имя Hostel "
+
+#: Template/Comman/addhostel.ctp:58 Template/Hostel/addhostel.ctp:58
+msgid "Hostel Type "
+msgstr "Хостел Тип "
+
+#: Template/Comman/addhostel.ctp:61 Template/Hostel/addhostel.ctp:61
+msgid "Enter Hostel Type "
+msgstr "Введите Хостел Тип "
+
+#: Template/Comman/addimport.ctp:16 Template/Comman/importedit.ctp:4
+#: Template/Comman/importedit.ctp:25 Template/Export/addimport.ctp:16
+#: Template/Export/importedit.ctp:4 Template/Export/importedit.ctp:25
+msgid "Update Import"
+msgstr "Импорт обновлений"
+
+#: Template/Comman/addimport.ctp:35 Template/Export/addimport.ctp:35
+msgid "Import Title "
+msgstr "Импорт Название "
+
+#: Template/Comman/addimport.ctp:37 Template/Export/addimport.ctp:37
+msgid "Enter Import Title "
+msgstr "Введите Импорт Заголовок "
+
+#: Template/Comman/addimport.ctp:42 Template/Export/addimport.ctp:42
+msgid "Student CSV File :"
+msgstr "Студент CSV-файл:"
+
+#: Template/Comman/addimport.ctp:49 Template/Export/addimport.ctp:49
+msgid "Teacher CSV File :"
+msgstr "Учитель CSV файл:"
+
+#: Template/Comman/addimport.ctp:56 Template/Export/addimport.ctp:56
+msgid "Parent CSV File :"
+msgstr "Родитель CSV файл:"
+
+#: Template/Comman/addimport.ctp:63 Template/Export/addimport.ctp:63
+msgid "Support Staff CSV File :"
+msgstr "Персонал CSV-файл:"
+
+#: Template/Comman/addimport.ctp:72 Template/Export/addimport.ctp:72
+msgid "Import Data"
+msgstr "Импорт данных"
+
+#: Template/Comman/addimport.ctp:76 Template/Export/addimport.ctp:76
+msgid "Sample Download"
+msgstr "Скачать образец"
+
+#: Template/Comman/addincome.ctp:166 Template/Comman/addpayment.ctp:183
+#: Template/Payment/addincome.ctp:153 Template/Payment/addpayment.ctp:166
+msgid "Section "
+msgstr "раздел "
+
+#: Template/Comman/addincome.ctp:185 Template/Comman/addpayment.ctp:201
+#: Template/Payment/addincome.ctp:172
+msgid "Student : "
+msgstr "Студент: "
+
+#: Template/Comman/addincome.ctp:330 Template/Payment/addincome.ctp:318
+msgid "Create Income Entery"
+msgstr "Создать доход"
+
+#: Template/Comman/addmarks.ctp:82 Template/Comman/addmarks.ctp:176
+#: Template/Comman/addmultiplemark.ctp:38 Template/Comman/exploremark.ctp:38
+#: Template/Marks/addmarks.ctp:81 Template/Marks/addmarks.ctp:176
+#: Template/Marks/addmultiplemark.ctp:39 Template/Marks/exploremark.ctp:38
+msgid "Manage Marks"
+msgstr "Управление Marks"
+
+#: Template/Comman/addmarks.ctp:85 Template/Comman/addmultiplemark.ctp:41
+#: Template/Comman/exploremark.ctp:41 Template/Comman/exploremark.ctp:101
+#: Template/Marks/addmarks.ctp:84 Template/Marks/addmultiplemark.ctp:42
+#: Template/Marks/exploremark.ctp:41 Template/Marks/exploremark.ctp:111
+msgid "Export Marks"
+msgstr "Экспорт Marks"
+
+#: Template/Comman/addmarks.ctp:88 Template/Comman/addmultiplemark.ctp:44
+#: Template/Comman/exploremark.ctp:44 Template/Marks/addmarks.ctp:87
+#: Template/Marks/addmultiplemark.ctp:45 Template/Marks/exploremark.ctp:44
+msgid "Add Multiple Subject Marks"
+msgstr "Добавить несколько меток Subject"
+
+#: Template/Comman/addmarks.ctp:104 Template/Comman/addmarks.ctp:107
+#: Template/Comman/addmultiplemark.ctp:61
+#: Template/Comman/addmultiplemark.ctp:64 Template/Comman/exploremark.ctp:61
+#: Template/Comman/exploremark.ctp:64 Template/Marks/addmarks.ctp:98
+#: Template/Marks/addmarks.ctp:104 Template/Marks/addmarks.ctp:107
+#: Template/Marks/addmultiplemark.ctp:56 Template/Marks/addmultiplemark.ctp:62
+#: Template/Marks/addmultiplemark.ctp:65 Template/Marks/exploremark.ctp:55
+#: Template/Marks/exploremark.ctp:70 Template/Migration/migration.ctp:57
+#: Template/Migration/migration.ctp:72 Template/Report/failed.ctp:95
+#: Template/Report/result.ctp:91
+msgid "Select Exam"
+msgstr "Выберите экзамен"
+
+#: Template/Comman/addmarks.ctp:203 Template/Marks/addmarks.ctp:208
+#: Template/Marks/addmarks.ctp:283
+msgid "Mark Obtained (Out of 100)"
+msgstr "Марк Добывается (из 100)"
+
+#: Template/Comman/addmultiplemark.ctp:105
+#: Template/Comman/studentattendance.ctp:57
+#: Template/Comman/studentsubjectattendance.ctp:107
+#: Template/Marks/addmultiplemark.ctp:106
+#: Template/Student/studentattendance.ctp:65
+#: Template/Student/studentsubjectattendance.ctp:107
+#: Template/Teacher/teacherattendance.ctp:45
+msgid "Go"
+msgstr "идти"
+
+#: Template/Comman/addmultiplemark.ctp:166
+#: Template/Marks/addmultiplemark.ctp:167
+msgid "Mark"
+msgstr "знак"
+
+#: Template/Comman/addpayment.ctp:99 Template/Comman/addpayment.ctp:102
+#: Template/Payment/addpayment.ctp:99 Template/Payment/addpayment.ctp:102
+msgid "Edit Payment"
+msgstr "Изменение оплаты"
+
+#: Template/Comman/addpayment.ctp:156
+msgid "Title : "
+msgstr "название: "
+
+#: Template/Comman/addpayment.ctp:240 Template/Feepayment/invoice.ctp:286
+msgid "Amount : "
+msgstr "кол-во: "
+
+#: Template/Comman/addpayment.ctp:267 Template/Feepayment/invoice.ctp:319
+#: Template/Holiday/updateholiday.ctp:41
+msgid "Description : "
+msgstr "Описание "
+
+#: Template/Comman/addroom.ctp:96 Template/Hostel/addroom.ctp:96
+msgid "Hostel Room Category"
+msgstr "Hostel Категория номера"
+
+#: Template/Comman/addroom.ctp:101 Template/Hostel/addroom.ctp:101
+msgid "Category Name"
+msgstr "Имя Категория"
+
+#: Template/Comman/addroom.ctp:112 Template/Feepayment/addfeetype.ctp:174
+#: Template/Hostel/addroom.ctp:112 Template/Library/addbook.ctp:115
+#: Template/Library/addbook.ctp:184 Template/Library/issuebook.ctp:196
+msgid "X"
+msgstr "X"
+
+#: Template/Comman/addroom.ctp:127 Template/Comman/roomlist.ctp:113
+#: Template/Comman/roomlist.ctp:125 Template/Hostel/addroom.ctp:127
+#: Template/Hostel/roomlist.ctp:134 Template/Hostel/roomlist.ctp:146
+msgid "Room Category"
+msgstr "Категория номера"
+
+#: Template/Comman/addroom.ctp:133 Template/Hostel/addroom.ctp:133
+msgid "Save Category"
+msgstr "Сохранить Категория"
+
+#: Template/Comman/addroom.ctp:152 Template/Hostel/addroom.ctp:152
+msgid "Enter Room Unique ID "
+msgstr "Введите номер Уникальный идентификатор "
+
+#: Template/Comman/addroom.ctp:157 Template/Hostel/addroom.ctp:157
+msgid "Select Hostel "
+msgstr "Выберите Хостел "
+
+#: Template/Comman/addroom.ctp:160 Template/Hostel/addroom.ctp:160
+msgid "Select Hostel"
+msgstr "Выберите Хостел"
+
+#: Template/Comman/addroom.ctp:166 Template/Hostel/addroom.ctp:166
+msgid "Room Category "
+msgstr "Категория номера "
+
+#: Template/Comman/addroom.ctp:169 Template/Hostel/addroom.ctp:169
+msgid "Select Category Name"
+msgstr "Выберите категорию Имя"
+
+#: Template/Comman/addroom.ctp:183 Template/Hostel/addroom.ctp:183
+msgid "Add or Remove"
+msgstr "Добавление или удаление"
+
+#: Template/Comman/addroom.ctp:188 Template/Hostel/addroom.ctp:188
+msgid "Beds capacity "
+msgstr "вместимость кроватей "
+
+#: Template/Comman/addroom.ctp:190 Template/Hostel/addroom.ctp:190
+msgid "Enter Beds capacity "
+msgstr "Введите емкость кровати "
+
+#: Template/Comman/addstudent.ctp:42 Template/Comman/studentlist.ctp:89
+#: Template/Comman/studentlist.ctp:95 Template/Comman/updatestudent.ctp:4
+#: Template/Student/addstudent.ctp:50 Template/Student/exportcsv.ctp:7
+#: Template/Student/studentlist.ctp:168 Template/Student/updatestudent.ctp:49
+#: Template/Student/uploadcsv.ctp:7
+msgid "Student List"
+msgstr "Список Student"
+
+#: Template/Comman/addstudent.ctp:45 Template/Comman/studentlist.ctp:98
+#: Template/Student/addstudent.ctp:53 Template/Student/studentlist.ctp:171
+msgid "Add New Student"
+msgstr "Добавить Студент"
+
+#: Template/Comman/addstudent.ctp:72 Template/Comman/updatestudent.ctp:36
+#: Template/Student/addstudent.ctp:91
+msgid "Enter Roll Number "
+msgstr "Введите рулонной Номер "
+
+#: Template/Comman/addstudent.ctp:78 Template/Comman/updatestudent.ctp:42
+#: Template/Parent/addparent.ctp:38 Template/Parent/addparent.ctp:40
+#: Template/Parent/updateparent.ctp:42 Template/Staff/addstaff.ctp:31
+#: Template/Staff/addstaff.ctp:33 Template/Staff/updatestaff.ctp:30
+#: Template/Student/addstudent.ctp:96 Template/Student/updatestudent.ctp:95
+#: Template/Teacher/addteacher.ctp:36 Template/Teacher/updateteacher.ctp:36
+#: Template/Teacher/updateteacher.ctp:38
+msgid "Enter First Name "
+msgstr "Введите Имя "
+
+#: Template/Comman/addstudent.ctp:84 Template/Comman/updatestudent.ctp:48
+#: Template/Parent/addparent.ctp:43 Template/Parent/addparent.ctp:45
+#: Template/Parent/updateparent.ctp:47 Template/Staff/addstaff.ctp:36
+#: Template/Staff/addstaff.ctp:38 Template/Staff/updatestaff.ctp:35
+#: Template/Student/addstudent.ctp:104 Template/Student/updatestudent.ctp:103
+#: Template/Teacher/addteacher.ctp:41 Template/Teacher/updateteacher.ctp:41
+#: Template/Teacher/updateteacher.ctp:43
+msgid "Enter Middle Name "
+msgstr "Введите ОТЧЕСТВО "
+
+#: Template/Comman/addstudent.ctp:90 Template/Comman/updatestudent.ctp:54
+#: Template/Parent/addparent.ctp:49 Template/Parent/addparent.ctp:51
+#: Template/Parent/updateparent.ctp:53 Template/Staff/addstaff.ctp:42
+#: Template/Staff/addstaff.ctp:44 Template/Staff/updatestaff.ctp:41
+#: Template/Student/addstudent.ctp:109 Template/Student/updatestudent.ctp:108
+#: Template/Teacher/addteacher.ctp:47 Template/Teacher/updateteacher.ctp:47
+#: Template/Teacher/updateteacher.ctp:49
+msgid "Enter Last Name "
+msgstr "Введите Фамилию "
+
+#: Template/Comman/addstudent.ctp:115 Template/Comman/updatestudent.ctp:80
+#: Template/Parent/addparent.ctp:99 Template/Parent/updateparent.ctp:115
+#: Template/Staff/addstaff.ctp:68 Template/Staff/updatestaff.ctp:68
+#: Template/Student/addstudent.ctp:137 Template/Teacher/updateteacher.ctp:86
+msgid "Enter Address "
+msgstr "введите адрес "
+
+#: Template/Comman/addstudent.ctp:121 Template/Parent/addparent.ctp:104
+#: Template/Staff/addstaff.ctp:73
+msgid "Enter State "
+msgstr "введите государство "
+
+#: Template/Comman/addstudent.ctp:127 Template/Parent/addparent.ctp:110
+#: Template/Staff/addstaff.ctp:79 Template/Student/addstudent.ctp:148
+msgid "Enter City "
+msgstr "введите город "
+
+#: Template/Comman/addstudent.ctp:133 Template/Comman/updatestudent.ctp:98
+#: Template/Parent/addparent.ctp:115 Template/Parent/addparent.ctp:117
+#: Template/Parent/updateparent.ctp:131 Template/Staff/addstaff.ctp:84
+#: Template/Staff/addstaff.ctp:86 Template/Staff/updatestaff.ctp:84
+#: Template/Student/addstudent.ctp:151 Template/Student/updatestudent.ctp:150
+#: Template/Student/updatestudent.ctp:152 Template/Teacher/addteacher.ctp:93
+#: Template/Teacher/addteacher.ctp:95 Template/Teacher/updateteacher.ctp:102
+#: Template/Teacher/updateteacher.ctp:104
+msgid "Enter PinCode "
+msgstr "введите пин-код "
+
+#: Template/Comman/addstudent.ctp:148 Template/Comman/updatestudent.ctp:113
+#: Template/Staff/addstaff.ctp:99 Template/Staff/updatestaff.ctp:99
+#: Template/Student/addstudent.ctp:166 Template/Student/registration.ctp:193
+#: Template/Student/updatestudent.ctp:165 Template/Teacher/addteacher.ctp:108
+#: Template/Teacher/updateteacher.ctp:117
+msgid "Alternate Mobile Number "
+msgstr "Альтернативный номер мобильного "
+
+#: Template/Comman/addstudent.ctp:163 Template/Comman/updatestudent.ctp:128
+msgid "Valid Email "
+msgstr "Действительно Email "
+
+#: Template/Comman/addstudent.ctp:169 Template/Comman/updatestudent.ctp:134
+msgid "Valid Username "
+msgstr "Действительный Имя пользователя "
+
+#: Template/Comman/addstudent.ctp:175 Template/Parent/addparent.ctp:150
+#: Template/Staff/addstaff.ctp:128 Template/Student/addstudent.ctp:195
+#: Template/Teacher/addteacher.ctp:137
+msgid "Enter Password "
+msgstr "введите пароль "
+
+#: Template/Comman/addstudent.ctp:182 Template/Comman/updatestudent.ctp:140
+#: Template/Parent/addparent.ctp:155 Template/Parent/updateparent.ctp:165
+#: Template/Staff/addstaff.ctp:144 Template/Staff/updatestaff.ctp:138
+#: Template/Student/addstudent.ctp:200 Template/Student/addstudent.ctp:202
+#: Template/Student/registration.ctp:227 Template/Student/updatestudent.ctp:193
+#: Template/Teacher/addteacher.ctp:153 Template/Teacher/addteacher.ctp:155
+#: Template/Teacher/updateteacher.ctp:156
+#: Template/Transport/addtransport.ctp:72
+#: Template/Transport/updatetransport.ctp:71
+msgid "Select Image "
+msgstr "Выберите изображение "
+
+#: Template/Comman/addstudent.ctp:188 Template/Comman/updatestudent.ctp:158
+#: Template/Student/addstudent.ctp:205 Template/Student/registration.ctp:232
+#: Template/Student/updatestudent.ctp:210
+msgid "Approved "
+msgstr "утвержденный "
+
+#: Template/Comman/addstudent.ctp:196 Template/Student/addstudent.ctp:212
+#: Template/Student/exportcsv.ctp:4 Template/Student/uploadcsv.ctp:4
+msgid "Add Student"
+msgstr "Добавить Студент"
+
+#: Template/Comman/addsubject.ctp:41 Template/Comman/subjectlist.ctp:12
+#: Template/Comman/subjectlist.ctp:17 Template/Subject/addsubject.ctp:42
+#: Template/Subject/subjectlist.ctp:87 Template/Subject/updatesubject.ctp:41
+msgid "Subject List"
+msgstr "Тема Список"
+
+#: Template/Comman/addsubject.ctp:44 Template/Comman/subjectlist.ctp:21
+#: Template/Subject/addsubject.ctp:45 Template/Subject/addsubject.ctp:109
+#: Template/Subject/subjectlist.ctp:90
+msgid "Add Subject"
+msgstr "Добавить тему"
+
+#: Template/Comman/assignroom.ctp:59 Template/Hostel/assignroom.ctp:66
+#: Template/Hostel/assignroom.ctp:197
+msgid "Assign Room"
+msgstr "Присвоить номер"
+
+#: Template/Comman/assignroom.ctp:107 Template/Comman/bedslist.ctp:111
+#: Template/Comman/bedslist.ctp:121 Template/Hostel/assignroom.ctp:121
+#: Template/Hostel/bedslist.ctp:132 Template/Hostel/bedslist.ctp:142
+msgid "Bed Unique ID"
+msgstr "Кровать Уникальный ID"
+
+#: Template/Comman/bedslist.ctp:112 Template/Comman/bedslist.ctp:122
+#: Template/Comman/roomlist.ctp:111 Template/Comman/roomlist.ctp:123
+#: Template/Hostel/bedslist.ctp:133 Template/Hostel/bedslist.ctp:143
+#: Template/Hostel/roomlist.ctp:132 Template/Hostel/roomlist.ctp:144
+msgid "Room Unique ID"
+msgstr "Номер Уникальный ID"
+
+#: Template/Comman/bedslist.ctp:113 Template/Comman/bedslist.ctp:123
+#: Template/Comman/roomlist.ctp:115 Template/Comman/roomlist.ctp:127
+#: Template/Hostel/bedslist.ctp:134 Template/Hostel/bedslist.ctp:144
+#: Template/Hostel/roomlist.ctp:136 Template/Hostel/roomlist.ctp:148
+msgid "Availability"
+msgstr "доступность"
+
+#: Template/Comman/bedslist.ctp:114 Template/Comman/bedslist.ctp:124
+#: Template/Comman/booklist.ctp:40 Template/Comman/booklist.ctp:50
+#: Template/Comman/eventlist.ctp:104 Template/Comman/eventlist.ctp:114
+#: Template/Comman/feelist.ctp:201 Template/Comman/feelist.ctp:215
+#: Template/Comman/holidaylist.ctp:27 Template/Comman/holidaylist.ctp:36
+#: Template/Comman/hostellist.ctp:110 Template/Comman/hostellist.ctp:119
+#: Template/Comman/newslist.ctp:104 Template/Comman/newslist.ctp:115
+#: Template/Comman/roomlist.ctp:116 Template/Comman/roomlist.ctp:128
+#: Template/Event/eventlist.ctp:111 Template/Event/eventlist.ctp:121
+#: Template/Feepayment/feelist.ctp:299 Template/Feepayment/feelist.ctp:314
+#: Template/Feepayment/feetypelist.ctp:141
+#: Template/Feepayment/feetypelist.ctp:151 Template/Hall/halllist.ctp:118
+#: Template/Hall/halllist.ctp:127 Template/Holiday/holidaylist.ctp:117
+#: Template/Holiday/holidaylist.ctp:127 Template/Hostel/bedslist.ctp:135
+#: Template/Hostel/bedslist.ctp:145 Template/Hostel/hostellist.ctp:134
+#: Template/Hostel/hostellist.ctp:143 Template/Hostel/roomlist.ctp:137
+#: Template/Hostel/roomlist.ctp:149 Template/Library/booklist.ctp:148
+#: Template/Library/booklist.ctp:159 Template/Message/inbox.ctp:59
+#: Template/Message/sentbox.ctp:62 Template/News/newslist.ctp:108
+#: Template/News/newslist.ctp:119 Template/Report/feepayment.ctp:220
+#: Template/Report/feepayment.ctp:234
+msgid "Description"
+msgstr "Описание"
+
+#: Template/Comman/bedslist.ctp:136 Template/Comman/bedslist.ctp:147
+#: Template/Comman/roomlist.ctp:155 Template/Hostel/bedslist.ctp:157
+#: Template/Hostel/bedslist.ctp:168 Template/Hostel/roomlist.ctp:176
+msgid "Available"
+msgstr "доступный"
+
+#: Template/Comman/bedslist.ctp:139 Template/Comman/roomlist.ctp:150
+#: Template/Hostel/bedslist.ctp:160 Template/Hostel/roomlist.ctp:171
+msgid "Occupied"
+msgstr "занятый"
+
+#: Template/Comman/bedslist.ctp:172 Template/Hostel/bedslist.ctp:200
+msgid "Not Available Any Bed"
+msgstr "Не доступно Любая кровать"
+
+#: Template/Comman/booklist.ctp:11 Template/Comman/memberlist.ctp:120
+#: Template/Library/addbook.ctp:228 Template/Library/booklist.ctp:86
+#: Template/Library/issuebook.ctp:241 Template/Library/issuelist.ctp:86
+#: Template/Library/memberlist.ctp:120
+msgid "Member List"
+msgstr "Список пользователей"
+
+#: Template/Comman/booklist.ctp:20 Template/Comman/memberlist.ctp:129
+#: Template/Library/addbook.ctp:237 Template/Library/booklist.ctp:95
+#: Template/Library/issuebook.ctp:250 Template/Library/issuelist.ctp:95
+#: Template/Library/memberlist.ctp:129
+msgid "Book List"
+msgstr "список книг"
+
+#: Template/Comman/booklist.ctp:36 Template/Comman/booklist.ctp:46
+#: Template/Library/booklist.ctp:144 Template/Library/booklist.ctp:155
+msgid "ISBN"
+msgstr "ISBN"
+
+#: Template/Comman/booklist.ctp:37 Template/Comman/booklist.ctp:47
+#: Template/Library/booklist.ctp:145 Template/Library/booklist.ctp:156
+#: Template/Library/issuelist.ctp:146 Template/Library/issuelist.ctp:157
+#: Template/Library/returnbook.ctp:25
+msgid "Book Name"
+msgstr "Название книги"
+
+#: Template/Comman/booklist.ctp:38 Template/Comman/booklist.ctp:48
+#: Template/Library/booklist.ctp:146 Template/Library/booklist.ctp:157
+#: Template/Subject/subjectlist.ctp:111 Template/Subject/subjectlist.ctp:122
+msgid "Author Name"
+msgstr "Автор Имя"
+
+#: Template/Comman/booklist.ctp:39 Template/Comman/booklist.ctp:49
+#: Template/Library/addbook.ctp:165 Template/Library/addbook.ctp:173
+#: Template/Library/booklist.ctp:147 Template/Library/booklist.ctp:158
+msgid "Rack Location"
+msgstr "Аренда стойки"
+
+#: Template/Comman/childlist.ctp:83
+msgid "Child List"
+msgstr "Список по уходу за детьми"
+
+#: Template/Comman/childlist.ctp:95 Template/Comman/childlist.ctp:105
+msgid "Child Name"
+msgstr "Ребенок Имя"
+
+#: Template/Comman/childlist.ctp:98 Template/Comman/childlist.ctp:108
+msgid "Child Email"
+msgstr "Ребенок Email"
+
+#: Template/Comman/childlist.ctp:107 Template/Comman/studentlist.ctp:152
+#: Template/Comman/studentlist.ctp:174 Template/Student/studentlist.ctp:214
+msgid "Roll Number"
+msgstr "рулон Количество"
+
+#: Template/Comman/childlist.ctp:130 Template/Comman/studentlist.ctp:198
+#: Template/Comman/studentlist.ctp:226 Template/Comman/studentlist.ctp:252
+#: Template/Comman/studentlist.ctp:279 Template/Comman/studentlist.ctp:303
+#: Template/Student/studentlist.ctp:254
+msgid "View Result"
+msgstr "Посмотреть результат"
+
+#: Template/Comman/childlist.ctp:131 Template/Comman/studentlist.ctp:199
+#: Template/Comman/studentlist.ctp:227 Template/Comman/studentlist.ctp:253
+#: Template/Comman/studentlist.ctp:280 Template/Comman/studentlist.ctp:304
+#: Template/Student/studentlist.ctp:256
+msgid "View Parent"
+msgstr "Показать родительский"
+
+#: Template/Comman/childlist.ctp:132 Template/Comman/studentlist.ctp:200
+#: Template/Comman/studentlist.ctp:228 Template/Comman/studentlist.ctp:254
+#: Template/Comman/studentlist.ctp:281 Template/Comman/studentlist.ctp:305
+#: Template/Comman/teacherlist.ctp:89 Template/Student/studentlist.ctp:258
+#: Template/Teacher/teacherlist.ctp:141
+msgid " View Attendance"
+msgstr " Просмотр посещаемости"
+
+#: Template/Comman/childlist.ctp:201 Template/Comman/studentlist.ctp:395
+#: Template/Student/studentlist.ctp:318
+msgid "Parent of Student"
+msgstr "Родитель Студент"
+
+#: Template/Comman/classroutelist.ctp:26
+msgid "Class Time Table"
+msgstr "Таблица Класс Время"
+
+#: Template/Comman/eventlist.ctp:105 Template/Comman/eventlist.ctp:115
+#: Template/Comman/holidaylist.ctp:28 Template/Comman/holidaylist.ctp:37
+#: Template/Comman/newslist.ctp:105 Template/Comman/newslist.ctp:116
+#: Template/Comman/studentattendance.ctp:26
+#: Template/Comman/studentsubjectattendance.ctp:56
+#: Template/Event/eventlist.ctp:112 Template/Event/eventlist.ctp:122
+#: Template/Holiday/holidaylist.ctp:118 Template/Holiday/holidaylist.ctp:128
+#: Template/News/newslist.ctp:109 Template/News/newslist.ctp:120
+#: Template/Report/attendance.ctp:74 Template/Student/studentattendance.ctp:34
+#: Template/Student/studentsubjectattendance.ctp:56
+#: Template/Teacher/teacherattendance.ctp:14
+msgid "Start Date"
+msgstr "Дата начала"
+
+#: Template/Comman/eventlist.ctp:106 Template/Comman/eventlist.ctp:116
+#: Template/Comman/holidaylist.ctp:29 Template/Comman/holidaylist.ctp:38
+#: Template/Comman/newslist.ctp:106 Template/Comman/newslist.ctp:117
+#: Template/Comman/studentattendance.ctp:41
+#: Template/Comman/studentsubjectattendance.ctp:71
+#: Template/Event/eventlist.ctp:113 Template/Event/eventlist.ctp:123
+#: Template/Holiday/holidaylist.ctp:119 Template/Holiday/holidaylist.ctp:129
+#: Template/News/newslist.ctp:110 Template/News/newslist.ctp:121
+#: Template/Report/attendance.ctp:82 Template/Student/studentattendance.ctp:49
+#: Template/Student/studentsubjectattendance.ctp:71
+#: Template/Teacher/teacherattendance.ctp:29
+msgid "End Date"
+msgstr "Дата окончания"
+
+#: Template/Comman/eventlist.ctp:146 Template/Event/eventlist.ctp:161
+msgid "Not Available Any Event"
+msgstr "Не доступно Любое событие"
+
+#: Template/Comman/examlist.ctp:10 Template/Exam/addexam.ctp:14
+#: Template/Exam/examlist.ctp:88
+msgid "Exam List"
+msgstr "Список экзамен"
+
+#: Template/Comman/examlist.ctp:26 Template/Comman/examlist.ctp:34
+#: Template/Exam/examlist.ctp:118 Template/Exam/examlist.ctp:126
+msgid "Exam Title"
+msgstr "экзамен Название"
+
+#: Template/Comman/examlist.ctp:27 Template/Comman/examlist.ctp:35
+#: Template/Exam/examlist.ctp:119 Template/Exam/examlist.ctp:127
+msgid "Exam Date"
+msgstr "экзамен Дата"
+
+#: Template/Comman/examlist.ctp:28 Template/Comman/examlist.ctp:36
+#: Template/Exam/examlist.ctp:120 Template/Exam/examlist.ctp:128
+msgid "Exam Comment"
+msgstr "Как экзамен"
+
+#: Template/Comman/expenselist.ctp:110 Template/Comman/expenselist.ctp:118
+#: Template/Payment/expenselist.ctp:179 Template/Payment/expenselist.ctp:187
+msgid "Supplier"
+msgstr "молить"
+
+#: Template/Comman/expenselist.ctp:111 Template/Comman/expenselist.ctp:119
+#: Template/Comman/feelist.ctp:199 Template/Comman/feelist.ctp:213
+#: Template/Comman/incomelist.ctp:104 Template/Comman/incomelist.ctp:113
+#: Template/Comman/paymentlist.ctp:139 Template/Comman/paymentlist.ctp:155
+#: Template/Feepayment/feelist.ctp:297 Template/Feepayment/feelist.ctp:312
+#: Template/Feepayment/feetypelist.ctp:140
+#: Template/Feepayment/feetypelist.ctp:150
+#: Template/Feepayment/paymentview.ctp:91 Template/Payment/expenselist.ctp:180
+#: Template/Payment/expenselist.ctp:188 Template/Payment/incomelist.ctp:183
+#: Template/Payment/incomelist.ctp:193 Template/Payment/paymentlist.ctp:212
+#: Template/Payment/paymentlist.ctp:224 Template/Report/feepayment.ctp:218
+#: Template/Report/feepayment.ctp:232
+msgid "Amount"
+msgstr "сумма"
+
+#: Template/Comman/expenselist.ctp:159 Template/Comman/incomelist.ctp:161
+#: Template/Comman/paymentlist.ctp:203
+msgid "View Income"
+msgstr "Доход Посмотреть"
+
+#: Template/Comman/expenselist.ctp:185 Template/Payment/expenselist.ctp:257
+msgid "School Mangement System"
+msgstr "Школа Mangement системы"
+
+#: Template/Comman/exportlist.ctp:113 Template/Comman/exportlist.ctp:122
+#: Template/Export/exportlist.ctp:113 Template/Export/exportlist.ctp:122
+msgid "Export Title"
+msgstr "Экспорт Название"
+
+#: Template/Comman/exportlist.ctp:114 Template/Comman/exportlist.ctp:123
+#: Template/Export/exportlist.ctp:114 Template/Export/exportlist.ctp:123
+msgid "Export Model"
+msgstr "экспортная модель"
+
+#: Template/Comman/exportlist.ctp:144 Template/Export/exportlist.ctp:146
+msgid "Export to Excel"
+msgstr "Экспорт в Excel"
+
+#: Template/Comman/exportlist.ctp:159 Template/Export/exportlist.ctp:163
+msgid "Not Available Any Export"
+msgstr "Не доступно Неважно Экспорт"
+
+#: Template/Comman/feelist.ctp:94 Template/Feepayment/feelist.ctp:173
+msgid "Paid Amount : "
+msgstr "Оплаченная сумма: "
+
+#: Template/Comman/feelist.ctp:103 Template/Feepayment/feelist.ctp:182
+msgid "Payment By : "
+msgstr "Компенсация: "
+
+#: Template/Comman/feelist.ctp:167 Template/Comman/feelist.ctp:173
+#: Template/Comman/feelist.ctp:179 Template/Feepayment/addfeetype.ctp:129
+#: Template/Feepayment/feelist.ctp:261 Template/Feepayment/feetypelist.ctp:105
+#: Template/Feepayment/invoice.ctp:167
+msgid "Fees List"
+msgstr "Список сборы"
+
+#: Template/Comman/feelist.ctp:194 Template/Comman/feelist.ctp:208
+#: Template/Feepayment/addfeetype.ctp:156 Template/Feepayment/feelist.ctp:291
+#: Template/Feepayment/feelist.ctp:306 Template/Feepayment/feetypelist.ctp:137
+#: Template/Feepayment/feetypelist.ctp:147
+#: Template/Feepayment/paymentview.ctp:49 Template/Report/feepayment.ctp:138
+#: Template/Report/feepayment.ctp:213 Template/Report/feepayment.ctp:227
+msgid "Fee Type"
+msgstr "Плата Тип"
+
+#: Template/Comman/feelist.ctp:196 Template/Comman/feelist.ctp:210
+#: Template/Comman/incomelist.ctp:102 Template/Comman/incomelist.ctp:111
+#: Template/Comman/memberlist.ctp:150 Template/Comman/memberlist.ctp:161
+#: Template/Comman/paymentlist.ctp:136 Template/Comman/paymentlist.ctp:152
+#: Template/Feepayment/feelist.ctp:293 Template/Feepayment/feelist.ctp:308
+#: Template/Library/memberlist.ctp:181 Template/Library/memberlist.ctp:192
+#: Template/Payment/incomelist.ctp:181 Template/Payment/incomelist.ctp:191
+#: Template/Payment/paymentlist.ctp:209 Template/Payment/paymentlist.ctp:221
+#: Template/Report/feepayment.ctp:215 Template/Report/feepayment.ctp:229
+msgid "Roll No"
+msgstr "рулет No."
+
+#: Template/Comman/feelist.ctp:198 Template/Comman/feelist.ctp:212
+#: Template/Feepayment/feelist.ctp:296 Template/Feepayment/feelist.ctp:311
+#: Template/Report/feepayment.ctp:149 Template/Report/feepayment.ctp:217
+#: Template/Report/feepayment.ctp:231
+msgid "Payment Status"
+msgstr "Оплата Статус"
+
+#: Template/Comman/feelist.ctp:200 Template/Comman/feelist.ctp:214
+#: Template/Feepayment/feelist.ctp:298 Template/Feepayment/feelist.ctp:313
+#: Template/Report/feepayment.ctp:219 Template/Report/feepayment.ctp:233
+msgid "Due Amount"
+msgstr "Сумма из-за"
+
+#: Template/Comman/feelist.ctp:202 Template/Comman/feelist.ctp:216
+#: Template/Feepayment/feelist.ctp:300 Template/Feepayment/feelist.ctp:315
+#: Template/Report/feepayment.ctp:221 Template/Report/feepayment.ctp:235
+msgid "Year"
+msgstr "год"
+
+#: Template/Comman/feelist.ctp:227 Template/Feepayment/feelist.ctp:326
+#: Template/Feepayment/paymentview.ctp:14 Template/Report/feepayment.ctp:152
+#: Template/Report/feepayment.ctp:246
+msgid "Not Paid"
+msgstr "не Paid"
+
+#: Template/Comman/feelist.ctp:229 Template/Feepayment/feelist.ctp:328
+#: Template/Feepayment/paymentview.ctp:16 Template/Report/feepayment.ctp:153
+#: Template/Report/feepayment.ctp:248
+msgid "Partially Paid"
+msgstr "Частично Paid"
+
+#: Template/Comman/feelist.ctp:231 Template/Feepayment/feelist.ctp:330
+#: Template/Feepayment/paymentview.ctp:18 Template/Report/feepayment.ctp:154
+#: Template/Report/feepayment.ctp:250
+msgid "Full Paid"
+msgstr "Полный Paid"
+
+#: Template/Comman/feelist.ctp:264 Template/Comman/feelist.ctp:303
+#: Template/Comman/feelist.ctp:344 Template/Comman/memberlist.ctp:188
+#: Template/Comman/memberlist.ctp:219 Template/Comman/newslist.ctp:146
+#: Template/Comman/noticelist.ctp:123 Template/Comman/noticelist.ctp:148
+#: Template/Comman/noticelist.ctp:164 Template/Comman/noticelist.ctp:180
+#: Template/Comman/subjectlist.ctp:106 Template/Feepayment/feelist.ctp:366
+#: Template/Library/memberlist.ctp:215 Template/News/newslist.ctp:150
+#: Template/Notice/noticelist.ctp:234 Template/Report/feepayment.ctp:286
+#: Template/Subject/subjectlist.ctp:154
+msgid "View"
+msgstr "вид"
+
+#: Template/Comman/feelist.ctp:302 Template/Comman/feelist.ctp:343
+#: Template/Feepayment/feelist.ctp:365
+msgid "Pay"
+msgstr "платить"
+
+#: Template/Comman/holidaylist.ctp:10 Template/Comman/holidaylist.ctp:26
+#: Template/Comman/holidaylist.ctp:35 Template/Dashboard/dashboard.ctp:83
+#: Template/Holiday/addholiday.ctp:13 Template/Holiday/holidaylist.ctp:85
+#: Template/Holiday/holidaylist.ctp:116 Template/Holiday/holidaylist.ctp:126
+#: Template/Templet/parentdash.ctp:95 Template/Templet/studentdash.ctp:95
+#: Template/Templet/supportstaffdash.ctp:95 Template/Templet/teacherdash.ctp:92
+#: Template/Templet/templet.ctp:95
+msgid "Holiday List"
+msgstr "Список отпуск"
+
+#: Template/Comman/hostellist.ctp:108 Template/Comman/hostellist.ctp:117
+#: Template/Comman/roomlist.ctp:112 Template/Comman/roomlist.ctp:124
+#: Template/Hostel/hostellist.ctp:132 Template/Hostel/hostellist.ctp:141
+#: Template/Hostel/roomlist.ctp:133 Template/Hostel/roomlist.ctp:145
+msgid "Hostel Name"
+msgstr "Hostel Имя"
+
+#: Template/Comman/hostellist.ctp:109 Template/Comman/hostellist.ctp:118
+#: Template/Hostel/hostellist.ctp:133 Template/Hostel/hostellist.ctp:142
+msgid "Hostel Type"
+msgstr "Хостел Тип"
+
+#: Template/Comman/hostellist.ctp:149 Template/Hostel/hostellist.ctp:180
+msgid "Not Available Any Hostel"
+msgstr "Не Доступно Любой Хостел"
+
+#: Template/Comman/importedit.ctp:16 Template/Comman/importlist.ctp:113
+#: Template/Comman/importlist.ctp:122 Template/Export/importedit.ctp:16
+#: Template/Export/importlist.ctp:113 Template/Export/importlist.ctp:122
+msgid "Import Title"
+msgstr "Импорт Название"
+
+#: Template/Comman/importlist.ctp:114 Template/Comman/importlist.ctp:123
+#: Template/Export/importlist.ctp:114 Template/Export/importlist.ctp:123
+msgid "Import Model"
+msgstr "Импорт модели"
+
+#: Template/Comman/importlist.ctp:158 Template/Export/importlist.ctp:162
+msgid "Not Available Any Import"
+msgstr "Любые Импорт Не доступно"
+
+#: Template/Comman/memberlist.ctp:75 Template/Comman/memberlist.ctp:99
+#: Template/Library/memberlist.ctp:75 Template/Library/memberlist.ctp:99
+msgid "Student Library History"
+msgstr "Студенческая библиотека История"
+
+#: Template/Comman/memberlist.ctp:220 Template/Library/memberlist.ctp:216
+msgid "Accept Return"
+msgstr "принять Return"
+
+#: Template/Comman/newslist.ctp:84 Template/Comman/newslist.ctp:103
+#: Template/Comman/newslist.ctp:114 Template/News/addnews.ctp:18
+#: Template/News/newslist.ctp:84 Template/News/newslist.ctp:107
+#: Template/News/newslist.ctp:118 Template/Templet/parentdash.ctp:117
+#: Template/Templet/studentdash.ctp:117
+#: Template/Templet/supportstaffdash.ctp:117
+#: Template/Templet/teacherdash.ctp:112 Template/Templet/templet.ctp:119
+msgid "News List"
+msgstr "Список новостей"
+
+#: Template/Comman/newslist.ctp:107 Template/Comman/newslist.ctp:118
+#: Template/News/newslist.ctp:111 Template/News/newslist.ctp:122
+msgid "Document"
+msgstr "документ"
+
+#: Template/Comman/newslist.ctp:144 Template/Comman/subjectlist.ctp:103
+#: Template/News/newslist.ctp:148 Template/Subject/subjectlist.ctp:151
+msgid "Download"
+msgstr "скачать"
+
+#: Template/Comman/newslist.ctp:165 Template/News/newslist.ctp:176
+msgid "Not Available Any News"
+msgstr "Не доступно Любые Новости"
+
+#: Template/Comman/noticelist.ctp:70 Template/Notice/addnotice.ctp:65
+#: Template/Notice/noticelist.ctp:148 Template/Notice/updatenotice.ctp:59
+msgid "Notice List"
+msgstr "Список Уведомление"
+
+#: Template/Comman/noticelist.ctp:80 Template/Comman/noticelist.ctp:91
+#: Template/Notice/noticelist.ctp:177 Template/Notice/noticelist.ctp:189
+msgid "Notice Title"
+msgstr "Заголовок"
+
+#: Template/Comman/noticelist.ctp:81 Template/Comman/noticelist.ctp:92
+#: Template/Notice/noticelist.ctp:178 Template/Notice/noticelist.ctp:190
+msgid "Notice Comment"
+msgstr "Инструкции"
+
+#: Template/Comman/noticelist.ctp:82 Template/Comman/noticelist.ctp:93
+#: Template/Notice/noticelist.ctp:179 Template/Notice/noticelist.ctp:191
+msgid "Notice Start Date"
+msgstr "Начало Примечание Дата"
+
+#: Template/Comman/noticelist.ctp:83 Template/Comman/noticelist.ctp:94
+#: Template/Notice/noticelist.ctp:180 Template/Notice/noticelist.ctp:192
+msgid "Notice End Date"
+msgstr "Инструкции Дата окончания"
+
+#: Template/Comman/noticelist.ctp:84 Template/Comman/noticelist.ctp:95
+#: Template/Notice/noticelist.ctp:181 Template/Notice/noticelist.ctp:193
+msgid "Notice For"
+msgstr "Для инструкций"
+
+#: Template/Comman/paymentlist.ctp:138 Template/Comman/paymentlist.ctp:154
+#: Template/Payment/paymentlist.ctp:211 Template/Payment/paymentlist.ctp:223
+msgid "Title"
+msgstr "название"
+
+#: Template/Comman/paymentlist.ctp:140 Template/Comman/paymentlist.ctp:156
+#: Template/Message/inbox.ctp:56 Template/Payment/paymentlist.ctp:213
+#: Template/Payment/paymentlist.ctp:225 Template/Student/studentlist.ctp:203
+#: Template/Student/studentlist.ctp:216
+msgid "Status"
+msgstr "статус"
+
+#: Template/Comman/roomlist.ctp:114 Template/Comman/roomlist.ctp:126
+#: Template/Hostel/roomlist.ctp:135 Template/Hostel/roomlist.ctp:147
+msgid "Beds capacity"
+msgstr "вместимость кроватей"
+
+#: Template/Comman/roomlist.ctp:163 Template/Hostel/roomlist.ctp:187
+msgid "View or Assign Room"
+msgstr "Посмотреть или Присвоить номер"
+
+#: Template/Comman/roomlist.ctp:178 Template/Hostel/roomlist.ctp:204
+msgid "Not Available Any Room"
+msgstr "Не Доступно Любой номер"
+
+#: Template/Comman/studentattendance.ctp:4
+#: Template/Comman/studentsubjectattendance.ctp:40
+#: Template/Student/studentattendance.ctp:7
+#: Template/Student/studentattendance.ctp:11
+#: Template/Student/studentsubjectattendance.ctp:40
+#: Template/Teacher/teacherattendance.ctp:4
+msgid "View Attendance"
+msgstr "Просмотр посещаемости"
+
+#: Template/Comman/studentattendance.ctp:10
+#: Template/Comman/studentattendance.ctp:14
+#: Template/Comman/studentsubjectattendance.ctp:46
+#: Template/Student/studentattendance.ctp:18
+#: Template/Student/studentattendance.ctp:22
+#: Template/Student/studentsubjectattendance.ctp:46
+msgid "View Subject Wise Attendance"
+msgstr "Просмотр Тема Wise Посещаемость"
+
+#: Template/Comman/studentattendance.ctp:65
+#: Template/Comman/studentsubjectattendance.ctp:115
+#: Template/Student/studentattendance.ctp:74
+#: Template/Student/studentsubjectattendance.ctp:116
+#: Template/Teacher/teacherattendance.ctp:54
+msgid "Student Name :"
+msgstr "Имя студента:"
+
+#: Template/Comman/studentattendance.ctp:69
+#: Template/Comman/studentsubjectattendance.ctp:119
+#: Template/Library/studentviewbook.ctp:49
+#: Template/Student/studentattendance.ctp:78
+#: Template/Student/studentsubjectattendance.ctp:120
+#: Template/Teacher/teacherattendance.ctp:58
+msgid "Day"
+msgstr "день"
+
+#: Template/Comman/studentattendance.ctp:109
+#: Template/Comman/studentsubjectattendance.ctp:159
+#: Template/Student/studentattendance.ctp:118
+#: Template/Student/studentsubjectattendance.ctp:160
+#: Template/Teacher/teacherattendance.ctp:98
+msgid "-"
+msgstr "0.0"
+
+#: Template/Comman/studentsubjectattendance.ctp:115
+#: Template/Student/studentsubjectattendance.ctp:116
+msgid "Subject Name :"
+msgstr "Тема Имя:"
+
+#: Template/Comman/subjectlist.ctp:38 Template/Comman/subjectlist.ctp:48
+#: Template/Comman/subjectlist.ctp:62 Template/Comman/subjectlist.ctp:71
+#: Template/Subject/subjectlist.ctp:107 Template/Subject/subjectlist.ctp:118
+#: Template/Teacher/teacherlist.ctp:108 Template/Teacher/teacherlist.ctp:118
+msgid "Subject Name"
+msgstr "Имя субъекта"
+
+#: Template/Comman/subjectlist.ctp:39 Template/Comman/subjectlist.ctp:49
+#: Template/Comman/subjectlist.ctp:63 Template/Comman/subjectlist.ctp:72
+#: Template/Comman/teacherlist.ctp:22 Template/Comman/teacherlist.ctp:29
+#: Template/Comman/teacherlist.ctp:37 Template/Comman/teacherlist.ctp:45
+#: Template/Report/teacher.ctp:69 Template/Subject/subjectlist.ctp:108
+#: Template/Subject/subjectlist.ctp:119 Template/Teacher/teacherlist.ctp:106
+#: Template/Teacher/teacherlist.ctp:116
+msgid "Teacher Name"
+msgstr "Имя учителя"
+
+#: Template/Comman/subjectlist.ctp:40 Template/Comman/subjectlist.ctp:50
+#: Template/Comman/subjectlist.ctp:64 Template/Comman/subjectlist.ctp:73
+#: Template/Comman/subjectlist.ctp:134
+msgid "Syllabus"
+msgstr "программа обучения"
+
+#: Template/Comman/teacherlist.ctp:9 Template/Teacher/addteacher.ctp:20
+#: Template/Teacher/teacherlist.ctp:85 Template/Teacher/updateteacher.ctp:23
+msgid "Teacher List"
+msgstr "Список учителей"
+
+#: Template/Comman/transportlist.ctp:10 Template/Transport/addtransport.ctp:7
+#: Template/Transport/transportlist.ctp:88
+msgid "Transport List"
+msgstr "Список транспорт"
+
+#: Template/Comman/transportlist.ctp:27 Template/Comman/transportlist.ctp:40
+#: Template/Transport/transportlist.ctp:120
+#: Template/Transport/transportlist.ctp:132
+msgid "Route Name"
+msgstr "дорога Имя"
+
+#: Template/Comman/transportlist.ctp:28 Template/Comman/transportlist.ctp:41
+#: Template/Transport/transportlist.ctp:121
+#: Template/Transport/transportlist.ctp:133
+msgid "Vehicle Identifier"
+msgstr "Определить Vehicle"
+
+#: Template/Comman/transportlist.ctp:29 Template/Comman/transportlist.ctp:42
+#: Template/Transport/transportlist.ctp:122
+#: Template/Transport/transportlist.ctp:134
+msgid "Vehicle Registration Number"
+msgstr "Автомобиль Номер регистрации"
+
+#: Template/Comman/transportlist.ctp:31 Template/Comman/transportlist.ctp:44
+#: Template/Transport/transportlist.ctp:118
+#: Template/Transport/transportlist.ctp:130
+msgid "Driver Name"
+msgstr "водитель Имя"
+
+#: Template/Comman/transportlist.ctp:32 Template/Comman/transportlist.ctp:45
+#: Template/Transport/transportlist.ctp:119
+#: Template/Transport/transportlist.ctp:131
+msgid "Driver Phone Number"
+msgstr "Драйвер телефона"
+
+#: Template/Comman/transportlist.ctp:33 Template/Comman/transportlist.ctp:46
+#: Template/Transport/transportlist.ctp:123
+#: Template/Transport/transportlist.ctp:135
+msgid "Route Fare"
+msgstr "маршрут Fare"
+
+#: Template/Comman/updatestudent.ctp:7 Template/Student/updatestudent.ctp:52
+msgid "Edit Student"
+msgstr "Редактировать Student"
+
+#: Template/Comman/updatestudent.ctp:86 Template/Parent/updateparent.ctp:120
+#: Template/Staff/updatestaff.ctp:73 Template/Student/updatestudent.ctp:139
+#: Template/Teacher/updateteacher.ctp:91
+msgid "Select State "
+msgstr "Выберите государство "
+
+#: Template/Comman/updatestudent.ctp:92 Template/Parent/updateparent.ctp:126
+#: Template/Staff/updatestaff.ctp:79 Template/Student/updatestudent.ctp:145
+#: Template/Teacher/updateteacher.ctp:97
+msgid "Select City "
+msgstr "Выберите город "
+
+#: Template/Comman/updatestudent.ctp:177 Template/Student/updatestudent.ctp:229
+msgid "Save Student"
+msgstr "Сохранить Student"
+
+#: Template/Comman/viewdataexpense.ctp:42 Template/Comman/viewdataincome.ctp:44
+#: Template/Comman/viewdatapayment.ctp:45
+#: Template/Payment/viewdataexpense.ctp:43
+#: Template/Payment/viewdataincome.ctp:48
+#: Template/Payment/viewdatapayment.ctp:47
+msgid "Issue Date:"
+msgstr "Дата выпуска:"
+
+#: Template/Comman/viewdataexpense.ctp:44 Template/Comman/viewdataincome.ctp:46
+#: Template/Comman/viewdatapayment.ctp:47
+#: Template/Payment/viewdataexpense.ctp:45
+#: Template/Payment/viewdataincome.ctp:50
+#: Template/Payment/viewdatapayment.ctp:49
+msgid "Status:"
+msgstr "Статус:"
+
+#: Template/Comman/viewdataexpense.ctp:48 Template/Comman/viewdataincome.ctp:50
+#: Template/Comman/viewdatapayment.ctp:51
+#: Template/Feepayment/paymentview.ctp:27
+#: Template/Payment/viewdataexpense.ctp:49
+#: Template/Payment/viewdataincome.ctp:54
+#: Template/Payment/viewdatapayment.ctp:53
+msgid "Payment To"
+msgstr "Оплата Для"
+
+#: Template/Comman/viewdataexpense.ctp:54 Template/Comman/viewdataincome.ctp:56
+#: Template/Comman/viewdatapayment.ctp:57
+#: Template/Feepayment/paymentview.ctp:34
+#: Template/Payment/viewdataexpense.ctp:55
+#: Template/Payment/viewdataincome.ctp:60
+#: Template/Payment/viewdatapayment.ctp:59
+msgid "Bill to"
+msgstr "Билл"
+
+#: Template/Comman/viewdataexpense.ctp:63 Template/Comman/viewdataincome.ctp:65
+#: Template/Comman/viewdatapayment.ctp:66
+#: Template/Payment/viewdataexpense.ctp:64
+#: Template/Payment/viewdataincome.ctp:69
+#: Template/Payment/viewdatapayment.ctp:68
+msgid "Invoice Entries"
+msgstr "Записи счетов-фактур"
+
+#: Template/Comman/viewdataexpense.ctp:67 Template/Comman/viewdataincome.ctp:69
+#: Template/Comman/viewdatapayment.ctp:70
+#: Template/Payment/viewdataexpense.ctp:68
+#: Template/Payment/viewdataincome.ctp:73
+#: Template/Payment/viewdatapayment.ctp:72
+msgid "#"
+msgstr "0.0"
+
+#: Template/Comman/viewdataexpense.ctp:69 Template/Comman/viewdataincome.ctp:71
+#: Template/Comman/viewdatapayment.ctp:72
+#: Template/Payment/viewdataexpense.ctp:70
+#: Template/Payment/viewdataincome.ctp:75
+#: Template/Payment/viewdatapayment.ctp:74
+msgid "Entry"
+msgstr "запись"
+
+#: Template/Comman/viewdataexpense.ctp:70 Template/Comman/viewdataincome.ctp:72
+#: Template/Comman/viewdatapayment.ctp:73
+#: Template/Payment/viewdataexpense.ctp:71
+#: Template/Payment/viewdataincome.ctp:76
+#: Template/Payment/viewdatapayment.ctp:75
+msgid "Price"
+msgstr "цена"
+
+#: Template/Comman/viewdataexpense.ctp:112
+#: Template/Comman/viewdataincome.ctp:114
+#: Template/Comman/viewdatapayment.ctp:92
+#: Template/Payment/viewdataexpense.ctp:113
+#: Template/Payment/viewdataincome.ctp:118
+#: Template/Payment/viewdatapayment.ctp:94
+msgid "Grand Total:"
+msgstr "Общий итог:"
+
+#: Template/Dashboard/dashboard.ctp:28 Template/Dashboard/dashboard.ctp:38
+#: Template/Dashboard/dashboard.ctp:48 Template/Dashboard/dashboard.ctp:58
+msgid "0"
+msgstr "0.0"
+
+#: Template/Dashboard/dashboard.ctp:59
+msgid "Today Attendence"
+msgstr "Сегодня attendence"
+
+#: Template/Dashboard/dashboard.ctp:74
+msgid "Noticeboard"
+msgstr "обьявлений"
+
+#: Template/Exam/addexam.ctp:23
+msgid " Add Exam"
+msgstr " Добавить экзамен"
+
+#: Template/Exam/addexam.ctp:38 Template/Exam/updateexam.ctp:34
+msgid "Exam Name "
+msgstr "экзамен Название "
+
+#: Template/Exam/addexam.ctp:41
+msgid "Enter Exam Name "
+msgstr "Введите экзамен Имя "
+
+#: Template/Exam/addexam.ctp:45 Template/Exam/updateexam.ctp:40
+msgid "Exam Date "
+msgstr "экзамен Дата "
+
+#: Template/Exam/addexam.ctp:47 Template/Holiday/addholiday.ctp:52
+#: Template/Holiday/addholiday.ctp:59 Template/Holiday/updateholiday.ctp:51
+#: Template/Holiday/updateholiday.ctp:58
+msgid "Enter Exam date "
+msgstr "Введите экзамен Дата "
+
+#: Template/Exam/addexam.ctp:53 Template/Exam/updateexam.ctp:48
+msgid "Exam Comment "
+msgstr "Как экзамен "
+
+#: Template/Exam/addexam.ctp:55
+msgid "Enter Exam Comment "
+msgstr "Введите экзамен Как "
+
+#: Template/Exam/addexam.ctp:63 Template/Exam/examlist.ctp:97
+#: Template/Exam/updateexam.ctp:22
+msgid "Add Exam"
+msgstr "Добавить экзамен"
+
+#: Template/Exam/examlist.ctp:162
+msgid "Not Available Any Exam"
+msgstr "Нет данных Любой экзамен"
+
+#: Template/Exam/updateexam.ctp:13
+msgid "Edit List"
+msgstr "Редактировать список"
+
+#: Template/Exam/updateexam.ctp:58
+msgid "Edit Exam"
+msgstr "Редактировать экзамен"
+
+#: Template/Feepayment/addfeetype.ctp:95
+msgid "Edit List1"
+msgstr "Редактировать List1"
+
+#: Template/Feepayment/addfeetype.ctp:100 Template/Feepayment/feelist.ctp:251
+#: Template/Feepayment/feetypelist.ctp:95 Template/Feepayment/invoice.ctp:157
+msgid "Add Fee Type"
+msgstr "Добавить Fee Тип"
+
+#: Template/Feepayment/addfeetype.ctp:110 Template/Feepayment/feelist.ctp:242
+#: Template/Feepayment/feetypelist.ctp:86 Template/Feepayment/invoice.ctp:148
+msgid "Fee Type List"
+msgstr "Плата Тип списка"
+
+#: Template/Feepayment/addfeetype.ctp:138 Template/Feepayment/feelist.ctp:270
+#: Template/Feepayment/feetypelist.ctp:114 Template/Feepayment/invoice.ctp:183
+msgid "Generate Invoice"
+msgstr "Генерация счета-фактуры"
+
+#: Template/Feepayment/addfeetype.ctp:164
+msgid "Type"
+msgstr "тип"
+
+#: Template/Feepayment/addfeetype.ctp:191
+msgid "FeeType:"
+msgstr "FeeType:"
+
+#: Template/Feepayment/addfeetype.ctp:198
+msgid "Save Fee Type"
+msgstr "Сохранить Плата Тип"
+
+#: Template/Feepayment/addfeetype.ctp:227
+msgid "Fee Type "
+msgstr "Плата Тип "
+
+#: Template/Feepayment/addfeetype.ctp:239 Template/Feepayment/invoice.ctp:274
+msgid "Select Fee Type"
+msgstr "Выберите тип Fee"
+
+#: Template/Feepayment/addfeetype.ctp:254 Template/Library/addbook.ctp:329
+#: Template/Library/addbook.ctp:384 Template/Library/issuebook.ctp:437
+msgid "Add Or Remove"
+msgstr "Добавить или удалить"
+
+#: Template/Feepayment/addfeetype.ctp:262 Template/Library/issuebook.ctp:293
+#: Template/Payment/addpayment.ctp:146
+msgid "Class "
+msgstr "класс "
+
+#: Template/Feepayment/addfeetype.ctp:288 Template/Feepayment/invoice.ctp:223
+#: Template/Library/issuebook.ctp:334
+msgid "Section : "
+msgstr "раздел: "
+
+#: Template/Feepayment/addfeetype.ctp:306 Template/Payment/addpayment.ctp:226
+msgid "Amount "
+msgstr "сумма "
+
+#: Template/Feepayment/addfeetype.ctp:308 Template/Payment/addpayment.ctp:228
+msgid "Enter Amount "
+msgstr "введите сумму "
+
+#: Template/Feepayment/addfeetype.ctp:326
+msgid "Create Fee Type"
+msgstr "Создание Fee Тип"
+
+#: Template/Feepayment/feelist.ctp:187
+msgid "Cash"
+msgstr "наличные деньги"
+
+#: Template/Feepayment/feelist.ctp:188
+msgid "Cheque"
+msgstr "проверка"
+
+#: Template/Feepayment/feelist.ctp:189
+msgid "Bank Transfer"
+msgstr "Банковский перевод"
+
+#: Template/Feepayment/feelist.ctp:295 Template/Feepayment/feelist.ctp:310
+#: Template/Feepayment/feetypelist.ctp:139
+#: Template/Feepayment/feetypelist.ctp:149
+msgid "Section"
+msgstr "раздел"
+
+#: Template/Feepayment/feelist.ctp:403
+msgid "Fees Alert"
+msgstr "сборы Бдительные"
+
+#: Template/Feepayment/feelist.ctp:414
+msgid "Not Available Any Fees"
+msgstr "Не доступно Любые платежи"
+
+#: Template/Feepayment/feetypelist.ctp:205
+msgid "Not Available Any Fee Type"
+msgstr "Любой тип Плата Не доступно"
+
+#: Template/Feepayment/invoice.ctp:179
+msgid "Edit Invoice"
+msgstr "Редактирование счет-фактура"
+
+#: Template/Feepayment/invoice.ctp:242
+msgid "Student: "
+msgstr "Студент: "
+
+#: Template/Feepayment/invoice.ctp:264
+msgid "Fee Type : "
+msgstr "Плата Тип: "
+
+#: Template/Feepayment/invoice.ctp:328
+msgid "Year : "
+msgstr "год: "
+
+#: Template/Feepayment/invoice.ctp:339 Template/Setting/generalsetting.ctp:39
+msgid "Starting Year"
+msgstr "Начиная год"
+
+#: Template/Feepayment/invoice.ctp:357
+msgid "Ending Year"
+msgstr "окончание года"
+
+#: Template/Feepayment/invoice.ctp:375
+msgid "Create Invoice"
+msgstr "Создание счета-фактуры"
+
+#: Template/Feepayment/paymentview.ctp:10
+msgid "Issue Date :"
+msgstr "Дата выпуска:"
+
+#: Template/Feepayment/paymentview.ctp:22
+msgid "Status :"
+msgstr "Статус:"
+
+#: Template/Feepayment/paymentview.ctp:50 Template/Report/result.ctp:157
+msgid "Total"
+msgstr "общий"
+
+#: Template/Feepayment/paymentview.ctp:63
+msgid "Sub Total:"
+msgstr "Промежуточный итог:"
+
+#: Template/Feepayment/paymentview.ctp:68
+msgid "Payment Made:"
+msgstr "Оплата Сделана:"
+
+#: Template/Feepayment/paymentview.ctp:73
+msgid "Due Amount:"
+msgstr "Из-за кол-во:"
+
+#: Template/Feepayment/paymentview.ctp:85
+msgid "Payment History"
+msgstr "История платежей"
+
+#: Template/Feepayment/paymentview.ctp:92
+msgid "Method"
+msgstr "метод"
+
+#: Template/Feepayment/showfeetype.ctp:3 Template/Report/feepayment.ctp:141
+msgid "---Select Fee Type---"
+msgstr "Плата --- Выберите тип ---"
+
+#: Template/Grade/addgrade.ctp:13 Template/Grade/gradelist.ctp:90
+msgid "Grade List"
+msgstr "Список ранг"
+
+#: Template/Grade/addgrade.ctp:22 Template/Grade/addgrade.ctp:74
+#: Template/Grade/gradelist.ctp:99 Template/Grade/updategrade.ctp:19
+msgid "Add Grade"
+msgstr "Добавить Grade"
+
+#: Template/Grade/addgrade.ctp:35 Template/Grade/updategrade.ctp:31
+msgid "Grade Name "
+msgstr "Оценка Имя "
+
+#: Template/Grade/addgrade.ctp:37 Template/Grade/updategrade.ctp:33
+msgid "Enter Grade Name "
+msgstr "Введите Имя Grade "
+
+#: Template/Grade/addgrade.ctp:42 Template/Grade/updategrade.ctp:38
+msgid "Grade Point "
+msgstr "Grade Point "
+
+#: Template/Grade/addgrade.ctp:44 Template/Grade/updategrade.ctp:40
+msgid "Enter Grade Point "
+msgstr "Введите Grade Point "
+
+#: Template/Grade/addgrade.ctp:49 Template/Grade/updategrade.ctp:45
+msgid "mark From "
+msgstr "знак С "
+
+#: Template/Grade/addgrade.ctp:51 Template/Grade/updategrade.ctp:47
+msgid "Enter Grade Form "
+msgstr "Введите Форму Оценка "
+
+#: Template/Grade/addgrade.ctp:57
+msgid "Mark Upto "
+msgstr "Марк Upto "
+
+#: Template/Grade/addgrade.ctp:59 Template/Grade/updategrade.ctp:55
+msgid "Enter Grade Upto "
+msgstr "Введите Grade UPTO "
+
+#: Template/Grade/addgrade.ctp:64 Template/Grade/updategrade.ctp:60
+msgid "Comment "
+msgstr "как "
+
+#: Template/Grade/addgrade.ctp:66 Template/Grade/updategrade.ctp:62
+msgid "Enter Grade Comment "
+msgstr "Введите Grade Хау "
+
+#: Template/Grade/gradelist.ctp:119 Template/Grade/gradelist.ctp:129
+msgid "Grade Name"
+msgstr "Оценка Имя"
+
+#: Template/Grade/gradelist.ctp:120 Template/Grade/gradelist.ctp:130
+msgid "Grade Point"
+msgstr "Grade Point"
+
+#: Template/Grade/gradelist.ctp:121 Template/Grade/gradelist.ctp:131
+msgid "Mark From"
+msgstr "Mark От"
+
+#: Template/Grade/gradelist.ctp:122 Template/Grade/gradelist.ctp:132
+msgid "Mark Upto"
+msgstr "Марк Upto"
+
+#: Template/Grade/gradelist.ctp:168
+msgid "Not Available Any Grade"
+msgstr "Не доступно Неважно Оценка"
+
+#: Template/Grade/updategrade.ctp:11
+msgid "Edit Grade"
+msgstr "Изменить класс"
+
+#: Template/Grade/updategrade.ctp:53
+msgid "mark Upto "
+msgstr "знак Upto "
+
+#: Template/Grade/updategrade.ctp:70
+msgid "Update Grade"
+msgstr "Уровень обновления"
+
+#: Template/Hall/addhall.ctp:12 Template/Hall/halllist.ctp:86
+msgid "Hall List"
+msgstr "Список Hall"
+
+#: Template/Hall/addhall.ctp:20 Template/Hall/addhall.ctp:64
+#: Template/Hall/halllist.ctp:95 Template/Hall/updatehall.ctp:19
+msgid "Add Hall"
+msgstr "Добавить зал"
+
+#: Template/Hall/addhall.ctp:32 Template/Hall/updatehall.ctp:32
+msgid "Hall Name "
+msgstr "Имя Холл "
+
+#: Template/Hall/addhall.ctp:34 Template/Hall/updatehall.ctp:34
+msgid "Enter Hall Name "
+msgstr "Введите имя Холла "
+
+#: Template/Hall/addhall.ctp:39 Template/Hall/updatehall.ctp:39
+msgid "Hall Numeric Value "
+msgstr "Зал Числовое значение "
+
+#: Template/Hall/addhall.ctp:41 Template/Hall/updatehall.ctp:41
+msgid "Enter Number of Hall "
+msgstr "Введите номер Холла "
+
+#: Template/Hall/addhall.ctp:46 Template/Hall/updatehall.ctp:46
+msgid "Capacity "
+msgstr "мощность "
+
+#: Template/Hall/addhall.ctp:48 Template/Hall/updatehall.ctp:48
+msgid "Enter Hall Capacity "
+msgstr "Введите Вместимость зала "
+
+#: Template/Hall/addhall.ctp:56 Template/Hall/updatehall.ctp:56
+msgid "Enter Hall Description "
+msgstr "Введите Hall Описание "
+
+#: Template/Hall/halllist.ctp:115 Template/Hall/halllist.ctp:124
+msgid "Hall Name"
+msgstr "Имя Холл"
+
+#: Template/Hall/halllist.ctp:116 Template/Hall/halllist.ctp:125
+msgid "Hall Numeric Value"
+msgstr "Зал Числовое значение"
+
+#: Template/Hall/halllist.ctp:160
+msgid "Not Available Any Hall"
+msgstr "Не Доступно Любой зал"
+
+#: Template/Hall/updatehall.ctp:11 Template/Hall/updatehall.ctp:64
+msgid "Edit Hall"
+msgstr "Редактировать зал"
+
+#: Template/Holiday/addholiday.ctp:21 Template/Holiday/addholiday.ctp:68
+#: Template/Holiday/holidaylist.ctp:94 Template/Holiday/updateholiday.ctp:19
+msgid "Add Holiday"
+msgstr "Добавить праздник"
+
+#: Template/Holiday/addholiday.ctp:33
+msgid "Holiday Title "
+msgstr "Праздник Название "
+
+#: Template/Holiday/addholiday.ctp:35 Template/Holiday/updateholiday.ctp:34
+msgid "Enter Holiday Title "
+msgstr "Введите отпуск Название "
+
+#: Template/Holiday/holidaylist.ctp:163
+msgid "Not Available Any Holiday"
+msgstr "Не доступно любой праздник"
+
+#: Template/Holiday/updateholiday.ctp:11 Template/Holiday/updateholiday.ctp:67
+msgid "Edit Holiday"
+msgstr "Изменить отпуск"
+
+#: Template/Holiday/updateholiday.ctp:32
+msgid "Holiday Title : "
+msgstr "Праздник Название: "
+
+#: Template/Holiday/updateholiday.ctp:49
+msgid "Start Date : "
+msgstr "Дата начала "
+
+#: Template/Holiday/updateholiday.ctp:56
+msgid "End Date : "
+msgstr "Дата окончания "
+
+#: Template/Installer/index.ctp:2 Template/Installer/success.ctp:2
+msgid "School Master - School Management Installation Wizard"
+msgstr "Школа Мастер - Мастер установки Management School"
+
+#: Template/Installer/index.ctp:8 Template/Installer/index.ctp:10
+msgid "Database Setup"
+msgstr "Настройка базы данных"
+
+#: Template/Installer/index.ctp:13
+msgid "Database Name"
+msgstr "Имя базы данных"
+
+#: Template/Installer/index.ctp:21
+msgid "Database Username"
+msgstr "Имя пользователя базы данных"
+
+#: Template/Installer/index.ctp:29
+msgid "Database Password"
+msgstr "Пароль базы данных"
+
+#: Template/Installer/index.ctp:37
+msgid "Host"
+msgstr "хозяин"
+
+#: Template/Installer/index.ctp:45 Template/Installer/index.ctp:332
+msgid "Fields are required."
+msgstr "Поля обязательны для заполнения."
+
+#: Template/Installer/index.ctp:48 Template/Installer/index.ctp:50
+msgid "System Setting"
+msgstr "Настройка системы"
+
+#: Template/Installer/index.ctp:53
+msgid "System Name"
+msgstr "Название системы"
+
+#: Template/Installer/index.ctp:61
+msgid "Country"
+msgstr "страна"
+
+#: Template/Installer/index.ctp:278 Template/Setting/generalsetting.ctp:185
+#: Template/Setting/generalsetting.ctp:192
+msgid "Select Currency"
+msgstr "Выбор валюты"
+
+#: Template/Installer/index.ctp:297
+msgid "Date Format"
+msgstr "Формат даты"
+
+#: Template/Installer/index.ctp:307
+msgid "System Language"
+msgstr "Язык системы"
+
+#: Template/Installer/index.ctp:335 Template/Installer/index.ctp:337
+msgid "Login Details"
+msgstr "Войти Подробнее"
+
+#: Template/Installer/index.ctp:348 Template/User/user.ctp:20
+msgid "Password"
+msgstr "пароль"
+
+#: Template/Installer/index.ctp:365
+msgid "Finish"
+msgstr "отделка"
+
+#: Template/Installer/index.ctp:367
+msgid "Please Note :"
+msgstr "Пожалуйста, обратите внимание:"
+
+#: Template/Installer/index.ctp:370
+msgid "1. It may take couple of minutes to set-up database."
+msgstr "1. Может принимать пары минут базы данных настройки."
+
+#: Template/Installer/index.ctp:373
+msgid "2. Do not refresh page after to you click on install button."
+msgstr "2. Не обновляйте после страницы вам один нажмите кнопку установить."
+
+#: Template/Installer/index.ctp:376
+msgid ""
+"3. You will be acknowledge with success message once after installation "
+"finishes."
+msgstr "3. Вы будете признать сообщения с успехом унцию после установки заканчивается."
+
+#: Template/Installer/index.ctp:379
+msgid "4. Click on install to complete the installation."
+msgstr "4. Нажмите на, чтобы установить полную установку."
+
+#: Template/Installer/success.ctp:7
+msgid "Congratulation"
+msgstr "поздравление"
+
+#: Template/Installer/success.ctp:8
+msgid "Installation Completed Successfully"
+msgstr "Установка успешно завершена"
+
+#: Template/Installer/success.ctp:9
+msgid "Click"
+msgstr "щелчок"
+
+#: Template/Installer/success.ctp:9
+msgid "here to redirect on \tlogin page."
+msgstr "здесь, чтобы перенаправить его \ tlogin страницы."
+
+#: Template/Layout/default.ctp:327
+msgid "Profile"
+msgstr "профиль"
+
+#: Template/Layout/default.ctp:331
+msgid "Change Password"
+msgstr "Изменение пароля"
+
+#: Template/Layout/default.ctp:332
+msgid "Log out"
+msgstr "выйти"
+
+#: Template/Layout/default.ctp:358 Template/Layout/default.ctp:402
+#: Template/Layout/default.ctp:446 Template/Layout/default.ctp:489
+#: Template/Layout/default.ctp:545
+msgid "Dashboard"
+msgstr "приборная панель"
+
+#: Template/Layout/default.ctp:560 Template/User/user.ctp:29
+msgid "Admission"
+msgstr "вход"
+
+#: Template/Layout/default.ctp:602
+msgid "News"
+msgstr "новости"
+
+#: Template/Layout/default.ctp:610
+msgid "Event"
+msgstr "событие"
+
+#: Template/Layout/default.ctp:618
+msgid "Import/Export"
+msgstr "Импорт / Экспорт"
+
+#: Template/Layout/default.ctp:626
+msgid "Hostel"
+msgstr "общежитие"
+
+#: Template/Layout/default.ctp:644
+msgid "Class Routine"
+msgstr "Рутинное класс"
+
+#: Template/Layout/default.ctp:662
+msgid "Exam"
+msgstr "экзамен"
+
+#: Template/Layout/default.ctp:680
+msgid "Mark Manage"
+msgstr "Марк Управление"
+
+#: Template/Layout/default.ctp:689
+msgid "Transport"
+msgstr "транспорт"
+
+#: Template/Layout/default.ctp:698 Template/Templet/parentdash.ctp:73
+#: Template/Templet/studentdash.ctp:73 Template/Templet/supportstaffdash.ctp:73
+#: Template/Templet/teacherdash.ctp:72 Template/Templet/templet.ctp:71
+msgid "Notice"
+msgstr "уведомление"
+
+#: Template/Layout/default.ctp:707
+msgid "Message"
+msgstr "сообщение"
+
+#: Template/Layout/default.ctp:715
+msgid "Hall"
+msgstr "зал"
+
+#: Template/Layout/default.ctp:724
+msgid "Fee Payment"
+msgstr "Плата оплаты"
+
+#: Template/Layout/default.ctp:733
+msgid "Payment"
+msgstr "оплата"
+
+#: Template/Layout/default.ctp:742
+msgid "Holiday"
+msgstr "праздник"
+
+#: Template/Layout/default.ctp:751
+msgid "Library"
+msgstr "библиотека"
+
+#: Template/Layout/default.ctp:760
+msgid "Report"
+msgstr "откладывание"
+
+#: Template/Layout/default.ctp:769 Template/Teacherrights/accessteacher.ctp:6
+msgid "Access Rights"
+msgstr "Права доступа"
+
+#: Template/Layout/default.ctp:778 Template/Migration/migration.ctp:4
+msgid "Migration"
+msgstr "миграция"
+
+#: Template/Layout/default.ctp:789 Template/Smssetting/smssetting.ctp:36
+msgid "SMS Setting"
+msgstr "Настройка SMS"
+
+#: Template/Layout/default.ctp:798 Template/Setting/generalsetting.ctp:12
+msgid "General Setting"
+msgstr "Общие настройки"
+
+#: Template/Library/addbook.ctp:97 Template/Library/addbook.ctp:105
+msgid "Category"
+msgstr "категория"
+
+#: Template/Library/addbook.ctp:132
+msgid "Category Name:"
+msgstr "Категория Название:"
+
+#: Template/Library/addbook.ctp:139
+msgid "Add Category"
+msgstr "Добавить категорию"
+
+#: Template/Library/addbook.ctp:202
+msgid "Rack Loaction Name:"
+msgstr "Стеллаж локации Имя:"
+
+#: Template/Library/addbook.ctp:209
+msgid "Add Rack Location"
+msgstr "Добавить Аренда Rack"
+
+#: Template/Library/addbook.ctp:247 Template/Library/addbook.ctp:422
+#: Template/Library/booklist.ctp:105 Template/Library/issuebook.ctp:260
+#: Template/Library/issuelist.ctp:105 Template/Library/memberlist.ctp:139
+msgid "Add Book"
+msgstr "Добавить книгу"
+
+#: Template/Library/addbook.ctp:256 Template/Library/booklist.ctp:114
+#: Template/Library/issuebook.ctp:269 Template/Library/issuelist.ctp:114
+#: Template/Library/memberlist.ctp:148
+msgid "Issue List"
+msgstr "Список выпуск"
+
+#: Template/Library/addbook.ctp:265 Template/Library/booklist.ctp:123
+#: Template/Library/issuebook.ctp:278 Template/Library/issuebook.ctp:538
+#: Template/Library/issuelist.ctp:123 Template/Library/memberlist.ctp:157
+msgid "Issue Book"
+msgstr "Книга Issue"
+
+#: Template/Library/addbook.ctp:295
+msgid "ISBN : "
+msgstr "ISBN: "
+
+#: Template/Library/addbook.ctp:297
+msgid "Enter ISBN Number "
+msgstr "Введите ISBN номер "
+
+#: Template/Library/addbook.ctp:303
+msgid "Book Category : "
+msgstr "Книга Категория: "
+
+#: Template/Library/addbook.ctp:308 Template/Library/issuebook.ctp:464
+msgid "---Select Category---"
+msgstr "--- Выберите категорию ---"
+
+#: Template/Library/addbook.ctp:337
+msgid "Book Name "
+msgstr "Название книги "
+
+#: Template/Library/addbook.ctp:339
+msgid "Enter Book Name "
+msgstr "Введите название книги "
+
+#: Template/Library/addbook.ctp:346
+msgid "Author Name "
+msgstr "Автор Имя "
+
+#: Template/Library/addbook.ctp:348 Template/Subject/addsubject.ctp:94
+#: Template/Subject/addsubject.ctp:96 Template/Subject/updatesubject.ctp:97
+msgid "Enter Author Name "
+msgstr "Введите Имя автора "
+
+#: Template/Library/addbook.ctp:354
+msgid "Rack Location "
+msgstr "Аренда стойки "
+
+#: Template/Library/addbook.ctp:358
+msgid "---Select Rack Location---"
+msgstr "--- Выберите --- Аренда стойки"
+
+#: Template/Library/addbook.ctp:390
+msgid " Price "
+msgstr " цена "
+
+#: Template/Library/addbook.ctp:392
+msgid "Enter Price "
+msgstr "войти Цена "
+
+#: Template/Library/addbook.ctp:399
+msgid " Quantity "
+msgstr " инвентарь "
+
+#: Template/Library/addbook.ctp:408
+msgid " Description "
+msgstr " Описание "
+
+#: Template/Library/booklist.ctp:206
+msgid "Not Available Any Book"
+msgstr "Не доступно Любая книга"
+
+#: Template/Library/issuebook.ctp:176
+msgid "Issue Period"
+msgstr "Период выпуска"
+
+#: Template/Library/issuebook.ctp:184
+msgid "Period Time"
+msgstr "период времени"
+
+#: Template/Library/issuebook.ctp:193 Template/Library/issuebook.ctp:427
+msgid " Days"
+msgstr " День: {0}%s{/0}"
+
+#: Template/Library/issuebook.ctp:212
+msgid "Period Time:"
+msgstr "Период времени:"
+
+#: Template/Library/issuebook.ctp:220
+msgid "Add Period"
+msgstr "Добавить Период"
+
+#: Template/Library/issuebook.ctp:311 Template/Report/feepayment.ctp:123
+msgid "---Select Class---"
+msgstr "--- Выберите --- Класс"
+
+#: Template/Library/issuebook.ctp:344
+msgid "---Select Section---"
+msgstr "--- Выберите раздел ---"
+
+#: Template/Library/issuebook.ctp:351
+msgid " Student "
+msgstr " студент "
+
+#: Template/Library/issuebook.ctp:388
+msgid "Issue Date "
+msgstr "Дата выпуска "
+
+#: Template/Library/issuebook.ctp:399
+msgid "Enter Issue Date "
+msgstr "Введите даты выпуска "
+
+#: Template/Library/issuebook.ctp:406
+msgid " Period "
+msgstr " период "
+
+#: Template/Library/issuebook.ctp:410
+msgid "---Select Period---"
+msgstr "--- Выберите --- Период"
+
+#: Template/Library/issuebook.ctp:443
+msgid "Return Date "
+msgstr "Дата возвращения "
+
+#: Template/Library/issuebook.ctp:453
+msgid "Enter Return date"
+msgstr "Введите дату возвращения"
+
+#: Template/Library/issuebook.ctp:460
+msgid "Book Category "
+msgstr "Книга Категория "
+
+#: Template/Library/issuebook.ctp:495
+msgid " Book Name "
+msgstr " Название книги "
+
+#: Template/Library/issuelist.ctp:147 Template/Library/issuelist.ctp:158
+#: Template/Library/studentviewbook.ctp:8
+msgid "Issue Date"
+msgstr "Дата выпуска"
+
+#: Template/Library/issuelist.ctp:148 Template/Library/issuelist.ctp:159
+#: Template/Library/studentviewbook.ctp:9
+msgid "Return Date"
+msgstr "Дата возвращения"
+
+#: Template/Library/issuelist.ctp:149 Template/Library/issuelist.ctp:160
+#: Template/Library/studentviewbook.ctp:10
+msgid "Period"
+msgstr "период"
+
+#: Template/Library/issuelist.ctp:238
+msgid "Not Available Any Issue"
+msgstr "Не доступно Неважно Issue"
+
+#: Template/Library/memberlist.ctp:237
+msgid "Not Available Any Member"
+msgstr "Любой член Не доступно"
+
+#: Template/Library/returnbook.ctp:26 Template/Library/studentviewbook.ctp:11
+msgid "Overdue By"
+msgstr "По Просроченная"
+
+#: Template/Library/returnbook.ctp:27
+msgid "Fine"
+msgstr "нежный"
+
+#: Template/Library/returnbook.ctp:82
+msgid "Submit Book"
+msgstr "Добавить книгу"
+
+#: Template/Library/studentviewbook.ctp:7
+msgid "Book name"
+msgstr "название книги"
+
+#: Template/Marks/addmarks.ctp:196 Template/Marks/addmarks.ctp:271
+msgid "Select CSV File : "
+msgstr "Выберите файл CSV: "
+
+#: Template/Marks/addmarks.ctp:198 Template/Marks/addmarks.ctp:273
+msgid "Fill data from CSV File"
+msgstr "Заполните данные из CSV файла"
+
+#: Template/Marks/addmarks.ctp:256 Template/Marks/addmarks.ctp:394
+#: Template/Marks/addmultiplemark.ctp:205
+msgid "Update All Marks"
+msgstr "Обновление всех марок"
+
+#: Template/Marks/addmultiplemark.ctp:193
+msgid "Add/Save Mark"
+msgstr "Добавить / Сохранить Mark"
+
+#: Template/Message/compose.ctp:62 Template/Message/compose.ctp:72
+#: Template/Message/inbox.ctp:5 Template/Message/inbox.ctp:16
+#: Template/Message/message.ctp:4 Template/Message/message.ctp:14
+#: Template/Message/sentbox.ctp:4 Template/Message/sentbox.ctp:14
+#: Template/Message/view_inbox_message.ctp:29
+#: Template/Message/view_inbox_message.ctp:39
+#: Template/Message/view_message.ctp:29 Template/Message/view_message.ctp:39
+msgid "Compose"
+msgstr "компоновать"
+
+#: Template/Message/compose.ctp:68 Template/Message/compose.ctp:88
+#: Template/Message/inbox.ctp:12 Template/Message/inbox.ctp:32
+#: Template/Message/message.ctp:10 Template/Message/message.ctp:30
+#: Template/Message/sentbox.ctp:10 Template/Message/sentbox.ctp:30
+#: Template/Message/view_inbox_message.ctp:35
+#: Template/Message/view_inbox_message.ctp:54
+#: Template/Message/view_message.ctp:35 Template/Message/view_message.ctp:55
+msgid "Inbox"
+msgstr "входящие"
+
+#: Template/Message/compose.ctp:70 Template/Message/inbox.ctp:14
+#: Template/Message/message.ctp:12 Template/Message/sentbox.ctp:12
+#: Template/Message/view_inbox_message.ctp:37
+#: Template/Message/view_message.ctp:37
+msgid "Sent Item"
+msgstr "отправлен товар"
+
+#: Template/Message/compose.ctp:94 Template/Message/inbox.ctp:38
+#: Template/Message/message.ctp:35 Template/Message/sentbox.ctp:37
+#: Template/Message/view_inbox_message.ctp:60
+#: Template/Message/view_message.ctp:61
+msgid "Sent"
+msgstr "посланный"
+
+#: Template/Message/compose.ctp:105
+msgid "Edit Message"
+msgstr "Редактировать сообщение"
+
+#: Template/Message/compose.ctp:115
+msgid "Message To"
+msgstr "Сообщение Для"
+
+#: Template/Message/compose.ctp:119
+msgid "Teachers"
+msgstr "Учителя"
+
+#: Template/Message/compose.ctp:120
+msgid "Parents"
+msgstr "родители"
+
+#: Template/Message/compose.ctp:189
+msgid "Enter Subject "
+msgstr "введите тему "
+
+#: Template/Message/compose.ctp:194
+msgid "Message Comment"
+msgstr "Как сообщение"
+
+#: Template/Message/compose.ctp:196
+msgid "Enter Message Comment "
+msgstr "Введите сообщение Хау "
+
+#: Template/Message/compose.ctp:201 Template/Notice/addnotice.ctp:167
+#: Template/Notice/updatenotice.ctp:182
+msgid "Send Mail "
+msgstr "Написать письмо "
+
+#: Template/Message/compose.ctp:210
+msgid "Send SMS"
+msgstr "Отправить SMS"
+
+#: Template/Message/compose.ctp:220
+msgid "SMS Text"
+msgstr "Текст SMS"
+
+#: Template/Message/compose.ctp:222
+msgid "Enter SMS Text "
+msgstr "Введите SMS текст "
+
+#: Template/Message/compose.ctp:223
+msgid "Max. 160 Character"
+msgstr "Максимум 160 символов"
+
+#: Template/Message/compose.ctp:230
+msgid "Send Message"
+msgstr "Отправить сообщение"
+
+#: Template/Message/inbox.ctp:57 Template/Message/sentbox.ctp:57
+msgid "Message For"
+msgstr "Сообщение для"
+
+#: Template/Message/view_inbox_message.ctp:72
+#: Template/Message/view_message.ctp:73
+msgid "From:"
+msgstr "от"
+
+#: Template/Message/view_inbox_message.ctp:72
+#: Template/Message/view_inbox_message.ctp:73
+#: Template/Message/view_message.ctp:73
+msgid "&gt"
+msgstr "& GT"
+
+#: Template/Message/view_inbox_message.ctp:73
+#: Template/Message/view_message.ctp:74
+msgid " To:"
+msgstr " к"
+
+#: Template/Message/view_inbox_message.ctp:79
+#: Template/Message/view_inbox_message.ctp:93
+#: Template/Message/view_message.ctp:80
+msgid "Are you sure you wish to delete this Record?"
+msgstr "Вы уверены, что хотите удалить эту запись?"
+
+#: Template/Message/view_inbox_message.ctp:88
+msgid "Reply By:"
+msgstr "Ответить Автор:"
+
+#: Template/Message/view_inbox_message.ctp:114
+#: Template/Message/view_message.ctp:96
+msgid "Replay"
+msgstr "переигровка"
+
+#: Template/Migration/migration.ctp:15
+msgid "Select Current Class"
+msgstr "Выберите Текущий класс"
+
+#: Template/Migration/migration.ctp:29 Template/Migration/migration.ctp:50
+#: Template/Migration/migration.ctp:72
+msgid "options"
+msgstr "опции"
+
+#: Template/Migration/migration.ctp:36
+msgid "Select Next Class"
+msgstr "Выберите следующий класс"
+
+#: Template/Migration/migration.ctp:80
+msgid "Passing Marks"
+msgstr "прохождение знаков"
+
+#: Template/Migration/migration.ctp:82
+msgid "Marks"
+msgstr "маркировка"
+
+#: Template/Migration/migration.ctp:88 Template/Report/attendance.ctp:105
+#: Template/Report/failed.ctp:146 Template/Report/feepayment.ctp:200
+#: Template/Report/result.ctp:136
+msgid "GO"
+msgstr "GO"
+
+#: Template/News/addnews.ctp:28 Template/News/addnews.ctp:96
+msgid "Edit News"
+msgstr "Редактировать Новости"
+
+#: Template/News/addnews.ctp:30 Template/News/addnews.ctp:98
+#: Template/News/newslist.ctp:87
+msgid "Add News"
+msgstr "Добавить Новости"
+
+#: Template/News/addnews.ctp:43
+msgid "News Title "
+msgstr "Заголовок новости "
+
+#: Template/News/addnews.ctp:45
+msgid "Enter News Title "
+msgstr "Введите Заголовок новости "
+
+#: Template/News/addnews.ctp:84
+msgid "Upload Document "
+msgstr "Загрузить документ "
+
+#: Template/Notice/addnotice.ctp:74 Template/Notice/addnotice.ctp:200
+#: Template/Notice/noticelist.ctp:157 Template/Notice/updatenotice.ctp:215
+msgid "Add Notice"
+msgstr "Добавить уведомление"
+
+#: Template/Notice/addnotice.ctp:88 Template/Notice/updatenotice.ctp:81
+msgid "Notice Title "
+msgstr "Заголовок "
+
+#: Template/Notice/addnotice.ctp:90 Template/Payment/addpayment.ctp:141
+msgid "Enter Notice Title "
+msgstr "Введите Заголовок "
+
+#: Template/Notice/addnotice.ctp:97 Template/Notice/updatenotice.ctp:90
+msgid "Notice Comment "
+msgstr "Инструкции "
+
+#: Template/Notice/addnotice.ctp:99
+msgid "Enter Notice Comment "
+msgstr "Инструкции Как войти "
+
+#: Template/Notice/addnotice.ctp:105 Template/Notice/updatenotice.ctp:98
+msgid "Notice Start Date "
+msgstr "Начало Примечание Дата "
+
+#: Template/Notice/addnotice.ctp:107 Template/Notice/updatenotice.ctp:100
+msgid "Enter Notice Start date "
+msgstr "Введите Start Date Инструкции "
+
+#: Template/Notice/addnotice.ctp:112 Template/Notice/updatenotice.ctp:105
+msgid "Notice End Date "
+msgstr "Инструкции Дата окончания "
+
+#: Template/Notice/addnotice.ctp:114 Template/Notice/updatenotice.ctp:107
+msgid "Enter Notice End date "
+msgstr "Инструкции Введите дату окончания "
+
+#: Template/Notice/addnotice.ctp:120 Template/Notice/updatenotice.ctp:113
+msgid "Notice For "
+msgstr "Для инструкций "
+
+#: Template/Notice/addnotice.ctp:176 Template/Notice/updatenotice.ctp:190
+msgid "Send SMS "
+msgstr "Отправить SMS "
+
+#: Template/Notice/addnotice.ctp:190 Template/Notice/updatenotice.ctp:204
+msgid "SMS Text "
+msgstr "Текст SMS "
+
+#: Template/Notice/addnotice.ctp:192 Template/Notice/updatenotice.ctp:206
+msgid "Enter Message "
+msgstr "введите сообщение "
+
+#: Template/Notice/noticelist.ctp:262
+msgid "Not Available Any Notice"
+msgstr "Не доступно Любое уведомление"
+
+#: Template/Notice/updatenotice.ctp:67
+msgid "Edit Notice"
+msgstr "Изменить инструкции"
+
+#: Template/Parent/addparent.ctp:25 Template/Parent/parentlist.ctp:123
+#: Template/Parent/updateparent.ctp:24
+msgid "Parent List"
+msgstr "Список родитель"
+
+#: Template/Parent/addparent.ctp:28 Template/Parent/addparent.ctp:163
+#: Template/Parent/parentlist.ctp:126
+msgid "Add Parent"
+msgstr "Добавить Parent"
+
+#: Template/Parent/addparent.ctp:36 Template/Parent/updateparent.ctp:40
+#: Template/Staff/addstaff.ctp:29 Template/Staff/updatestaff.ctp:28
+#: Template/Student/addstudent.ctp:70 Template/Student/registration.ctp:98
+#: Template/Student/updatestudent.ctp:68 Template/Teacher/addteacher.ctp:32
+#: Template/Teacher/updateteacher.ctp:34
+msgid "Personal Info"
+msgstr "Личная информация"
+
+#: Template/Parent/addparent.ctp:69 Template/Staff/addstaff.ctp:49
+#: Template/Student/addstudent.ctp:117 Template/Teacher/addteacher.ctp:65
+#: Template/Teacher/updateteacher.ctp:65
+msgid "Enter Birth Date "
+msgstr "Введите дату рождения "
+
+#: Template/Parent/addparent.ctp:72 Template/Parent/updateparent.ctp:77
+msgid "Select Child "
+msgstr "Выберите Детский "
+
+#: Template/Parent/addparent.ctp:85 Template/Parent/updateparent.ctp:101
+msgid "Select Relation "
+msgstr "Эксклюзивные отношения "
+
+#: Template/Parent/addparent.ctp:87
+msgid "Father "
+msgstr "отец "
+
+#: Template/Parent/addparent.ctp:87
+msgid "Mother "
+msgstr "мать "
+
+#: Template/Parent/addparent.ctp:92 Template/Parent/updateparent.ctp:108
+msgid "Add Child"
+msgstr "Добавить ребенка"
+
+#: Template/Parent/addparent.ctp:93 Template/Parent/updateparent.ctp:109
+msgid "Remove Child"
+msgstr "Удалить ребенка"
+
+#: Template/Parent/addparent.ctp:101 Template/Staff/addstaff.ctp:70
+#: Template/Student/updatestudent.ctp:136 Template/Teacher/addteacher.ctp:79
+#: Template/Teacher/updateteacher.ctp:88
+msgid "Enter Valid Address "
+msgstr "Введите адрес Valid "
+
+#: Template/Parent/addparent.ctp:120 Template/Parent/updateparent.ctp:136
+#: Template/Staff/addstaff.ctp:89 Template/Staff/updatestaff.ctp:89
+#: Template/Student/addstudent.ctp:156 Template/Student/registration.ctp:183
+#: Template/Student/updatestudent.ctp:155 Template/Teacher/addteacher.ctp:98
+#: Template/Teacher/updateteacher.ctp:107
+msgid "Contact"
+msgstr "Контакты"
+
+#: Template/Parent/addparent.ctp:127 Template/Staff/addstaff.ctp:96
+#: Template/Student/addstudent.ctp:163 Template/Student/updatestudent.ctp:162
+#: Template/Teacher/addteacher.ctp:105
+msgid "Enter Mobile Number "
+msgstr "Введите номер мобильного телефона "
+
+#: Template/Parent/addparent.ctp:132 Template/Staff/addstaff.ctp:110
+#: Template/Student/addstudent.ctp:177 Template/Student/updatestudent.ctp:176
+#: Template/Teacher/addteacher.ctp:119 Template/Teacher/updateteacher.ctp:128
+msgid "Enter Phone Number "
+msgstr "Введите номер телефона "
+
+#: Template/Parent/addparent.ctp:135 Template/Parent/updateparent.ctp:151
+#: Template/Staff/addstaff.ctp:113 Template/Staff/updatestaff.ctp:113
+#: Template/Student/addstudent.ctp:180 Template/Student/registration.ctp:207
+#: Template/Student/updatestudent.ctp:179 Template/Teacher/addteacher.ctp:122
+#: Template/Teacher/updateteacher.ctp:131
+msgid "Authorize Info"
+msgstr "Авторизоваться информация"
+
+#: Template/Parent/addparent.ctp:139 Template/Staff/addstaff.ctp:117
+#: Template/Student/addstudent.ctp:184 Template/Student/updatestudent.ctp:183
+#: Template/Teacher/addteacher.ctp:126 Template/Teacher/updateteacher.ctp:135
+msgid "Enter Valid Email "
+msgstr "Введите действительный адрес электронной почты "
+
+#: Template/Parent/addparent.ctp:142 Template/Parent/updateparent.ctp:158
+#: Template/Smssetting/smssetting.ctp:81 Template/Staff/addstaff.ctp:120
+#: Template/Staff/updatestaff.ctp:120 Template/Student/addstudent.ctp:187
+#: Template/Student/registration.ctp:214 Template/Student/updatestudent.ctp:186
+#: Template/Teacher/addteacher.ctp:129 Template/Teacher/updateteacher.ctp:138
+msgid "Username "
+msgstr "имя пользователя "
+
+#: Template/Parent/addparent.ctp:144 Template/Staff/addstaff.ctp:122
+#: Template/Student/addstudent.ctp:189 Template/Teacher/addteacher.ctp:131
+msgid "Enter Valid Username "
+msgstr "Введите действительное имя пользователя "
+
+#: Template/Parent/addparent.ctp:148 Template/Smssetting/smssetting.ctp:87
+#: Template/Staff/addstaff.ctp:126 Template/Student/addstudent.ctp:193
+#: Template/Student/registration.ctp:220 Template/Teacher/addteacher.ctp:135
+msgid "Password "
+msgstr "пароль "
+
+#: Template/Parent/addparent.ctp:153 Template/Parent/updateparent.ctp:163
+#: Template/Staff/addstaff.ctp:131 Template/Staff/updatestaff.ctp:125
+#: Template/Student/addstudent.ctp:198 Template/Student/registration.ctp:225
+#: Template/Student/updatestudent.ctp:191 Template/Teacher/addteacher.ctp:140
+#: Template/Teacher/updateteacher.ctp:143
+msgid "Other Info"
+msgstr "Другая информация"
+
+#: Template/Parent/parentlist.ctp:172
+msgid "View Child"
+msgstr "Подходит для детей"
+
+#: Template/Parent/parentlist.ctp:192
+msgid "Not Available Any Parents"
+msgstr "Не Доступно Любые родители"
+
+#: Template/Parent/parentlist.ctp:205
+msgid "Child of Parent"
+msgstr "Ребенок Родитель"
+
+#: Template/Parent/updateparent.ctp:27
+msgid "Edit Parent"
+msgstr "Редактировать родитель"
+
+#: Template/Parent/updateparent.ctp:74
+msgid "Enter Birth Date"
+msgstr "Введите дату рождения"
+
+#: Template/Parent/updateparent.ctp:103
+msgid "Father"
+msgstr "отец"
+
+#: Template/Parent/updateparent.ctp:103
+msgid "Mother"
+msgstr "мать"
+
+#: Template/Parent/updateparent.ctp:117
+msgid "Enter Valid Address"
+msgstr "Введите адрес Valid"
+
+#: Template/Parent/updateparent.ctp:185
+msgid "Save Parent"
+msgstr "Сохранить родитель"
+
+#: Template/Payment/addexpense.ctp:17
+msgid "Edit Expense"
+msgstr "Изменение расходов"
+
+#: Template/Payment/addexpense.ctp:65 Template/Payment/addincome.ctp:212
+#: Template/Payment/addpayment.ctp:240
+msgid "Select Status"
+msgstr "Выбор Статус"
+
+#: Template/Payment/addexpense.ctp:80
+msgid "Enter Date "
+msgstr "введите Дату "
+
+#: Template/Payment/addincome.ctp:93
+msgid "Edit Income"
+msgstr "Изменение доходов"
+
+#: Template/Payment/addpayment.ctp:139
+msgid "Title "
+msgstr "название "
+
+#: Template/Payment/addpayment.ctp:185
+msgid "Student "
+msgstr "студент "
+
+#: Template/Payment/addpayment.ctp:234
+msgid "Status "
+msgstr "статус "
+
+#: Template/Payment/expenselist.ctp:231
+msgid " View Expense "
+msgstr " Просмотр расходов "
+
+#: Template/Payment/expenselist.ctp:291
+msgid "Not Available Any Expense"
+msgstr "Не доступно Любые расходы"
+
+#: Template/Payment/incomelist.ctp:244
+msgid " View Income\t"
+msgstr " Просмотр Доход \ т"
+
+#: Template/Payment/incomelist.ctp:279
+msgid "Not Available Any Income"
+msgstr "Не доступно Неважно Доход"
+
+#: Template/Payment/paymentlist.ctp:256
+msgid " View Payment "
+msgstr " Вид оплаты "
+
+#: Template/Payment/paymentlist.ctp:285
+msgid "Not Available Any Payment"
+msgstr "Не Доступно Любая Оплаты"
+
+#: Template/Report/attendance.ctp:23 Template/Report/failed.ctp:58
+#: Template/Report/feepayment.ctp:86 Template/Report/result.ctp:56
+#: Template/Report/teacher.ctp:21
+msgid "Student Failed Report"
+msgstr "Ошибка Student Report"
+
+#: Template/Report/attendance.ctp:30 Template/Report/attendance.ctp:134
+#: Template/Report/failed.ctp:65 Template/Report/feepayment.ctp:93
+#: Template/Report/result.ctp:63 Template/Report/teacher.ctp:24
+msgid "Attendance Report"
+msgstr "Участники Отчет"
+
+#: Template/Report/attendance.ctp:35 Template/Report/failed.ctp:70
+#: Template/Report/feepayment.ctp:98 Template/Report/result.ctp:68
+#: Template/Report/teacher.ctp:27
+msgid "Teacher Performance Report"
+msgstr "Преподаватель Отчет об эффективности"
+
+#: Template/Report/attendance.ctp:40 Template/Report/failed.ctp:75
+#: Template/Report/feepayment.ctp:103 Template/Report/result.ctp:73
+#: Template/Report/teacher.ctp:30
+msgid "Fee Payment Report"
+msgstr "Плата оплаты Отчет"
+
+#: Template/Report/attendance.ctp:45 Template/Report/failed.ctp:80
+#: Template/Report/feepayment.ctp:108 Template/Report/result.ctp:78
+#: Template/Report/teacher.ctp:33
+msgid "Result Report"
+msgstr "Отчет о результатах"
+
+#: Template/Report/attendance.ctp:147 Template/Report/failed.ctp:179
+#: Template/Report/teacher.ctp:75
+msgid "No of Student"
+msgstr "Нет Стьюдента"
+
+#: Template/Report/attendance.ctp:175 Template/Report/failed.ctp:209
+#: Template/Report/teacher.ctp:102
+msgid "Result Not Found !"
+msgstr "Результат не найден!"
+
+#: Template/Report/failed.ctp:97 Template/Report/result.ctp:93
+msgid "Select Exam Name"
+msgstr "Выберите Экзамен Название"
+
+#: Template/Report/failed.ctp:149
+msgid "No. of Student Fail"
+msgstr "Количество Студенческой Терпит неудачу"
+
+#: Template/Report/failed.ctp:167
+msgid "Exam Failed Report"
+msgstr "Failed экзамен Report"
+
+#: Template/Report/feepayment.ctp:161
+msgid "Start Year"
+msgstr "Год начала"
+
+#: Template/Report/feepayment.ctp:163
+msgid "---Start Year---"
+msgstr "Год начала --- ---"
+
+#: Template/Report/feepayment.ctp:180
+msgid "End Year"
+msgstr "Конец года"
+
+#: Template/Report/feepayment.ctp:182
+msgid "---End Year---"
+msgstr "--- --- Конец года"
+
+#: Template/Report/teacher.ctp:45
+msgid "Pass"
+msgstr "Pass"
+
+#: Template/Report/teacher.ctp:45
+msgid "Fail"
+msgstr "терпеть неудачу"
+
+#: Template/Report/teacher.ctp:63
+msgid "Teacher Perfomance Report"
+msgstr "Учитель Perfomance Report"
+
+#: Template/Setting/generalsetting.ctp:16
+msgid "School Name"
+msgstr "Название школы"
+
+#: Template/Setting/generalsetting.ctp:22
+msgid "School Icon"
+msgstr "Школа Иконка"
+
+#: Template/Setting/generalsetting.ctp:42
+msgid "Enter Start Time"
+msgstr "Введите Start Time"
+
+#: Template/Setting/generalsetting.ctp:46
+msgid "School Address "
+msgstr "Школа Адрес "
+
+#: Template/Setting/generalsetting.ctp:48
+msgid "Enter School Address"
+msgstr "Введите адрес школы"
+
+#: Template/Setting/generalsetting.ctp:52
+msgid "Office Phone Number "
+msgstr "Офис Телефон "
+
+#: Template/Setting/generalsetting.ctp:54
+msgid "Enter Office Phone Number"
+msgstr "Введите номер телефона офиса"
+
+#: Template/Setting/generalsetting.ctp:58
+msgid "Country "
+msgstr "страна "
+
+#: Template/Setting/generalsetting.ctp:75
+msgid "System Language "
+msgstr "Язык системы "
+
+#: Template/Setting/generalsetting.ctp:81
+msgid "English/en"
+msgstr "Английский / ан"
+
+#: Template/Setting/generalsetting.ctp:82
+msgid "Arabic/ar"
+msgstr "Arabic / ар"
+
+#: Template/Setting/generalsetting.ctp:83
+msgid "Chinese/zh-CH"
+msgstr "Китайский / ж-СН"
+
+#: Template/Setting/generalsetting.ctp:84
+msgid "Czech/cs"
+msgstr "Чехия / CS"
+
+#: Template/Setting/generalsetting.ctp:85
+msgid "French/fr"
+msgstr "Французский / ан"
+
+#: Template/Setting/generalsetting.ctp:86
+msgid "German/de"
+msgstr "Немецкий / де"
+
+#: Template/Setting/generalsetting.ctp:87
+msgid "Greek/el"
+msgstr "Греческий / эль"
+
+#: Template/Setting/generalsetting.ctp:88
+msgid "Italian/it"
+msgstr "Итальянский / это"
+
+#: Template/Setting/generalsetting.ctp:89
+msgid "Japan/ja"
+msgstr "Япония / я"
+
+#: Template/Setting/generalsetting.ctp:90
+msgid "Polish/pl"
+msgstr "Польский / пл"
+
+#: Template/Setting/generalsetting.ctp:91
+msgid "Portuguese-BR/pt-BR"
+msgstr "Portuguese-BR / PT-BR"
+
+#: Template/Setting/generalsetting.ctp:92
+msgid "Portuguese-PT/pt-PT"
+msgstr "Portuguese-PT / PT-PT"
+
+#: Template/Setting/generalsetting.ctp:93
+msgid "Persian"
+msgstr "перс"
+
+#: Template/Setting/generalsetting.ctp:94
+msgid "Russian/ru"
+msgstr "Русский / RU"
+
+#: Template/Setting/generalsetting.ctp:95
+msgid "Spanish/es"
+msgstr "Испанский / эс"
+
+#: Template/Setting/generalsetting.ctp:96
+msgid "Thai/th"
+msgstr "Тайский / й"
+
+#: Template/Setting/generalsetting.ctp:97
+msgid "Turkish/tr"
+msgstr "Турецкая / тр"
+
+#: Template/Setting/generalsetting.ctp:106
+msgid "Set Language to RTL "
+msgstr "Установка языка для RTL "
+
+#: Template/Setting/generalsetting.ctp:113
+#: Template/Setting/generalsetting.ctp:117
+#: Template/Setting/generalsetting.ctp:169
+#: Template/Setting/generalsetting.ctp:173
+#: Template/Setting/generalsetting.ctp:233
+#: Template/Setting/generalsetting.ctp:245
+#: Template/Setting/generalsetting.ctp:266
+#: Template/Setting/generalsetting.ctp:305
+msgid "Enable"
+msgstr "Включить"
+
+#: Template/Setting/generalsetting.ctp:129
+msgid "School Logo "
+msgstr "Школа Logo "
+
+#: Template/Setting/generalsetting.ctp:146
+msgid "Profile Cover Image "
+msgstr "Профиль обложка "
+
+#: Template/Setting/generalsetting.ctp:163
+msgid "Enable Sandbox "
+msgstr "Включить Песочница "
+
+#: Template/Setting/generalsetting.ctp:179
+msgid "Paypal Email Id "
+msgstr "Paypal Email Id "
+
+#: Template/Setting/generalsetting.ctp:205
+msgid "Select Date Format"
+msgstr "Выберите Формат даты"
+
+#: Template/Setting/generalsetting.ctp:221
+msgid "Message Setting"
+msgstr "Настройка сообщений"
+
+#: Template/Setting/generalsetting.ctp:225
+msgid "Parent can send message to class students "
+msgstr "Родитель может отправлять сообщения студентов класса "
+
+#: Template/Setting/generalsetting.ctp:237
+msgid " Student can send message to each other "
+msgstr " Студент может отправлять сообщения друг другу "
+
+#: Template/Setting/generalsetting.ctp:253
+msgid "Fees Alert Message Setting"
+msgstr "Плата оповещения Настройки сообщений"
+
+#: Template/Setting/generalsetting.ctp:258
+msgid "Enable Alert Mail"
+msgstr "Включение почтового уведомления"
+
+#: Template/Setting/generalsetting.ctp:272
+msgid "Reminder Message"
+msgstr "Напоминание сообщение"
+
+#: Template/Setting/generalsetting.ctp:281
+msgid "ShortCodes For Notification Mail Message"
+msgstr "Для Шорткоды уведомления почтового сообщения"
+
+#: Template/Setting/generalsetting.ctp:283
+msgid "Parent Name -> PARENT_NAME"
+msgstr "Имя родителя -> PARENT_NAME"
+
+#: Template/Setting/generalsetting.ctp:284
+msgid "Child Name -> CHILD_NAME"
+msgstr "Имя ребенка -> child_name"
+
+#: Template/Setting/generalsetting.ctp:285
+msgid "Fees Type -> FEES_TYPE"
+msgstr "Тарифы Вид -> FEES_TYPE"
+
+#: Template/Setting/generalsetting.ctp:286
+msgid "Due Amount -> DUE_AMOUNT"
+msgstr "Из Сумма -> DUE_AMOUNT"
+
+#: Template/Setting/generalsetting.ctp:293
+msgid "Teacher Access Setting"
+msgstr "Настройка доступа учителей"
+
+#: Template/Setting/generalsetting.ctp:297
+msgid "Teacher can manage all subject marks "
+msgstr "Учитель может управлять всеми предметными знаками "
+
+#: Template/Smssetting/smssetting.ctp:44
+msgid "Select Message Service "
+msgstr "Выбор службы сообщений "
+
+#: Template/Smssetting/smssetting.ctp:53 Template/Smssetting/smssetting.ctp:61
+#: Template/Smssetting/smssetting.ctp:67
+msgid "Clickatell"
+msgstr "Clickatell"
+
+#: Template/Smssetting/smssetting.ctp:55 Template/Smssetting/smssetting.ctp:63
+#: Template/Smssetting/smssetting.ctp:69
+msgid "Twilio"
+msgstr "Twilio"
+
+#: Template/Smssetting/smssetting.ctp:93
+msgid "API Key "
+msgstr "API Key "
+
+#: Template/Smssetting/smssetting.ctp:99
+msgid "Sender ID "
+msgstr "ID отправителя "
+
+#: Template/Smssetting/smssetting.ctp:108
+msgid "Account SID "
+msgstr "Счет SID "
+
+#: Template/Smssetting/smssetting.ctp:114
+msgid "Auth Token "
+msgstr "токен аутентификации "
+
+#: Template/Smssetting/smssetting.ctp:120
+msgid "From Number "
+msgstr "из числа "
+
+#: Template/Staff/addstaff.ctp:17 Template/Staff/stafflist.ctp:87
+#: Template/Staff/updatestaff.ctp:17
+msgid "Support Staff List"
+msgstr "Список сотрудников Поддержка"
+
+#: Template/Staff/addstaff.ctp:20 Template/Staff/stafflist.ctp:90
+msgid "Add New Support Staff"
+msgstr "Добавить персонал Новой поддержки"
+
+#: Template/Staff/addstaff.ctp:104 Template/Student/addstudent.ctp:171
+#: Template/Student/updatestudent.ctp:170 Template/Teacher/addteacher.ctp:113
+#: Template/Teacher/updateteacher.ctp:122
+msgid "Enter Alternate Mobile Number "
+msgstr "Введите альтернативный номер мобильного телефона "
+
+#: Template/Staff/addstaff.ctp:133 Template/Staff/updatestaff.ctp:127
+#: Template/Teacher/addteacher.ctp:142 Template/Teacher/updateteacher.ctp:145
+msgid "Working Hour "
+msgstr "рабочий час "
+
+#: Template/Staff/addstaff.ctp:135 Template/Staff/updatestaff.ctp:129
+#: Template/Teacher/addteacher.ctp:144 Template/Teacher/updateteacher.ctp:147
+msgid "Full Time "
+msgstr "полное время "
+
+#: Template/Staff/addstaff.ctp:135 Template/Staff/updatestaff.ctp:129
+#: Template/Teacher/addteacher.ctp:144 Template/Teacher/updateteacher.ctp:147
+msgid "Part Time "
+msgstr "Неполная "
+
+#: Template/Staff/addstaff.ctp:135 Template/Staff/updatestaff.ctp:129
+#: Template/Teacher/addteacher.ctp:144 Template/Teacher/updateteacher.ctp:147
+msgid "(Select Job Time)"
+msgstr "(Выбор времени работы)"
+
+#: Template/Staff/addstaff.ctp:138 Template/Staff/addstaff.ctp:140
+#: Template/Staff/updatestaff.ctp:132 Template/Teacher/addteacher.ctp:147
+#: Template/Teacher/addteacher.ctp:149 Template/Teacher/updateteacher.ctp:150
+#: Template/Teacher/updateteacher.ctp:152
+msgid "Enter Position "
+msgstr "введите позиции "
+
+#: Template/Staff/addstaff.ctp:152
+msgid "Add Support Staff"
+msgstr "Добавить персонал поддержки"
+
+#: Template/Staff/stafflist.ctp:154
+msgid "Not Available Any Support Staff"
+msgstr "Не Доступно Любой Персонал Поддержка"
+
+#: Template/Staff/updatestaff.ctp:20
+msgid "Edit Support Staff"
+msgstr "Персонал Редактировать Поддержка"
+
+#: Template/Staff/updatestaff.ctp:158
+msgid "Save Support Staff"
+msgstr "Сохранить персонал поддержки"
+
+#: Template/Student/addstudent.ctp:89 Template/Student/registration.ctp:117
+#: Template/Student/updatestudent.ctp:88
+msgid "Roll Number "
+msgstr "рулон Количество "
+
+#: Template/Student/addstudent.ctp:142
+msgid "Enter State"
+msgstr "введите государство"
+
+#: Template/Student/addstudent.ctp:153
+msgid "Enter PinCode"
+msgstr "введите пин-код"
+
+#: Template/Student/exportcsv.ctp:10 Template/Student/uploadcsv.ctp:10
+msgid "Upload Student CSV"
+msgstr "Загрузить CSV Студента"
+
+#: Template/Student/exportcsv.ctp:13 Template/Student/uploadcsv.ctp:14
+msgid "Export Student"
+msgstr "Экспорт Student"
+
+#: Template/Student/exportcsv.ctp:24
+msgid "Select Class : "
+msgstr "Выбрать Класс: "
+
+#: Template/Student/exportcsv.ctp:38 Template/Student/exportcsv.ctp:39
+msgid "Export IN CSV"
+msgstr "Экспорт CSV IN"
+
+#: Template/Student/registration.ctp:104
+msgid "Seclect Class"
+msgstr "Seclect Класс"
+
+#: Template/Student/studentlist.ctp:281
+msgid "Not Available Any Students"
+msgstr "Любые Студенты Нет в наличии"
+
+#: Template/Student/uploadcsv.ctp:35
+msgid "Select CSV Files :"
+msgstr "Выберите CSV-файлы"
+
+#: Template/Student/uploadcsv.ctp:46 Template/Student/uploadcsv.ctp:47
+msgid "Upload CSV File"
+msgstr "CSV Загрузить файл"
+
+#: Template/Subject/addsubject.ctp:54 Template/Subject/addsubject.ctp:56
+#: Template/Subject/updatesubject.ctp:53
+msgid "Enter Subject Name "
+msgstr "Введите Subject Имя "
+
+#: Template/Subject/addsubject.ctp:88 Template/Subject/updatesubject.ctp:91
+msgid "Edition "
+msgstr "издание "
+
+#: Template/Subject/addsubject.ctp:90
+msgid "Enter Edition "
+msgstr "введите издание "
+
+#: Template/Subject/addsubject.ctp:101 Template/Subject/updatesubject.ctp:104
+msgid "Select Syllabus "
+msgstr "Выберите Силабус "
+
+#: Template/Subject/subjectlist.ctp:112 Template/Subject/subjectlist.ctp:123
+msgid "Edition"
+msgstr "издание"
+
+#: Template/Subject/subjectlist.ctp:178
+msgid "Not Available Any Subject"
+msgstr "Не имеется какой-либо предмет"
+
+#: Template/Subject/updatesubject.ctp:44
+msgid "Edit Subject"
+msgstr "Изменить тему"
+
+#: Template/Subject/updatesubject.ctp:113
+msgid "Save Subject"
+msgstr "Сохранить Subject"
+
+#: Template/Teacher/addteacher.ctp:23 Template/Teacher/addteacher.ctp:183
+#: Template/Teacher/teacherlist.ctp:88
+msgid "Add Teacher"
+msgstr "Добавить Учитель"
+
+#: Template/Teacher/addteacher.ctp:158
+msgid "Submitted Documents"
+msgstr "Документы, представленные"
+
+#: Template/Teacher/addteacher.ctp:175 Template/Teacher/updateteacher.ctp:182
+msgid "Curriculum Vitae"
+msgstr "резюме"
+
+#: Template/Teacher/addteacher.ctp:175 Template/Teacher/updateteacher.ctp:182
+msgid "Education Certificate"
+msgstr "Сертификат Образование"
+
+#: Template/Teacher/addteacher.ctp:175 Template/Teacher/updateteacher.ctp:182
+msgid "Experience Certificate"
+msgstr "Сертификат Опыт"
+
+#: Template/Teacher/teacherlist.ctp:163
+msgid "Not Available Any Teachers"
+msgstr "Не Доступно Любые Учителя"
+
+#: Template/Teacher/updateteacher.ctp:26
+msgid "Edit Teacher"
+msgstr "Изменить Учитель"
+
+#: Template/Teacher/updateteacher.ctp:173
+msgid "Submitted Documents "
+msgstr "Документы, представленные "
+
+#: Template/Teacher/updateteacher.ctp:189
+msgid "Save Teacher"
+msgstr "Сохранить учитель"
+
+#: Template/Teacherrights/accessteacher.ctp:13
+msgid "Teacher Access Rights"
+msgstr "Права доступа учителей"
+
+#: Template/Teacherrights/accessteacher.ctp:26
+#: Template/Teacherrights/accessteacher.ctp:36
+msgid "Menu"
+msgstr "меню"
+
+#: Template/Teacherrights/accessteacher.ctp:176
+#: Template/Teacherrights/teacheraccessright.ctp:58
+msgid "Save Rights"
+msgstr "Сохранение прав"
+
+#: Template/Teacherrights/teacheraccessright.ctp:26
+msgid "View Subjects"
+msgstr "Просмотр Испытуемые"
+
+#: Template/Teacherrights/teacheraccessright.ctp:30
+msgid "All Subjects"
+msgstr "Все предметы"
+
+#: Template/Teacherrights/teacheraccessright.ctp:31
+msgid "Only Own Class Subjects"
+msgstr "Только класс подданных"
+
+#: Template/Teacherrights/teacheraccessright.ctp:32
+msgid "Only Own Subjects"
+msgstr "Только собственные предметы"
+
+#: Template/Teacherrights/teacheraccessright.ctp:37
+msgid "View Students"
+msgstr "Просмотр Студенты"
+
+#: Template/Teacherrights/teacheraccessright.ctp:41
+msgid "All Students"
+msgstr "Все студенты"
+
+#: Template/Teacherrights/teacheraccessright.ctp:42
+msgid "Only Own Class Students"
+msgstr "Только собственные Студенты класса"
+
+#: Template/Teacherrights/teacheraccessright.ctp:47
+msgid "Students Attendance"
+msgstr "Студенты Участники"
+
+#: Template/Teacherrights/teacheraccessright.ctp:51
+msgid "All Students Attendance"
+msgstr "Все студенты Участники"
+
+#: Template/Teacherrights/teacheraccessright.ctp:52
+msgid "Only Own Subject Students Attendance"
+msgstr "Только Own Тема Студенты Участники"
+
+#: Template/Teacherrights/teacheraccessright.ctp:53
+msgid "Only Own Class Students Attendance"
+msgstr "Только Студенты посещений своего класса"
+
+#: Template/Templet/parentdash.ctp:55 Template/Templet/studentdash.ctp:55
+#: Template/Templet/supportstaffdash.ctp:55 Template/Templet/teacherdash.ctp:55
+msgid "Today Attendance"
+msgstr "Сегодня посещаемость"
+
+#: Template/Templet/teacherdash.ctp:163
+msgid "My Time Table  "
+msgstr "My Time Таблица  "
+
+#: Template/Templet/templet.ctp:52
+msgid "Today attendence"
+msgstr "Сегодня attendence"
+
+#: Template/Transport/addtransport.ctp:15
+#: Template/Transport/addtransport.ctp:98
+#: Template/Transport/transportlist.ctp:97
+#: Template/Transport/updatetransport.ctp:15
+msgid "Add Transport"
+msgstr "Добавить Транспорт"
+
+#: Template/Transport/addtransport.ctp:28
+#: Template/Transport/updatetransport.ctp:27
+msgid "Route Name "
+msgstr "дорога Имя "
+
+#: Template/Transport/addtransport.ctp:30
+msgid "Enter Route Name "
+msgstr "Введите название маршрута "
+
+#: Template/Transport/addtransport.ctp:35
+#: Template/Transport/updatetransport.ctp:34
+msgid "Vehicle identifier "
+msgstr "идентификация автомобиля "
+
+#: Template/Transport/addtransport.ctp:37
+msgid "Enter Vehicle Identifier "
+msgstr "Идентификация автомобиля Введите "
+
+#: Template/Transport/addtransport.ctp:42
+#: Template/Transport/updatetransport.ctp:41
+msgid "Vehicle Registration Number "
+msgstr "Автомобиль Номер регистрации "
+
+#: Template/Transport/addtransport.ctp:44
+msgid "Enter Vehicle Registration Number "
+msgstr "Введите регистрационный номер транспортного средства "
+
+#: Template/Transport/addtransport.ctp:50
+#: Template/Transport/updatetransport.ctp:49
+msgid "Driver Name "
+msgstr "водитель Имя "
+
+#: Template/Transport/addtransport.ctp:52
+msgid "Enter Driver Name "
+msgstr "Введите имя драйвера "
+
+#: Template/Transport/addtransport.ctp:57
+#: Template/Transport/updatetransport.ctp:56
+msgid "Driver Phone Number "
+msgstr "Драйвер телефона "
+
+#: Template/Transport/addtransport.ctp:59
+msgid "Enter Driver Phone Number "
+msgstr "Драйвер Введите номер телефона "
+
+#: Template/Transport/addtransport.ctp:65
+#: Template/Transport/updatetransport.ctp:64
+msgid "Driver Address "
+msgstr "усилитель-формирователь адреса "
+
+#: Template/Transport/addtransport.ctp:67
+msgid "Enter Driver Address "
+msgstr "Введите адрес водителя "
+
+#: Template/Transport/addtransport.ctp:89
+#: Template/Transport/updatetransport.ctp:100
+msgid "Route Fare "
+msgstr "маршрут Fare "
+
+#: Template/Transport/addtransport.ctp:91
+msgid "Enter Route Fare "
+msgstr "Введите Маршрут Fare "
+
+#: Template/Transport/transportlist.ctp:177
+msgid "Not Available Any Transport"
+msgstr "Не доступно Неважно Транспорт"
+
+#: Template/Transport/updatetransport.ctp:7
+msgid "EditTransport"
+msgstr "EditTransport"
+
+#: Template/Transport/updatetransport.ctp:109
+msgid "Edit Transport"
+msgstr "Изменить Транспорт"
+
+#: Template/User/forgetpassword.ctp:26
+msgid "New Password Save"
+msgstr "Новый пароль Сохранить"
+
+#: Template/User/forgetpassword.ctp:29
+msgid "Back To Login Page"
+msgstr "Вернуться на страницу входа"
+
+#: Template/User/user.ctp:14 Template/User/user.ctp:23
+msgid "Login"
+msgstr "Войти"
+
+#: Template/User/user.ctp:26
+msgid "Forget Password"
+msgstr "Забыть пароль"
+
